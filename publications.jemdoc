@@ -1,0 +1,56 @@
+# jemdoc: menu{MENU}{publications.html}, notime
+= Publications
+
+== Dissertation
+. Namhoon Cho, "*Nonlinear Guidance Law for Three-Dimensional Path-Following Based on Differential Geometry*," /Ph.D. Dissertation/, Department of Mechanical and Aerospace Engineering, Seoul National University, 2017.\n [http://hdl.handle.net/10371/118598 Link]
+
+== International Journal
+#. Seonghun Kim, Namhoon Cho, and Youdan Kim, "*Frequency Limiting in MRAC*," /IEEE Transactions on Control Systems Technology/, Under Review, 2018.
+. Jaeho Lee, Namhoon Cho, and Youdan Kim, "*Analysis of Missile Longitudinal Autopilot Based on the State-Dependent Riccati Equation Method*," /Journal of Guidance, Control, and Dynamics/, Under Review, 2018.
+. Namhoon Cho, Suwon Lee, Jinrae Kim, Youdan Kim, Sanghyuk Park, and Chanho Song, "*Wind Compensation Framework for Unpowered-Aircraft Using Online Waypoint Correction*," /IEEE Transactions on Aerospace and Electronic Systems/, Under Review, 2018.
+. Seokwon Lee, Sungjun Ann, Namhoon Cho, and Youdan Kim, "*Capturability of Guidance Laws for Interception of Nonmaneuvering Target with Limited Field-of-View*," /Journal of Guidance, Control, and Dynamics/, Accepted for Publication, 2018.\n [https://dx.doi.org/10.2514/1.G003860 DOI:10.2514/1.G003860]
+. Sungjun Ann, Namhoon Cho, Youdan Kim, Sangjoon Shin, and Jaemyung Ahn, "*Response Surface Modeling-Based Analysis on Launch Vehicle Capability*," /Advances in Space Research/, Vol. 62, No. 12, 2018, pp. 3281-3297.\n [https://dx.doi.org/10.1016/j.asr.2018.03.007 DOI:10.1016/j.asr.2018.03.007]
+. Namhoon Cho, Hyo-Sang Shin, Youdan Kim, and Antonios Tsourdos, "*Composite Model Reference Adaptive Control with Parameter Convergence under Finite Excitation*," /IEEE Transactions on Automatic Control/, Vol. 63, No. 3, 2018, pp. 811-818.\n [https://dx.doi.org/10.1109/TAC.2017.2737324 DOI:10.1109/TAC.2017.2737324]
+. Youkyung Hong, Namhoon Cho, Youdan Kim, and Byunghun Choi, "*Multiobjective Optimization for Aircraft Arrival Sequencing and Scheduling*," /Journal of Air Transportation/, Vol. 25, No. 4, 2017, pp. 115-122.\n [https://dx.doi.org/10.2514/1.D0085 DOI:10.2514/1.D0085]
+. Namhoon Cho, and Youdan Kim, "*Optimality of Augmented Ideal Proportional Navigation for Maneuvering Target Interception*," /IEEE Transactions on Aerospace and Electronic Systems/, Vol. 52, No. 2, 2016, pp. 948-954.\n [https://dx.doi.org/10.1109/TAES.2015.140432 DOI:10.1109/TAES.2015.140432]
+. Namhoon Cho, and Youdan Kim, "*Modified Pure Proportional Navigation Guidance Law for Impact Time Control*," /Journal of Guidance, Control, and Dynamics/, Vol. 39, No. 4, 2016, pp. 852-872.\n [https://dx.doi.org/10.2514/1.G001618 DOI:10.2514/1.G001618]
+. Namhoon Cho, Youdan Kim, and Sanghyuk Park, "*Three-Dimensional Nonlinear Differential Geometric Path-Following Guidance Law*," /Journal of Guidance, Control, and Dynamics/, Vol. 38, No. 12, 2015, pp. 2366-2385.\n [https://dx.doi.org/10.2514/1.G001060 DOI:10.2514/1.G001060]
+. Chulwoo Park, Namhoon Cho, Kyunghyun Lee, and Youdan Kim, "*Formation Flight of Multiple UAVs Using Onboard Information Sharing*," /Sensors/, Vol. 15, No. 7, 2015, pp. 17397-17419.\n [https://dx.doi.org/10.3390/s150717397 DOI:10.3390/s150717397]
+
+== International Conference
+. Jinrae Kim, Namhoon Cho, and Youdan Kim, ``*Field-of-View Constrained Impact Angle Control Guidance with Error Convergence Before Interception*,'' /Guidance, Navigation, and Control Conference, AIAA Science and Technology Forum/, San Diego, CA, USA, January 2019, Accepted for Presentation.
+. Suwon Lee, Namhoon Cho, Jinrae Kim, and Youdan Kim, ``*Optimal Waypoint Planning for Gliding Vehicles Using Particle Swarm Optimization*,'' /10th Asia-Pacific International Symposium on Aerospace Technology/, Chengdu, China, October 2018. 
+#. Junsoo Lee, Namhoon Cho, and Youdan Kim, "*Smooth Trajectory Generation and Control of Multirotor with Slung Load*," /31st Congress of the International Council of the Aeronautical Sciences/, Belo Horizonte, Brazil, September 2018, Accepted for Presentation.
+. Seokwon Lee, Namhoon Cho, and Youdan Kim, "*Missile Guidance Based on Tracking of Predicted Target Trajectory*," /26th Mediterranean Conference on Control and Automation/, Zadar, Croatia, June 2018.\n [https://dx.doi.org/10.1109/MED.2018.8442895 DOI:10.1109/MED.2018.8442895]
+. Huiseong Song, Seokwon Lee, Namhoon Cho, and Youdan Kim, "*Cooperative Defense Strategy for Active Aircraft Protection Considering Launch Time of Defense Missile*," /16th European Control Conference/, Limassol, Cyprus, June 2018.\n [https://dx.doi.org/10.23919/ECC.2018.8550089 DOI:10.23919/ECC.2018.8550089]
+#. Junsoo Lee, Namhoon Cho, and Youdan Kim, "*Trajectory Generation and Control of Multirotor with Slung Payload for Suppressing Load Swing and Cable Collision*," /IEEE International Conference on Robotics and Automation/, Brisbane, Australia, May 2018, Rejected.
+. Namhoon Cho, Jaeho Lee, and Youdan Kim, "*Analytic Solution of Continuous-Time Algebraic Riccati Equation for Two-Dimensional Systems and Its Application to Wing-Rock Regulation*," /Guidance, Navigation, and Control Conference, AIAA Science and Technology Forum/, Kissimmee, FL, USA, January 2018.\n [https://dx.doi.org/10.2514/6.2018-0862 DOI:10.2514/6.2018-0862]
+. Junsoo Lee, Namhoon Cho, and Youdan Kim, "*Smooth Trajectory Generation and Control of Multirotor with Slung Load*," /9th Asia-Pacific International Symposium on Aerospace Technology/, Seoul, Korea, October 2017.
+. Namhoon Cho, Youdan Kim, and Hyo-Sang Shin, "*Generalization of Linearly Parametrized Trajectory Shaping Guidance Laws*," /20th IFAC World Congress/, Toulouse, France, July 2017.\n [https://dx.doi.org/10.1016/j.ifacol.2017.08.1403 DOI:10.1016/j.ifacol.2017.08.1403]
+. Namhoon Cho, Youdan Kim, Hyo-Sang Shin, and Antonios Tsourdos, "*Trajectory Shaping Guidance Law Based on Downrange-to-Go Polynomial*," /4th CEAS EuroGNC Conference/, Warsaw, Poland, April 2017.\n see also, same title, Advances in Aerospace Guidance, Navigation and Control: Selected Papers of the 4th CEAS Specialist Conference on Guidance, Navigation on Control, edited by Bogusław Dołęga, Robert Głębocki, Damian Kordos, and Marcin Żugaj, Springer International Publishing AG, Switzerland, 2018, pp.551-569.\n [https://dx.doi.org/10.1007/978-3-319-65283-2_30 DOI:10.1007/978-3-319-65283-2_30]
+. Namhoon Cho, and Youdan Kim, "*Approximate Three-Dimensional Path Generation for UAV Path-Following*," /30th Congress of the International Council of the Aeronautical Sciences/, Daejeon, Korea, September 2016.\n [http://icas.org/ICAS_ARCHIVE/ICAS2016/data/preview/2016_0128.htm Link]
+. Namhoon Cho, and Youdan Kim, "*Basis Integral Concurrent Learning Model Reference Adaptive Control*," /15th European Control Conference/, Aalborg, Denmark, June-July 2016.\n [https://dx.doi.org/10.1109/ECC.2016.7810385 DOI:10.1109/ECC.2016.7810385]
+. Namhoon Cho, and Youdan Kim, "*Closed-Form Three-Dimensional Path Generation Based on Polynomial Interpolation of Waypoints*," /3rd CEAS EuroGNC Conference/, Toulouse, France, April 2015.
+. Namhoon Cho, and Youdan Kim, "*Lyapunov-Based Three-Dimensional Nonlinear Path-Following Guidance Law*," /Guidance, Navigation, and Control Conference, AIAA Science and Technology Forum/, Kissimmee, FL, USA, January 2015.\n [https://dx.doi.org/10.2514/6.2015-1317 DOI:10.2514/6.2015-1317]
+. Namhoon Cho, Youdan Kim, and Sanghyuk Park, "*Three-Dimensional Nonlinear Path-Following Guidance Law Based on Differential Geometry*," /19th IFAC World Congress/, Cape Town, South Africa, August 2014.\n [https://dx.doi.org/10.3182/20140824-6-ZA-1003.00171 DOI:10.3182/20140824-6-ZA-1003.00171]
+. Namhoon Cho, and Youdan Kim, "*Adaptive Nonlinear Guidance Law of UAV for Standoff Tracking with Target Velocity & Acceleration Estimation*," /5th Asia-Pacific International Symposium on Aerospace Technology/, Takamatsu, Japan, November 2013.
+
+#== Domestic Journal
+
+== Domestic Conference
+. 김성훈, 조남훈, 김유단, "*Generic Transport Model을 이용한 모델추종 적응제어기의 주파수 상계 검증*," /한국항공우주학회 춘계학술발표회/, 설악 대명리조트 델피노, 고성군, 강원도, 2018년 4월.\n [http://www.dbpia.co.kr/Journal/ArticleDetail/NODE07525696 Link]
+. 이수원, 조남훈, 김유단, "*Pythagorean Hodograph 곡선을 이용한 무추력 비행체 비행경로 설계*," /한국항공우주학회 추계학술발표회/, 라마다프라자 제주호텔, 제주시, 제주도, 2017년 11월.\n [http://www.dbpia.co.kr/Journal/ArticleDetail/NODE07366932 Link]
+. 조남훈, 홍유경, 이수원, 김유단, 송찬호, "*바람에 따른 경로점 변경에 의한 활공유도폭탄의 궤적보정*," /한국군사과학기술학회 2017 종합학술대회/, 제주 국제컨벤션센터, 서귀포시, 제주도, 2017년 6월.
+#. 김병훈, 이수원, 이재호, 이소망, 이지훈, 조남훈, 김유단, 주광혁, "*달 궤도선 자세제어계 시뮬레이터 개념연구 및 3차원 가시화장치 구축*," /한국항공우주학회 춘계학술발표회/, 대명리조트 쏠비치, 삼척시, 강원도, 2017년 4월.
+. 이수원, 조남훈, 홍유경, 김유단, "*RRT 기법을 이용한 무추력 비행체의 궤적 보정*," /한국항공우주학회 추계학술발표회/, 라마다프라자 제주호텔, 제주시, 제주도, 2016년 11월.\n [http://www.dbpia.co.kr/Journal/ArticleDetail/NODE07090427 Link]
+. 홍유경, 조남훈, 김유단, "*기준궤적 형성을 위한 무추력 유도폭탄의 궤적최적화*," /한국군사과학기술학회 종합학술대회/, 제주 국제컨벤션센터, 제주, 제주도, 2016년 6월.
+. 김병훈, 조남훈, 이재호, 이소망, 이지훈, 이수원, 김유단, 주광혁, "*자동코드생성을 이용한 달 궤도선 제어 기초연구*," /한국항공우주학회 춘계학술발표회/, 설악 대명리조트 델피노, 고성군, 강원도, 2016년 4월.\n [http://www.dbpia.co.kr/Journal/ArticleDetail/NODE07068032 Link]
+. 박철우, 조남훈, 김유단, "*비선형 유도기법 기반의 복수무인기의 근접 편대비행*," /한국항공우주학회 춘계학술발표회/, 하이원리조트 컨벤션호텔, 정선군, 강원도, 2015년 4월.\n [http://www.dbpia.co.kr/Article/NODE06591153 Link]
+. 조남훈, 박철우, 김유단, "*복수 무인항공기의 분산시스템에 의한 선회편대의 분리 및 재생성 비행시험*," /한국항공우주학회 춘계학술발표회/, 하이원리조트 컨벤션호텔, 정선군, 강원도, 2015년 4월.\n [http://www.dbpia.co.kr/Article/NODE06591221 Link]
+. 조남훈, 김유단, "*무인항공기 유도법칙과 제어기의 통합을 위한 제어명령 생성*," /한국항공우주학회 추계학술발표회/, 라마다프라자 제주호텔, 제주시, 제주도, 2013년 11월.\n [http://www.dbpia.co.kr/Article/3333610 Link]
+. 조남훈, 김유단, "*궤환선형화 기법을 이용한 무인항공기 2차원 지상 이동목표물 추적 유도기법*," /한국항공우주학회 춘계학술발표회/, 하이원리조트 컨벤션호텔, 정선군, 강원도, 2013년 4월.\n [http://www.dbpia.co.kr/Article/3283486 Link]
+. 조남훈, 박철우, 오경택, 김유단, "*Quad-Tilt-Ducted Fan 무인항공기 동역학 모델링 및 수직비행 제어기 설계*," /한국항공우주학회 춘계학술발표회/, 하이원리조트 컨벤션호텔, 정선군, 강원도, 2012년 4월.\n [http://www.dbpia.co.kr/Article/1921487 Link]
+
+== Domestic Patent
+. 조남훈, 김유단, "*곡선의 미분 기하에 기반한 3차원 비선형 경로 추종 유도 시스템 및 방법*," 2014년 10월 21일 출원, 2017년 12월 22일 등록. (출원번호 : 10-2014-0142510, 등록번호 : 10-1813610)
+

@@ -1,0 +1,35 @@
+# jemdoc: menu{MENU}{multimedia.html}, notime
+= Multimedia
+
+== Video Links
+=== Constant Speed Standoff Tracking of Maneuvering Ground Target
+- Simulation Video: [https://www.youtube.com/watch?v=8JLJ6LqUgw0]
+{{<iframe width="560" height="315" src="https://www.youtube.com/embed/8JLJ6LqUgw0" frameborder="0" allowfullscreen></iframe>}}
+
+=== Three-Dimensional Nonlinear Differential Geometric Path-Following Guidance Law
+- Simulation Video (Look-Ahead Vector Pursuit): [https://www.youtube.com/watch?v=eQfHfCV2u98]
+{{<iframe width="560" height="315" src="https://www.youtube.com/embed/eQfHfCV2u98" frameborder="0" allowfullscreen></iframe>}}
+- Simulation Video (Compilation): [https://www.youtube.com/watch?v=LU8WUJhQLxM]
+{{<iframe width="560" height="315" src="https://www.youtube.com/embed/LU8WUJhQLxM" frameborder="0" allowfullscreen></iframe>}}
+
+=== Decentralized Control System of Multiple Fixed-Wing UAVs
+- Annotated Experiment Video: [https://www.youtube.com/watch?v=oyfM2HBnTaQ]
+{{<iframe width="560" height="315" src="https://www.youtube.com/embed/oyfM2HBnTaQ" frameborder="0" allowfullscreen></iframe>}}
+- Flight Data Visualization: [https://www.youtube.com/watch?v=a-xaNMRWMGA]
+{{<iframe width="560" height="315" src="https://www.youtube.com/embed/a-xaNMRWMGA" frameborder="0" allowfullscreen></iframe>}}
+- Photo:
+{{<img border="0" width="720" src="Images/2014_MultipleUAVs.bmp" />}}
+
+=== Offline Planning and Online Modification of Waypoints Considering Wind for Unpowered Aircraft
+- Simulation Video without Wind: [https://www.youtube.com/watch?v=nhWPsPoZfmo]
+{{<iframe width="560" height="315" src="https://www.youtube.com/embed/nhWPsPoZfmo" frameborder="0" allowfullscreen></iframe>}}
+- Simulation Video with Wind: [https://www.youtube.com/watch?v=YWDJcMGLGKU]
+{{<iframe width="560" height="315" src="https://www.youtube.com/embed/YWDJcMGLGKU" frameborder="0" allowfullscreen></iframe>}}
+
+=== Model-Based Design (Automatic Code Generation) for Development of Spacecraft Guidance, Navigation, and Control Software
+- Processor-In-the-Loop Simulation Video: [https://www.youtube.com/watch?v=mhLymPfTJuc]
+{{<iframe width="560" height="315" src="https://www.youtube.com/embed/mhLymPfTJuc" frameborder="0" allowfullscreen></iframe>}}
+
+=== Development of Integrated Anti-Ship Missile and Ship Defence System Simulator
+- Simulator Demonstration Video: [https://www.youtube.com/watch?v=eEHWkeCBlwU]
+{{<iframe width="560" height="315" src="https://www.youtube.com/embed/eEHWkeCBlwU" frameborder="0" allowfullscreen></iframe>}}

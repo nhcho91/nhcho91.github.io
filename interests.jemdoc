@@ -1,0 +1,42 @@
+# jemdoc: menu{MENU}{interests.html}, notime
+= Research Statement & Research Interests
+
+~~~
+{}
+- I have enthusiasm for learning and studying various topics, and I enjoy creative critical thinking with clear logical flow.
+- I have learned the way of scientific thinking since 2007 when I first experienced astronomy and physics.
+- I am trying to learn new topics and to be opened to new ideas, to have a broad and unified view.
+- I always hope that I can keep a balance between theory and practice, and achieve good practice by excellent theoretical developments.
+~~~
+
+== Research Statement
+Theoretical\/Applied Research\n
+on Decision Making, Planning, Guidance, and Control\n
+for Autonomous Aerospace Vehicles
+
+== Research Interests
+My research interests include, but are not limited to, the following topics:
+=== Theory: Theoretical Developments & Mathematical Analysis
+- *Reinforcement Learning for Planning and Control*
+	-- Sequential decision making paradigms
+	-- Stochastic optimal control
+	-- Information-theoretic planning and control
+- *Motion Planning System*
+	-- Sampling-based nominal path planning
+	-- Three-dimensional path generation/smoothing using quadratic programming
+- *Guidance Laws for UAV and Missile*
+	-- Design and analysis of nonlinear guidance laws which preserve geometric/physical intuition but also incorporate rigorous mathematical insight
+	-- Bridging the gap between geometric methods and control-theoretic methods
+	-- Research directions: generalisation and unification, proposition of design principles and frameworks, provision of overview with analytical insight, balance between practicality of classical approaches and performance of advanced approaches
+- *Learning-Based Adaptive Control*
+	-- Adaptation algorithms for composite adaptive control under limited amount of excitation
+	-- Applications of learning-based adaptive control
+		--- (Reconfigurable) Flight control, Multi-agent formation control with network resilience, etc.
+	-- MRAC for flight control
+
+=== Practice: Implementation Details & Flight Experiments
+- Decentralised Control System of Multiple Fixed-Wing UAVs
+- Aggressive Manoeuvring Flight of Small Fixed-Wing UAV
+- Research Testbed Aircraft & Hardware System Development
+	-- Pixhawk autopilot + Linux-based SBC
+- Adaptive Control of Quadrotor

@@ -1,0 +1,70 @@
+# jemdoc: menu{MENU}{index.html}, notime
+= Namhoon Cho, Ph.D.
+
+~~~
+{}{img_left}{Images/2014_NamhoonCho.jpeg}{}{150}{}{}
+*\[Contact Information\]*\n
+E-mail: nhcho91 $\alpha\tau$ snu $\delta o \tau$ ac $\delta o \tau$ kr\n
+[http://scholar.google.com/citations?user=DhdeDm8AAAAJ&hl=en Google Scholar], [http://www.researchgate.net/profile/Namhoon_Cho ResearchGate], [https://www.linkedin.com/in/namhoon-cho-61b856159 LinkedIn], [http://orcid.org/0000-0001-9999-9501 ORCID], [https://www.scopus.com/authid/detail.uri?authorId=56654774400 Scopus], [https://www.dropbox.com/sh/66be7tirhr56y2p/AAAKsW7RRNf9N_ABcqQgcO8Na CV]\n
+~~~
+
+== Current Status
+Postdoctoral Research Fellow\n
+[http://fdcl.snu.ac.kr Flight Dynamics and Control Laboratory]\n
+[http://aerospace.snu.ac.kr Department of Mechanical and Aerospace Engineering]\n
+#[http://asri.snu.ac.kr Automation and Systems Research Institute]\n
+[http://www.snu.ac.kr Seoul National University]
+
+== Education
+- *2012.9\~2017.2*: Ph.D. in Mechanical and Aerospace Engineering, Seoul National University\n
+	Dissertation: Nonlinear Guidance Law for Three-Dimensional Path-Following Using Differential Geometry\n
+	Supervisor: Prof. Youdan Kim
+- *2009.3\~2012.8*: B.S. in Mechanical and Aerospace Engineering, Seoul National University\n
+	Thesis: Dynamic Modeling, Vertical Flight Controller Design, and Attitude Control Experiment of Quad-Tilt-Ducted Fan UAV (in Korean)\n
+	Supervisor: Prof. Youdan Kim
+- *2007.3\~2009.2*: Seoul Science High School
+
+== Experience
+- *2017.12.1\~Present*: Postdoctoral Research Fellow, Department of Mechanical and Aerospace Engineering, Seoul National University
+- *2017.3.1\~2018.8.31*: Researcher, Automation and Systems Research Institute, Seoul National University
+- *2015.11.14\~2016.4.28*: Visiting Research Student, Centre for Cyber-Physical Systems, School of Aerospace, Transport and Manufacturing, Cranfield University\n
+	Supervisor: Dr. Hyo-Sang Shin, Prof. Antonios Tsourdos
+- *2008.8.19\~2008.8.28*: The 2nd International Olympiad on Astronomy and Astrophysics (IOAA), Member of the Korean National Team, Silver Medalist
+- *2007.11.21\~2007.11.29*: The 3rd Asian-Pacific Astronomy Olympiad (APAO), Member of the Korean National Team, Bronze Medalist
+
+== Research Projects
+=== Research Projects at Seoul National University
+- *2017.1\~Present*: Study on Trajectory Generation and Improved Guidance/Control System for Precision Guided Munition, LIG Nex1
+- *2016.12\~2017.8*: Development of Simulation Program for Performance Analysis of Guided Weapon Systems, Hanwha
+- *2014.7\~2017.6*: Development of Guidance, Navigation, and Control Algorithms and Corresponding Source Code for Experimental Lunar Orbiter, National Research Foundation of Korea (NRF)
+- *2014.1\~2016.12*: Study on Trajectory Generation for Mission Planning of Guided Bomb, LIG Nex1
+- *2013.2\~2014.12*: Study on Distributed System of Multiple Unmanned Aerial Vehicles, Agency for Defense Development (ADD)
+
+== Honors & Awards & Scholarships
+- *2017.2*: Outstanding Doctoral Dissertation Award, Department of Mechanical and Aerospace Engineering, Seoul National University
+- *2012.8*: Summa Cum Laude Graduate, Seoul National University
+- *2011.3\~Present*: Member of STEM (Honor Society of College of Engineering, Seoul National University)
+- *2009.9\~2012.8*: Academic Excellence Scholarship from Seoul National University
+
+#== Skills
+#=== Basics
+#- Trajectory Optimization
+#- Path Planning
+#- Guidance and Control System Design
+#
+#=== Programming Language and Software Tools
+#- MATLAB\/SIMULINK
+#- C
+#- To study: C++, Python, ROS, RotorS, PX4, MAVLINK, OpenCV, OMPL, Drake, ...
+#
+#=== Flight Simulator
+#- FlightGear (Interconnected operation with SIMULINK)
+#- X-Plane (Interconnected operation with SIMULINK via UDP or DataRef handling)
+#
+#=== Flight Experiment and Flight Testing
+#- Aerodynamic Modeling using [http://web.mit.edu/drela/Public/web/avl/ AVL]
+#- System Identification
+#- FCC based on Raspberry Pi 3 and Pixhawk Autopilot
+#- XSens MTi-G GPS\/INS, Microstrain 3DM-GX3-45 GPS\/INS
+#- Ground Control Station (GCS) Monitoring, Piloting, Flight Data Postprocessing & Visualization
+
