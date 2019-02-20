@@ -10,24 +10,23 @@
 ~~~
 
 == Research Statement
-Theoretical\/Applied Research\n
-on Decision Making, Planning, Guidance, and Control\n
-for Autonomous Aerospace Vehicles
+Design and Analysis of Planning and Control Algorithms\n
+with Applications to Autonomous Aerospace Vehicles
 
 == Research Interests
 My research interests include, but are not limited to, the following topics:
 === Theory: Theoretical Developments & Mathematical Analysis
 - *Reinforcement Learning for Planning and Control*
-	-- Sequential decision making paradigms
-	-- Stochastic optimal control
-	-- Information-theoretic planning and control
-- *Motion Planning System*
-	-- Sampling-based nominal path planning
-	-- Three-dimensional path generation/smoothing using quadratic programming
-- *Guidance Laws for UAV and Missile*
+	-- Reinforcement learning for feedback control considering continuous action space
+	-- Model-based policy search
+- *Motion Planning*
+	-- Sampling-based global waypoint planning
+	-- Optimization-based local path generation/smoothing
+	-- Trajectory optimization
+- *Guidance Laws for UAVs and Missiles*
 	-- Design and analysis of nonlinear guidance laws which preserve geometric/physical intuition but also incorporate rigorous mathematical insight
 	-- Bridging the gap between geometric methods and control-theoretic methods
-	-- Research directions: generalisation and unification, proposition of design principles and frameworks, provision of overview with analytical insight, balance between practicality of classical approaches and performance of advanced approaches
+	-- Research directions: generalisation and unification of design frameworks for holistic approach to guidance law design, proposition of design principles and frameworks, provision of overview with analytical insight, balance between practicality of classical approaches and performance of advanced approaches
 - *Learning-Based Adaptive Control*
 	-- Adaptation algorithms for composite adaptive control under limited amount of excitation
 	-- Applications of learning-based adaptive control
