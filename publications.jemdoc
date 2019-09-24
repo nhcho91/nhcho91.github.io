@@ -9,7 +9,7 @@
 . Namhoon Cho, Youdan Kim, and Hyo-Sang Shin, "*Generalised Formulation of Linear Non-quadratic Weighted Optimal Error Shaping Guidance Laws*," /Journal of Guidance, Control, and Dynamics/, Under Review, 2019.
 . Jinrae Kim, Namhoon Cho, and Youdan Kim, "*Field-of-View-Constrained Impact Angle Control Guidance with Error Convergence before Interception Considering Speed Changes*," /Proceedings of the Institution of Mechanical Engineers, Part G: Journal of Aerospace Engineering/, Under Review, 2019.
 . Namhoon Cho, Suwon Lee, Jinrae Kim, Youdan Kim, Sanghyuk Park, and Chanho Song, "*Wind Compensation Framework for Unpowered-Aircraft Using Online Waypoint Correction*," /IEEE Transactions on Aerospace and Electronic Systems/, Online Published, 2019.\n [https://dx.doi.org/10.1109/TAES.2019.2920219 DOI:10.1109/TAES.2019.2920219]
-. Jaeho Lee, Namhoon Cho, and Youdan Kim, "*Analysis of Missile Longitudinal Autopilot Based on the State-Dependent Riccati Equation Method*," /Journal of Guidance, Control, and Dynamics/, Online Published, 2019.\n [https://dx.doi.org/10.2514/1.G003679 DOI:10.2514/1.G003679]
+. Jaeho Lee, Namhoon Cho, and Youdan Kim, "*Analysis of Missile Longitudinal Autopilot Based on the State-Dependent Riccati Equation Method*," /Journal of Guidance, Control, and Dynamics/, Vol. 42, No. 10, 2019, pp. 2183-2196.\n [https://dx.doi.org/10.2514/1.G003679 DOI:10.2514/1.G003679]
 . Seokwon Lee, Sungjun Ann, Namhoon Cho, and Youdan Kim, "*Capturability of Guidance Laws for Interception of Nonmaneuvering Target with Limited Field-of-View*," /Journal of Guidance, Control, and Dynamics/, Vol. 42, No. 4, 2019, pp. 869-884.\n [https://dx.doi.org/10.2514/1.G003860 DOI:10.2514/1.G003860]
 . Sungjun Ann, Namhoon Cho, Youdan Kim, Sangjoon Shin, and Jaemyung Ahn, "*Response Surface Modeling-Based Analysis on Launch Vehicle Capability*," /Advances in Space Research/, Vol. 62, No. 12, 2018, pp. 3281-3297.\n [https://dx.doi.org/10.1016/j.asr.2018.03.007 DOI:10.1016/j.asr.2018.03.007]
 . Namhoon Cho, Hyo-Sang Shin, Youdan Kim, and Antonios Tsourdos, "*Composite Model Reference Adaptive Control with Parameter Convergence under Finite Excitation*," /IEEE Transactions on Automatic Control/, Vol. 63, No. 3, 2018, pp. 811-818.\n [https://dx.doi.org/10.1109/TAC.2017.2737324 DOI:10.1109/TAC.2017.2737324]
@@ -40,6 +40,7 @@
 #== Domestic Journal
 
 == Domestic Conference
+#. 조남훈, 김필성, "*제어기 구조에 따른 피치 자세 제어기의 특성 비교*," /한국항공우주학회 추계학술발표회/, 라마다프라자 제주호텔, 제주시, 제주도, 2019년 11월.\n [http://www.dbpia.co.kr Link TBD]
 . 김진래, 조남훈, 이수원, 김유단, "*최종속도조건을 고려한 무추력 비행체의 Pythagorean-Hodograph 곡선 기반 경로계획*," /한국항공우주학회 춘계학술발표회/, 대명리조트 변산, 부안군, 전라북도, 2019년 4월.\n [http://www.dbpia.co.kr/Journal/ArticleDetail/NODE08753036 Link]
 . 김성훈, 조남훈, 김유단, "*Generic Transport Model을 이용한 모델추종 적응제어기의 주파수 상계 검증*," /한국항공우주학회 춘계학술발표회/, 설악 대명리조트 델피노, 고성군, 강원도, 2018년 4월.\n [http://www.dbpia.co.kr/Journal/ArticleDetail/NODE07525696 Link]
 . 이수원, 조남훈, 김유단, "*Pythagorean Hodograph 곡선을 이용한 무추력 비행체 비행경로 설계*," /한국항공우주학회 추계학술발표회/, 라마다프라자 제주호텔, 제주시, 제주도, 2017년 11월.\n [http://www.dbpia.co.kr/Journal/ArticleDetail/NODE07366932 Link]
