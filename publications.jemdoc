@@ -6,9 +6,13 @@
 
 == International Journal
 #. Seonghun Kim, Namhoon Cho, and Youdan Kim, "*Frequency Limiting in MRAC*," /IEEE Transactions on Control Systems Technology/, Under Review, 2019.
-#. Namhoon Cho, and Jongho Park, "**," //, In Preparation, 2019.
-. Namhoon Cho, and Youdan Kim, "*Quadratic Optimisation of Initial Controller State in Linear Control Systems*," /Journal of Guidance, Control, and Dynamics/, Under Review, 2019.
-. Namhoon Cho, Youdan Kim, and Hyo-Sang Shin, "*Generalised Formulation of Linear Non-quadratic Weighted Optimal Error Shaping Guidance Laws*," /Journal of Guidance, Control, and Dynamics/, Accepted for Publication, 2019.
+. Namhoon Cho, and Jongho Park, "*Finite-Horizon Feedback Control with Command Shaping Based on Control Linear Parametrisation*," /Journal of Guidance, Control, and Dynamics/, Under Review, 2020.
+. Seokwon Lee, and Namhoon Cho, "*Inverse Optimality of Pure Proportional Navigation Guidance*," /Journal of Guidance, Control, and Dynamics/, Under Review, 2020.
+. Namhoon Cho, Youdan Kim, and Chang-Hun Lee, "*Schwarz Inequality Method for Weighted Minimum Effort Terminal Control of Multi-Dimensional Systems*," /Journal of Guidance, Control, and Dynamics/, Under Review, 2020.
+. Namhoon Cho, Jinrae Kim, Seokwon Lee, and Youdan Kim, "*Nonlinear Bias Shaping Designs for Guidance under Constraints and Feasible Initial Conditions*," /Journal of Guidance, Control, and Dynamics/, Under Review, 2020.
+. Seokwon Lee, Namhoon Cho, and Youdan Kim, "*Impact-Time-Control Guidance Strategy with a Composite Structure Considering the Seeker's Field-of-View Constraint*," /Journal of Guidance, Control, and Dynamics/, Under Review, 2019.
+. Namhoon Cho, and Youdan Kim, "*Quadratic Optimisation of Initial State for Dynamic Controller in Linear Systems*," /IEEE Transactions on Aerospace and Electronic Systems/, Under Review, 2019.
+. Namhoon Cho, Youdan Kim, and Hyo-Sang Shin, "*Generalised Formulation of Linear Non-quadratic Weighted Optimal Error Shaping Guidance Laws*," /Journal of Guidance, Control, and Dynamics/, Online Published, 2019.\n [https://dx.doi.org/10.2514/1.G004813 DOI:10.2514/1.G004813]
 . Jinrae Kim, Namhoon Cho, and Youdan Kim, "*Field-of-View-Constrained Impact Angle Control Guidance with Error Convergence before Interception Considering Speed Changes*," /Proceedings of the Institution of Mechanical Engineers, Part G: Journal of Aerospace Engineering/, Under Review, 2019.
 . Namhoon Cho, Suwon Lee, Jinrae Kim, Youdan Kim, Sanghyuk Park, and Chanho Song, "*Wind Compensation Framework for Unpowered-Aircraft Using Online Waypoint Correction*," /IEEE Transactions on Aerospace and Electronic Systems/, Online Published, 2019.\n [https://dx.doi.org/10.1109/TAES.2019.2920219 DOI:10.1109/TAES.2019.2920219]
 . Jaeho Lee, Namhoon Cho, and Youdan Kim, "*Analysis of Missile Longitudinal Autopilot Based on the State-Dependent Riccati Equation Method*," /Journal of Guidance, Control, and Dynamics/, Vol. 42, No. 10, 2019, pp. 2183-2196.\n [https://dx.doi.org/10.2514/1.G003679 DOI:10.2514/1.G003679]
@@ -22,9 +26,10 @@
 . Chulwoo Park, Namhoon Cho, Kyunghyun Lee, and Youdan Kim, "*Formation Flight of Multiple UAVs Using Onboard Information Sharing*," /Sensors/, Vol. 15, No. 7, 2015, pp. 17397-17419.\n [https://dx.doi.org/10.3390/s150717397 DOI:10.3390/s150717397]
 
 == International Conference
-. Namhoon Cho, ``*Nonlinear Optimal Missile Guidance for Stationary Target Interception with Pendulum Motion Perspective*,'' /21st IFAC World Congress/, Berlin, Germany, July 2020, Submitted.
-. Jinrae Kim, Namhoon Cho, and Youdan Kim, ``*Field-of-View Constrained Impact Angle Control Guidance with Error Convergence Before Interception*,'' /Guidance, Navigation, and Control Conference, AIAA Science and Technology Forum/, San Diego, CA, USA, January 2019.\n [https://dx.doi.org/10.2514/6.2019-1927 DOI:10.2514/6.2019-1927]
-. Suwon Lee, Namhoon Cho, Jinrae Kim, and Youdan Kim, ``*Optimal Waypoint Planning for Gliding Vehicles Using Particle Swarm Optimization*,'' /10th Asia-Pacific International Symposium on Aerospace Technology/, Chengdu, China, October 2018. 
+. Namhoon Cho, Jinrae Kim, and Seokwon Lee, "*Feasible Initial Conditions for Bias Proportional Navigation Guidance Laws Under Look Angle Constraints*," /28th Mediterranean Conference on Control and Automation/, Saint-Raphael, France, June 2020, Submitted.
+. Namhoon Cho, "*Nonlinear Optimal Missile Guidance for Stationary Target Interception with Pendulum Motion Perspective*," /21st IFAC World Congress/, Berlin, Germany, July 2020, Submitted.
+. Jinrae Kim, Namhoon Cho, and Youdan Kim, "*Field-of-View Constrained Impact Angle Control Guidance with Error Convergence Before Interception*," /Guidance, Navigation, and Control Conference, AIAA Science and Technology Forum/, San Diego, CA, USA, January 2019.\n [https://dx.doi.org/10.2514/6.2019-1927 DOI:10.2514/6.2019-1927]
+. Suwon Lee, Namhoon Cho, Jinrae Kim, and Youdan Kim, "*Optimal Waypoint Planning for Gliding Vehicles Using Particle Swarm Optimization*," /10th Asia-Pacific International Symposium on Aerospace Technology/, Chengdu, China, October 2018. 
 #. Junsoo Lee, Namhoon Cho, and Youdan Kim, "*Smooth Trajectory Generation and Control of Multirotor with Slung Load*," /31st Congress of the International Council of the Aeronautical Sciences/, Belo Horizonte, Brazil, September 2018, Accepted for Presentation.
 . Seokwon Lee, Namhoon Cho, and Youdan Kim, "*Missile Guidance Based on Tracking of Predicted Target Trajectory*," /26th Mediterranean Conference on Control and Automation/, Zadar, Croatia, June 2018.\n [https://dx.doi.org/10.1109/MED.2018.8442895 DOI:10.1109/MED.2018.8442895]
 . Huiseong Song, Seokwon Lee, Namhoon Cho, and Youdan Kim, "*Cooperative Defense Strategy for Active Aircraft Protection Considering Launch Time of Defense Missile*," /16th European Control Conference/, Limassol, Cyprus, June 2018.\n [https://dx.doi.org/10.23919/ECC.2018.8550089 DOI:10.23919/ECC.2018.8550089]
