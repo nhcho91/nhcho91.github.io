@@ -9,6 +9,7 @@
 . Seokwon Lee, and Namhoon Cho, "*Inverse Optimality of Pure Proportional Navigation Guidance*," /Journal of Guidance, Control, and Dynamics/, In Preparation, 2020.
 . Youngil Kim, Namhoon Cho, Jongho Park, and Youdan Kim, "*Waypoint Planning for Missile with Terminal Velocity Constraint Based on Closed-Loop Simulation*," /Journal of Guidance, Control, and Dynamics/, In Preparation, 2020.
 . Namhoon Cho, and Jongho Park, "*Finite-Horizon Feedback Control with Command Shaping Based on Control Linear Parametrisation*," /Journal of Guidance, Control, and Dynamics/, In Preparation, 2020.
+. Jongho Park, and Namhoon Cho, "*Collision Avoidance of Hexacopter UAV Based on LiDAR Data in Dynamic Environment*," /Remote Sensing/, Under Review, 2020.
 . Namhoon Cho, and Yong-In Lee, "*Guidance Synthesis with Separate Impact Point Prediction*," /Journal of Guidance, Control, and Dynamics/, Under Review, 2020.
 . Namhoon Cho, Youdan Kim, and Chang-Hun Lee, "*Schwarz Inequality Method for Weighted Minimum Effort Terminal Control of Multi-Dimensional Systems*," /Journal of Guidance, Control, and Dynamics/, Under Review, 2020.
 . Namhoon Cho, Jinrae Kim, Seokwon Lee, and Youdan Kim, "*Nonlinear Bias Shaping Designs for Guidance under Constraints and Feasible Initial Conditions*," /Journal of Guidance, Control, and Dynamics/, Under Review, 2020.
@@ -29,7 +30,7 @@
 
 == International Conference
 . Namhoon Cho, Jinrae Kim, and Seokwon Lee, "*Feasible Initial Conditions for Bias Proportional Navigation Guidance Laws Under Look Angle Constraints*," /28th Mediterranean Conference on Control and Automation/, Saint-Raphael, France, June 2020, Submitted.
-. Namhoon Cho, "*Nonlinear Optimal Missile Guidance for Stationary Target Interception with Pendulum Motion Perspective*," /21st IFAC World Congress/, Berlin, Germany, July 2020, Submitted.
+. Namhoon Cho, "*Nonlinear Optimal Missile Guidance for Stationary Target Interception with Pendulum Motion Perspective*," /21st IFAC World Congress/, Berlin, Germany, July 2020, Accepted for Presentation.
 . Jinrae Kim, Namhoon Cho, and Youdan Kim, "*Field-of-View Constrained Impact Angle Control Guidance with Error Convergence Before Interception*," /Guidance, Navigation, and Control Conference, AIAA Science and Technology Forum/, San Diego, CA, USA, January 2019.\n [https://dx.doi.org/10.2514/6.2019-1927 DOI:10.2514/6.2019-1927]
 . Suwon Lee, Namhoon Cho, Jinrae Kim, and Youdan Kim, "*Optimal Waypoint Planning for Gliding Vehicles Using Particle Swarm Optimization*," /10th Asia-Pacific International Symposium on Aerospace Technology/, Chengdu, China, October 2018. 
 #. Junsoo Lee, Namhoon Cho, and Youdan Kim, "*Smooth Trajectory Generation and Control of Multirotor with Slung Load*," /31st Congress of the International Council of the Aeronautical Sciences/, Belo Horizonte, Brazil, September 2018, Accepted for Presentation.
@@ -48,9 +49,10 @@
 . Namhoon Cho, and Youdan Kim, "*Adaptive Nonlinear Guidance Law of UAV for Standoff Tracking with Target Velocity & Acceleration Estimation*," /5th Asia-Pacific International Symposium on Aerospace Technology/, Takamatsu, Japan, November 2013.
 
 == Technical Report
-. Namhoon Cho, and Yong-In Lee, "*A Guidance Law for Accelerating Target Interception Based on Approximate Prediction Model and a Simulator for Efficient Flight Code Development*," Agency for Defense Development, ADDR-417-200162, January 2020.
-. Namhoon Cho, "*Comparison of Performance Characteristics Between Pitch Attitude and Acceleration Controllers with Different Loop Structures*," Agency for Defense Development, ADDR-401-192531, October 2019.
-. Namhoon Cho, "*Design of Attitude Tracking Control Law with Proportional-Integral Feedback over Attitude Error*," Agency for Defense Development, ADDR-401-192532, October 2019.
+. Namhoon Cho, "*Fixed-Structure Linear Control Synthesis Based on Structured $\mathcal{H}_{\infty}$ Optimisation (with Parallelisation for Accelerated Design, Analysis, and Documentation*," /Agency for Defense Development/, ADDR-401-200428, March 2020.
+. Namhoon Cho, and Yong-In Lee, "*A Guidance Law for Accelerating Target Interception Based on Approximate Prediction Model and a Simulator for Efficient Flight Code Development*," /Agency for Defense Development/, ADDR-417-200162, January 2020.
+. Namhoon Cho, "*Comparison of Performance Characteristics Between Pitch Attitude and Acceleration Controllers with Different Loop Structures*," /Agency for Defense Development/, ADDR-401-192531, October 2019.
+. Namhoon Cho, "*Design of Attitude Tracking Control Law with Proportional-Integral Feedback over Attitude Error*," /Agency for Defense Development/, ADDR-401-192532, October 2019.
 
 #== Domestic Journal
 
