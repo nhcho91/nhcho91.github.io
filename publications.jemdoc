@@ -49,7 +49,7 @@
 . Namhoon Cho, and Youdan Kim, "*Adaptive Nonlinear Guidance Law of UAV for Standoff Tracking with Target Velocity & Acceleration Estimation*," /5th Asia-Pacific International Symposium on Aerospace Technology/, Takamatsu, Japan, November 2013.
 
 == Technical Report
-. Namhoon Cho, "*Fixed-Structure Linear Control Synthesis Based on Structured $\mathcal{H}_{\infty}$ Optimisation (with Parallelisation for Accelerated Design, Analysis, and Documentation*," /Agency for Defense Development/, ADDR-401-200428, March 2020.
+. Namhoon Cho, "*Fixed-Structure Linear Control Synthesis Based on Structured $\mathcal{H}_{\infty}$ Optimisation (with Parallelisation for Accelerated Design, Analysis, and Documentation)*," /Agency for Defense Development/, ADDR-401-200428, March 2020.
 . Namhoon Cho, and Yong-In Lee, "*A Guidance Law for Accelerating Target Interception Based on Approximate Prediction Model and a Simulator for Efficient Flight Code Development*," /Agency for Defense Development/, ADDR-417-200162, January 2020.
 . Namhoon Cho, "*Comparison of Performance Characteristics Between Pitch Attitude and Acceleration Controllers with Different Loop Structures*," /Agency for Defense Development/, ADDR-401-192531, October 2019.
 . Namhoon Cho, "*Design of Attitude Tracking Control Law with Proportional-Integral Feedback over Attitude Error*," /Agency for Defense Development/, ADDR-401-192532, October 2019.
