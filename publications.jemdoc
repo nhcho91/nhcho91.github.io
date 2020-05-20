@@ -31,7 +31,7 @@
 . Chulwoo Park, Namhoon Cho, Kyunghyun Lee, and Youdan Kim, "*Formation Flight of Multiple UAVs Using Onboard Information Sharing*," /Sensors/, Vol. 15, No. 7, 2015, pp. 17397-17419.\n [https://doi.org/10.3390/s150717397 DOI:10.3390/s150717397]
 
 == International Conference
-. Namhoon Cho, Jinrae Kim, and Seokwon Lee, "*Feasible Initial Conditions for Bias Proportional Navigation Guidance Laws Under Look Angle Constraints*," /28th Mediterranean Conference on Control and Automation/, Saint-Raphael, France, September 2020, Accepted for Presentation.
+. Namhoon Cho, Jinrae Kim, and Seokwon Lee, "*Feasible Initial Conditions for Bias Proportional Navigation Guidance Laws Under Look Angle Constraints*," /28th Mediterranean Conference on Control and Automation/, Saint-Raphael, France, September 2020.
 #. Namhoon Cho, "*Nonlinear Optimal Missile Guidance for Stationary Target Interception with Pendulum Motion Perspective*," /21st IFAC World Congress/, Berlin, Germany, July 2020, Accepted for Presentation.
 . Jinrae Kim, Namhoon Cho, and Youdan Kim, "*Field-of-View Constrained Impact Angle Control Guidance with Error Convergence Before Interception*," /Guidance, Navigation, and Control Conference, AIAA Science and Technology Forum/, San Diego, CA, USA, January 2019.\n [https://doi.org/10.2514/6.2019-1927 DOI:10.2514/6.2019-1927]
 . Suwon Lee, Namhoon Cho, Jinrae Kim, and Youdan Kim, "*Optimal Waypoint Planning for Gliding Vehicles Using Particle Swarm Optimization*," /10th Asia-Pacific International Symposium on Aerospace Technology/, Chengdu, China, October 2018. 
@@ -51,7 +51,7 @@
 . Namhoon Cho, and Youdan Kim, "*Adaptive Nonlinear Guidance Law of UAV for Standoff Tracking with Target Velocity & Acceleration Estimation*," /5th Asia-Pacific International Symposium on Aerospace Technology/, Takamatsu, Japan, November 2013.
 
 == Technical Report
-. Namhoon Cho, "*Efficient Nonlinear Trajectory Optimisation Using Open-Source Interior-Point Solver (with Application to Trajectory Design for LSAM-AAM)*," /Agency for Defense Development/, ADDR-401-xxxx, May 2020.
+. Namhoon Cho, "*Efficient Nonlinear Trajectory Optimisation Using Open-Source Interior-Point Solver (with Application to Trajectory Design for LSAM-AAM)*," /Agency for Defense Development/, ADDR-417-200889, May 2020.
 . Namhoon Cho, "*Rough Estimation of Achievable Stability Margins for SISO Linear Control System (with Application to Pitch Angular Rate Control of Statically Unstable Missile)*," /Agency for Defense Development/, ADDR-401-200794, April 2020.
 . Namhoon Cho, "*Fixed-Structure Linear Control Synthesis Based on Structured $\mathcal{H}_{\infty}$ Optimisation (with Parallelisation for Accelerated Design, Analysis, and Documentation)*," /Agency for Defense Development/, ADDR-401-200428, March 2020.
 . Namhoon Cho, and Yong-In Lee, "*A Guidance Law for Accelerating Target Interception Based on Approximate Prediction Model and a Simulator for Efficient Flight Code Development*," /Agency for Defense Development/, ADDR-417-200162, January 2020.
@@ -61,7 +61,7 @@
 #== Domestic Journal
 
 == Domestic Conference
-. 조남훈, "*제어기 구조에 따른 피치 자세제어기의 특성 비교*," /한국항공우주학회 추계학술발표회/, 라마다프라자 제주호텔, 제주시, 제주도, 2019년 11월.\n [http://www.dbpia.co.kr Link TBD]
+. 조남훈, "*제어기 구조에 따른 피치 자세제어기의 특성 비교*," /한국항공우주학회 추계학술발표회/, 라마다프라자 제주호텔, 제주시, 제주도, 2019년 11월.\n [http://www.dbpia.co.kr/Journal/ArticleDetail/NODE09318235 Link]
 . 김진래, 조남훈, 이수원, 김유단, "*최종속도조건을 고려한 무추력 비행체의 Pythagorean-Hodograph 곡선 기반 경로계획*," /한국항공우주학회 춘계학술발표회/, 대명리조트 변산, 부안군, 전라북도, 2019년 4월.\n [http://www.dbpia.co.kr/Journal/ArticleDetail/NODE08753036 Link]
 . 김성훈, 조남훈, 김유단, "*Generic Transport Model을 이용한 모델추종 적응제어기의 주파수 상계 검증*," /한국항공우주학회 춘계학술발표회/, 설악 대명리조트 델피노, 고성군, 강원도, 2018년 4월.\n [http://www.dbpia.co.kr/Journal/ArticleDetail/NODE07525696 Link]
 . 이수원, 조남훈, 김유단, "*Pythagorean Hodograph 곡선을 이용한 무추력 비행체 비행경로 설계*," /한국항공우주학회 추계학술발표회/, 라마다프라자 제주호텔, 제주시, 제주도, 2017년 11월.\n [http://www.dbpia.co.kr/Journal/ArticleDetail/NODE07366932 Link]
