@@ -7,16 +7,17 @@
 == International Journal
 #. Seonghun Kim, Namhoon Cho, and Youdan Kim, "*Frequency Limiting in MRAC*," /IEEE Transactions on Control Systems Technology/, Under Review, 2019.
 #. Namhoon Cho, "*A Practical Midcourse Guidance Algorithm for Surface-to-Air Missile Based on Online Quadratic Programming*," /Journal of Guidance, Control, and Dynamics/, In Preparation, 2020.
+#. Seokwon Lee, and Namhoon Cho, "*Inverse Optimality of Pure Proportional Navigation Guidance*," /IEEE Transactions on Aerospace and Electronic Systems/, Under Review, 2020.
+. Youngil Kim, Namhoon Cho, Jongho Park, and Youdan Kim, "*Energy Management Framework for Missile with a Terminal Velocity Constraint*," /Journal of Aerospace Engineering/, In Preparation, 2020.
 . Namhoon Cho, Jinrae Kim, Seokwon Lee, and Youdan Kim, "*Biased Proportional Navigation Guidance Law Based on Predictive Correction of Flight Path*," /Journal of Guidance, Control, and Dynamics/, In Preparation, 2020
-. Seokwon Lee, Jinrae Kim, Namhoon Cho, and Youdan Kim, "*Biased Proportional Navigation Guidance for Impact-Time-Control with Look Angle Constraint*," /Journal of Guidance, Control, and Dynamics/, In Preparation, 2020.
 . Namhoon Cho, and Hae-In Lee, "*A Low-Order Approximation of Best Achievable Robustness Based on Sensitivity Inversion*," /Journal of Guidance, Control, and Dynamics/, In Preparation, 2020.
 . Chang-Hun Lee, Boseok Kim, and Namhoon Cho, "*A New Unified Head-on\/Head-Pursuit Guidance Based on Collision Geometry*," /IEEE Transactions on Aerospace and Electronic Systems/, In Preparation, 2020.
+. Jongho Park, Namhoon Cho, and Seokwon Lee, "*Reactive Collision Avoidance Algorithm for UAV Using Bounding Tube Against Multiple Moving Obstacles*," /IEEE Access/, Under Review, 2020.
+. Seokwon Lee, Jinrae Kim, Namhoon Cho, and Youdan Kim, "*Impact Time Guidance with Look Angle Constraint Using Exact Time-to-Go Solution*," /Journal of Guidance, Control, and Dynamics/, Under Review, 2020.
 . Namhoon Cho, Jinrae Kim, Seokwon Lee, and Youdan Kim, "*Nonlinear Bias Shaping Designs for Guidance under Constraints and Feasible Initial Conditions*," /IEEE Transactions on Aerospace and Electronic Systems/, Under Review, 2020.
-. Seokwon Lee, and Namhoon Cho, "*Inverse Optimality of Pure Proportional Navigation Guidance*," /IEEE Transactions on Aerospace and Electronic Systems/, Under Review, 2020.
 . Namhoon Cho, Jongho Park, Youdan Kim, and Hyo-Sang Shin, "*Finite-Horizon Feedback Control with Trajectory Shaping Based on Control Parametrisation*," /IEEE Transactions on Aerospace and Electronic Systems/, Under Review, 2020.
-#. Youngil Kim, Namhoon Cho, Jongho Park, and Youdan Kim, "*Energy Management Waypoint Planning for Missile Trajectory with Terminal Velocity Constraint*," /IEEE Transactions on Aerospace and Electronic Systems/, Under Review, 2020.
-. Namhoon Cho, and Youdan Kim, "*Quadratic Optimisation of Initial State for Dynamic Controller in Linear Systems*," /IEEE Transactions on Aerospace and Electronic Systems/, Under Review, 2019.
-. Namhoon Cho, and Yong-In Lee, "*Guidance Synthesis with Separate Impact Point Prediction Considering Speed Variations*," /Journal of Guidance, Control, and Dynamics/, Accepted for Publication, 2020.
+. Namhoon Cho, and Youdan Kim, "*Quadratic Optimisation of Initial State for Dynamic Controller in Linear Systems*," /IEEE Transactions on Aerospace and Electronic Systems/, Accepted for Publication, 2020.
+. Namhoon Cho, and Yong-In Lee, "*Guidance Synthesis with Separate Impact Point Prediction Considering Speed Variations*," /Journal of Guidance, Control, and Dynamics/, Online Published, 2020.\n [https://doi.org/10.2514/1.G005191 DOI:10.2514/1.G005191]
 . Jinrae Kim, Namhoon Cho, and Youdan Kim, "*Field-of-View-Constrained Impact Angle Control Guidance with Error Convergence before Interception Considering Speed Changes*," /Proceedings of the Institution of Mechanical Engineers, Part G: Journal of Aerospace Engineering/, Online Published, 2020.\n [https://doi.org/10.1177/0954410020942010 DOI:10.1177/0954410020942010]
 . Namhoon Cho, Youdan Kim, and Chang-Hun Lee, "*Schwarz Inequality Method for Weighted Minimum Effort Terminal Control of Multi-Dimensional Systems*," /Journal of Guidance, Control, and Dynamics/, Vol. 43, No. 10, 2020, pp. 1893-1903.\n [https://doi.org/10.2514/1.G005104 DOI:10.2514/1.G005104]
 . Seokwon Lee, Namhoon Cho, and Youdan Kim, "*Impact-Time-Control Guidance Strategy with a Composite Structure Considering the Seeker's Field-of-View Constraint*," /Journal of Guidance, Control, and Dynamics/, Vol. 43, No.8, 2020, pp. 1566-1574.\n [https://doi.org/10.2514/1.G005063 DOI:10.2514/1.G005063]
@@ -34,6 +35,7 @@
 . Chulwoo Park, Namhoon Cho, Kyunghyun Lee, and Youdan Kim, "*Formation Flight of Multiple UAVs Using Onboard Information Sharing*," /Sensors/, Vol. 15, No. 7, 2015, pp. 17397-17419.\n [https://doi.org/10.3390/s150717397 DOI:10.3390/s150717397]
 
 == International Conference
+. Namhoon Cho, and Seokwon Lee, "*Control of Arrival Time under Look Angle Box Constraint with Exact Knowledge of Time-to-Go*," /6th CEAS EuroGNC Conference/, Berlin, Germany, May 2021, Submitted.
 . Namhoon Cho, "*Nonlinear Optimal Missile Guidance for Stationary Target Interception with Pendulum Motion Perspective*," /40th American Control Conference/, New Orleans, LA, USA, May 2021, Submitted.
 . Namhoon Cho, Jinrae Kim, and Seokwon Lee, "*Feasible Initial Conditions for Bias Proportional Navigation Guidance Laws Under Look Angle Constraints*," /28th Mediterranean Conference on Control and Automation/, Virtual (Saint-Raphael, France), September 2020.\n [https://doi.org/10.1109/MED48518.2020.9183280 DOI:10.1109/MED48518.2020.9183280]
 #. Namhoon Cho, "*Nonlinear Optimal Missile Guidance for Stationary Target Interception with Pendulum Motion Perspective*," /21st IFAC World Congress/, Berlin, Germany, July 2020, Accepted for Presentation.
@@ -66,22 +68,23 @@
 #== Domestic Journal
 
 == Domestic Conference
-. 최병훈, 조남훈, "*Non-smooth 최적화 기법을 이용한 복수 플랜트에 대한 고정 구조 제어기 설계*," /한국항공우주학회 추계학술발표회/, 라마다프라자 제주호텔, 제주시, 제주도, 2020년 11월.\n [http://www.dbpia.co.kr/ Link TBD]
-. 조남훈, "*제어기 구조에 따른 가속도 제어기의 특성 비교*," /한국항공우주학회 춘계학술발표회/, 델피노 골프앤리조트리조, 고성군, 강원도, 2020년 7월.\n [http://www.dbpia.co.kr/Journal/ArticleDetail/NODE09318235 Link]
-. 조남훈, "*제어기 구조에 따른 피치 자세제어기의 특성 비교*," /한국항공우주학회 추계학술발표회/, 라마다프라자 제주호텔, 제주시, 제주도, 2019년 11월.\n [http://www.dbpia.co.kr/Journal/ArticleDetail/NODE09318235 Link]
-. 김진래, 조남훈, 이수원, 김유단, "*최종속도조건을 고려한 무추력 비행체의 Pythagorean-Hodograph 곡선 기반 경로계획*," /한국항공우주학회 춘계학술발표회/, 대명리조트 변산, 부안군, 전라북도, 2019년 4월.\n [http://www.dbpia.co.kr/Journal/ArticleDetail/NODE08753036 Link]
-. 김성훈, 조남훈, 김유단, "*Generic Transport Model을 이용한 모델추종 적응제어기의 주파수 상계 검증*," /한국항공우주학회 춘계학술발표회/, 설악 대명리조트 델피노, 고성군, 강원도, 2018년 4월.\n [http://www.dbpia.co.kr/Journal/ArticleDetail/NODE07525696 Link]
-. 이수원, 조남훈, 김유단, "*Pythagorean Hodograph 곡선을 이용한 무추력 비행체 비행경로 설계*," /한국항공우주학회 추계학술발표회/, 라마다프라자 제주호텔, 제주시, 제주도, 2017년 11월.\n [http://www.dbpia.co.kr/Journal/ArticleDetail/NODE07366932 Link]
+. 조남훈, "*Interior Point 기법을 활용한 효율적 궤적 최적화*," /한국항공우주학회 추계학술발표회/, 라마다프라자 제주호텔, 제주시, 제주도, 2020년 11월.\n [https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE Link TBD]
+. 최병훈, 조남훈, "*Non-smooth 최적화 기법을 이용한 복수 플랜트에 대한 고정 구조 제어기 설계*," /한국항공우주학회 추계학술발표회/, 라마다프라자 제주호텔, 제주시, 제주도, 2020년 11월.\n [https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE Link TBD]
+. 조남훈, "*제어기 구조에 따른 가속도 제어기의 특성 비교*," /한국항공우주학회 춘계학술발표회/, 델피노 골프앤리조트리조, 고성군, 강원도, 2020년 7월.\n [https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE10442338 Link]
+. 조남훈, "*제어기 구조에 따른 피치 자세제어기의 특성 비교*," /한국항공우주학회 추계학술발표회/, 라마다프라자 제주호텔, 제주시, 제주도, 2019년 11월.\n [https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE09318235 Link]
+. 김진래, 조남훈, 이수원, 김유단, "*최종속도조건을 고려한 무추력 비행체의 Pythagorean-Hodograph 곡선 기반 경로계획*," /한국항공우주학회 춘계학술발표회/, 대명리조트 변산, 부안군, 전라북도, 2019년 4월.\n [https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE08753036 Link]
+. 김성훈, 조남훈, 김유단, "*Generic Transport Model을 이용한 모델추종 적응제어기의 주파수 상계 검증*," /한국항공우주학회 춘계학술발표회/, 설악 대명리조트 델피노, 고성군, 강원도, 2018년 4월.\n [https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE07525696 Link]
+. 이수원, 조남훈, 김유단, "*Pythagorean Hodograph 곡선을 이용한 무추력 비행체 비행경로 설계*," /한국항공우주학회 추계학술발표회/, 라마다프라자 제주호텔, 제주시, 제주도, 2017년 11월.\n [https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE07366932 Link]
 . 조남훈, 홍유경, 이수원, 김유단, 송찬호, "*바람에 따른 경로점 변경에 의한 활공유도폭탄의 궤적보정*," /한국군사과학기술학회 2017 종합학술대회/, 제주 국제컨벤션센터, 서귀포시, 제주도, 2017년 6월.
 #. 김병훈, 이수원, 이재호, 이소망, 이지훈, 조남훈, 김유단, 주광혁, "*달 궤도선 자세제어계 시뮬레이터 개념연구 및 3차원 가시화장치 구축*," /한국항공우주학회 춘계학술발표회/, 대명리조트 쏠비치, 삼척시, 강원도, 2017년 4월.
-. 이수원, 조남훈, 홍유경, 김유단, "*RRT 기법을 이용한 무추력 비행체의 궤적 보정*," /한국항공우주학회 추계학술발표회/, 라마다프라자 제주호텔, 제주시, 제주도, 2016년 11월.\n [http://www.dbpia.co.kr/Journal/ArticleDetail/NODE07090427 Link]
+. 이수원, 조남훈, 홍유경, 김유단, "*RRT 기법을 이용한 무추력 비행체의 궤적 보정*," /한국항공우주학회 추계학술발표회/, 라마다프라자 제주호텔, 제주시, 제주도, 2016년 11월.\n [https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE07090427 Link]
 . 홍유경, 조남훈, 김유단, "*기준궤적 형성을 위한 무추력 유도폭탄의 궤적최적화*," /한국군사과학기술학회 종합학술대회/, 제주 국제컨벤션센터, 제주, 제주도, 2016년 6월.
-. 김병훈, 조남훈, 이재호, 이소망, 이지훈, 이수원, 김유단, 주광혁, "*자동코드생성을 이용한 달 궤도선 제어 기초연구*," /한국항공우주학회 춘계학술발표회/, 설악 대명리조트 델피노, 고성군, 강원도, 2016년 4월.\n [http://www.dbpia.co.kr/Journal/ArticleDetail/NODE07068032 Link]
-. 박철우, 조남훈, 김유단, "*비선형 유도기법 기반의 복수무인기의 근접 편대비행*," /한국항공우주학회 춘계학술발표회/, 하이원리조트 컨벤션호텔, 정선군, 강원도, 2015년 4월.\n [http://www.dbpia.co.kr/Article/NODE06591153 Link]
+. 김병훈, 조남훈, 이재호, 이소망, 이지훈, 이수원, 김유단, 주광혁, "*자동코드생성을 이용한 달 궤도선 제어 기초연구*," /한국항공우주학회 춘계학술발표회/, 설악 대명리조트 델피노, 고성군, 강원도, 2016년 4월.\n [https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE07068032 Link]
+. 박철우, 조남훈, 김유단, "*비선형 유도기법 기반의 복수무인기의 근접 편대비행*," /한국항공우주학회 춘계학술발표회/, 하이원리조트 컨벤션호텔, 정선군, 강원도, 2015년 4월.\n [https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE06591221 Link]
 . 조남훈, 박철우, 김유단, "*복수 무인항공기의 분산시스템에 의한 선회편대의 분리 및 재생성 비행시험*," /한국항공우주학회 춘계학술발표회/, 하이원리조트 컨벤션호텔, 정선군, 강원도, 2015년 4월.\n [http://www.dbpia.co.kr/Article/NODE06591221 Link]
-. 조남훈, 김유단, "*무인항공기 유도법칙과 제어기의 통합을 위한 제어명령 생성*," /한국항공우주학회 추계학술발표회/, 라마다프라자 제주호텔, 제주시, 제주도, 2013년 11월.\n [http://www.dbpia.co.kr/Article/3333610 Link]
-. 조남훈, 김유단, "*궤환선형화 기법을 이용한 무인항공기 2차원 지상 이동목표물 추적 유도기법*," /한국항공우주학회 춘계학술발표회/, 하이원리조트 컨벤션호텔, 정선군, 강원도, 2013년 4월.\n [http://www.dbpia.co.kr/Article/3283486 Link]
-. 조남훈, 박철우, 오경택, 김유단, "*Quad-Tilt-Ducted Fan 무인항공기 동역학 모델링 및 수직비행 제어기 설계*," /한국항공우주학회 춘계학술발표회/, 하이원리조트 컨벤션호텔, 정선군, 강원도, 2012년 4월.\n [http://www.dbpia.co.kr/Article/1921487 Link]
+. 조남훈, 김유단, "*무인항공기 유도법칙과 제어기의 통합을 위한 제어명령 생성*," /한국항공우주학회 추계학술발표회/, 라마다프라자 제주호텔, 제주시, 제주도, 2013년 11월.\n [https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE02328340 Link]
+. 조남훈, 김유단, "*궤환선형화 기법을 이용한 무인항공기 2차원 지상 이동목표물 추적 유도기법*," /한국항공우주학회 춘계학술발표회/, 하이원리조트 컨벤션호텔, 정선군, 강원도, 2013년 4월.\n [https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE02278216 Link]
+. 조남훈, 박철우, 오경택, 김유단, "*Quad-Tilt-Ducted Fan 무인항공기 동역학 모델링 및 수직비행 제어기 설계*," /한국항공우주학회 춘계학술발표회/, 하이원리조트 컨벤션호텔, 정선군, 강원도, 2012년 4월.\n [https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE01838585 Link]
 
 == Domestic Patent
 . 조남훈, 김유단, "*곡선의 미분 기하에 기반한 3차원 비선형 경로 추종 유도 시스템 및 방법*," 2014년 10월 21일 출원, 2017년 12월 22일 등록. (출원번호 : 10-2014-0142510, 등록번호 : 10-1813610)
