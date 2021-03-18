@@ -1,5 +1,5 @@
 # jemdoc: menu{MENU}{index.html}, notime
-= Namhoon Cho, Ph.D.
+= Namhoon Cho, PhD
 
 ~~~
 {}{img_left}{Images/2014_NamhoonCho.jpeg}{}{150}{}{}
@@ -15,28 +15,28 @@ School of Aerospace, Transport and Manufacturing\n
 Cranfield University
 
 == Education
-- *2012.9\~2017.2*: Ph.D. in Mechanical and Aerospace Engineering, Seoul National University\n
+- *2012.9\~2017.2*: PhD in Mechanical and Aerospace Engineering, Seoul National University\n
 	Dissertation: Nonlinear Guidance Law for Three-Dimensional Path-Following Using Differential Geometry\n
 	Supervisor: Prof. Youdan Kim
-- *2009.3\~2012.8*: B.S. in Mechanical and Aerospace Engineering, Seoul National University\n
+- *2009.3\~2012.8*: BSc in Mechanical and Aerospace Engineering, Seoul National University\n
 	Thesis: Dynamic Modeling, Vertical Flight Controller Design, and Attitude Control Experiment of Quad-Tilt-Ducted Fan UAV (in Korean)\n
 	Supervisor: Prof. Youdan Kim
 - *2007.3\~2009.2*: Seoul Science High School
 
 == Experience
-- *2021.1.18\~Present*: Research Fellow ([https://www.cranfield.ac.uk/research/engage-with-us/fellowships/75th-anniversary-fellowship-scheme/75th-anniversary-fellows Cranfield 75th Anniversary Fellowship], [https://www.cranfield.ac.uk/press/news-2021/cranfields-75th-anniversary-research-fellowship-open-to-new-applications Press Release]), [https://www.cranfield.ac.uk/centres/centre-for-autonomous-and-cyberphysical-systems Centre for Cyber-Physical Systems], School of Aerospace, Transport and Manufacturing, Cranfield University\n
+- *2021.1.18\~Present*: Research Fellow ([https://www.cranfield.ac.uk/research/engage-with-us/fellowships/75th-anniversary-fellowship-scheme/75th-anniversary-fellows Cranfield 75th Anniversary Fellowship], [https://www.cranfield.ac.uk/press/news-2021/cranfields-75th-anniversary-research-fellowship-open-to-new-applications Press Release]), [https://www.cranfield.ac.uk/centres/centre-for-autonomous-and-cyberphysical-systems Centre for Cyber-Physical Systems], [https://www.cranfield.ac.uk/themes/aerospace School of Aerospace, Transport and Manufacturing], [https://www.cranfield.ac.uk Cranfield University]\n
 	Line Manager: Prof. Hyo-Sang Shin
-- *2019.3.1\~2020.12.31*: Senior Researcher, Team 2, 4th Directorate, The 1st R\&D Institute, Agency for Defense Development
-- *2017.12.1\~2019.2.28*: Postdoctoral Research Fellow, [http://aerospace.snu.ac.kr Department of Mechanical and Aerospace Engineering], Seoul National University
-- *2017.3.1\~2018.8.31*: Researcher, [http://asri.snu.ac.kr Automation and Systems Research Institute], Seoul National University
-- *2015.11.14\~2016.4.28*: Visiting Research Student, [https://www.cranfield.ac.uk/centres/centre-for-autonomous-and-cyberphysical-systems Centre for Cyber-Physical Systems], School of Aerospace, Transport and Manufacturing, Cranfield University\n
+- *2019.3.1\~2020.12.31*: Senior Researcher, Team 2, 4th Directorate, The 1st R\&D Institute, [https://www.add.re.kr/eps Agency for Defense Development]
+- *2017.12.1\~2019.2.28*: Postdoctoral Research Fellow, [http://aerospace.snu.ac.kr Department of Mechanical and Aerospace Engineering], [https://en.snu.ac.kr Seoul National University]
+- *2017.3.1\~2018.8.31*: Researcher, [http://asri.snu.ac.kr Automation and Systems Research Institute], [https://en.snu.ac.kr Seoul National University]
+- *2015.11.14\~2016.4.28*: Visiting Research Student, [https://www.cranfield.ac.uk/centres/centre-for-autonomous-and-cyberphysical-systems Centre for Autonomous and Cyber-Physical Systems], [https://www.cranfield.ac.uk/themes/aerospace School of Aerospace, Transport and Manufacturing], [https://www.cranfield.ac.uk Cranfield University]\n
 	Supervisor: Dr. Hyo-Sang Shin, Prof. Antonios Tsourdos
 - *2008.8.19\~2008.8.28*: The 2nd International Olympiad on Astronomy and Astrophysics (IOAA), Member of the Korean National Team, Silver Medalist
 - *2007.11.21\~2007.11.29*: The 3rd Asian-Pacific Astronomy Olympiad (APAO), Member of the Korean National Team, Bronze Medalist
 
 == Research Projects
 === Research Projects participated in [http://www.add.re.kr Agency for Defense Development]
-- *2019.3\~2020.12*: Development of Guidance and Control System for Missiles
+- *2019.3\~2020.12*: Development of Guidance and Control Systems for Missiles
 
 === Research Projects participated in [http://fdcl.snu.ac.kr Flight Dynamics and Control Laboratory], [http://www.snu.ac.kr Seoul National University]
 - *2017.1\~2019.2*: Study on Trajectory Generation and Improved Guidance/Control System for Precision Guided Munition, LIG Nex1
@@ -46,10 +46,15 @@ Cranfield University
 - *2013.2\~2014.12*: Study on Distributed System of Multiple Unmanned Aerial Vehicles, Agency for Defense Development (ADD)
 
 == Honors & Awards & Scholarships
+- *2021.1*: Cranfield 75th Anniversary Fellowship, Cranfield University
 - *2017.2*: Outstanding Doctoral Dissertation Award, Department of Mechanical and Aerospace Engineering, Seoul National University
 - *2012.8*: Summa Cum Laude Graduate, Seoul National University
 - *2011.3\~Present*: Member of STEM (Honor Society of College of Engineering, Seoul National University)
 - *2009.9\~2012.8*: Academic Excellence Scholarship from Seoul National University
+
+== Short Bio
+Namhoon Cho is a research fellow in the Centre for Autonomous and Cyber-Physical Systems, School of Aerospace, Transport and Manufacturing, Cranfield University, United Kingdom, since January 2021, where he has been awarded a Cranfield 75th Anniversary Fellowship. He received his BSc and PhD degrees in Mechanical and Aerospace Engineering from Seoul National University, South Korea, in August 2012 and February 2017, respectively. Previously, he was a senior researcher in the 1st R\&D Institute, Agency for Defense Development, South Korea, from March 2019 to December 2020, where he was involved in research and development of guidance and control systems for missiles and developed design tools based on optimisation techniques. He was a research fellow in the Department of Mechanical and Aerospace Engineering, Seoul National University, South Korea, from March 2017 to February 2019. He develops methodologies for the design and analysis of control and estimation systems, with a particular emphasis on autonomous aerospace vehicles. His research interests include robust adaptive control methods based on online model learning, applications of machine learning algorithms to problems in control and estimation, unified frameworks for automated design of optimal guidance and control systems, and online trajectory optimisation.
+
 
 #== Skills
 #=== Basics
