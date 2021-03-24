@@ -7,6 +7,7 @@
 == International Journal
 #. Seonghun Kim, Namhoon Cho, and Youdan Kim, "*Frequency Limiting in MRAC*," /IEEE Transactions on Control Systems Technology/, Under Review, 2019.
 #. Namhoon Cho, "*A Practical Midcourse Guidance Algorithm for Surface-to-Air Missile Based on Online Quadratic Programming*," /Journal of Guidance, Control, and Dynamics/, In Preparation, 2020.
+#. Namhoon Cho, Jinrae Kim, Seokwon Lee, and Youdan Kim, "*Nonlinear Bias Shaping Designs for Guidance under Constraints and Feasible Initial Conditions*," /IEEE Transactions on Aerospace and Electronic Systems/, Under Review, 2020.
 . Namhoon Cho, Jongho Park, Youdan Kim, and Hyo-Sang Shin, "*Finite-Horizon Feedback Control with Trajectory Shaping Based on Control Parametrisation*," /IEEE Transactions on Control Systems Technology/, In Preparation, 2021.
 . Namhoon Cho, Jinrae Kim, Seokwon Lee, and Youdan Kim, "*Biased Proportional Navigation Guidance Law Based on Predictive Correction of Flight Path*," /Journal of Guidance, Control, and Dynamics/, In Preparation, 2020
 . Namhoon Cho, and Hae-In Lee, "*A Low-Order Approximation of Best Achievable Robustness Based on Sensitivity Inversion*," /Journal of Guidance, Control, and Dynamics/, In Preparation, 2021.
@@ -16,8 +17,7 @@
 . Namhoon Cho, and Seokwon Lee, "*Look-Angle-Constrained Control of Arrival Time with Exact Knowledge of Time-to-Go*," /Journal of Guidance, Control, and Dynamics/, Under Review, 2021.
 . Boseok Kim, Young-Won Kim, Namhoon Cho, and Chang-Hun Lee, "*Collision-Geometry-Based Optimal Guidance for High-Speed Target*," /Aerospace Science and Technology/, Under Review, 2021.
 . Seokwon Lee, Jinrae Kim, Namhoon Cho, and Youdan Kim, "*Impact Time Guidance with Look Angle Constraint Using Exact Time-to-Go Solution*," /IEEE Transactions on Aerospace and Electronic Systems/, Under Review, 2021.
-. Youngil Kim, Namhoon Cho, Jongho Park, and Youdan Kim, "*Design Framework for Optimizing Waypoints of Vehicle Trajectory Considering Terminal Velocity and Impact Angle Constraints*," /Engineering Optimization/, Under Review, 2020.
-. Namhoon Cho, Jinrae Kim, Seokwon Lee, and Youdan Kim, "*Nonlinear Bias Shaping Designs for Guidance under Constraints and Feasible Initial Conditions*," /IEEE Transactions on Aerospace and Electronic Systems/, Under Review, 2020.
+. Youngil Kim, Namhoon Cho, Jongho Park, and Youdan Kim, "*Design Framework for Optimizing Waypoints of Vehicle Trajectory Considering Terminal Velocity and Impact Angle Constraints*," /Engineering Optimization/, Accepted for Publication, 2021.
 . Namhoon Cho, and Youdan Kim, "*Quadratic Optimisation of Initial State for Dynamic Controller in Linear Systems*," /IEEE Transactions on Aerospace and Electronic Systems/, Online Published, 2021.\n [https://doi.org/10.1109/TAES.2020.3037974 DOI:10.1109/TAES.2020.3037974]
 . Namhoon Cho, and Yong-In Lee, "*Guidance Synthesis with Separate Impact Point Prediction Considering Speed Variations*," /Journal of Guidance, Control, and Dynamics/, Vol. 44, No. 2, 2021, pp. 428-440.\n [https://doi.org/10.2514/1.G005191 DOI:10.2514/1.G005191]
 . Jinrae Kim, Namhoon Cho, and Youdan Kim, "*Field-of-View-Constrained Impact Angle Control Guidance with Error Convergence before Interception Considering Speed Changes*," /Proceedings of the Institution of Mechanical Engineers, Part G: Journal of Aerospace Engineering/, Vol. 235, No. 2, 2021, pp. 238-256.\n [https://doi.org/10.1177/0954410020942010 DOI:10.1177/0954410020942010]
