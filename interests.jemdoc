@@ -10,16 +10,16 @@
 ~~~
 
 == Research Statement
-Design and Analysis of Planning and Control Algorithms\n
+Design and Analysis of Planning, Control, and Estimation Algorithms\n
 with Applications to Autonomous Aerospace Vehicles
 
 == Research Interests
 My research interests include, but are not limited to, the following topics:
-=== Theory: Theoretical Developments & Mathematical Analysis
+=== Theory: Generalised Formulation Based on Unified View & Mathematical Analysis
 - *Motion Planning*
 	-- Sampling-based global waypoint planning
-	-- Optimization-based local path generation/smoothing
-	-- Trajectory optimization
+	-- Optimisation-based local path generation/smoothing
+	-- Trajectory optimisation
 - *Guidance Laws for UAVs and Missiles*
 	-- Design and analysis of nonlinear guidance laws which preserve geometric/physical intuition but also incorporate rigorous mathematical insight
 	-- Bridging the gap between geometric methods and control-theoretic methods
@@ -34,7 +34,7 @@ My research interests include, but are not limited to, the following topics:
 	-- Reinforcement learning for feedback control considering continuous action space
 	-- Model-based policy search
 
-=== Practice: Implementation Details & Flight Experiments
+=== Practice: Implementation & Flight Experiments
 - Decentralised Control System of Multiple Fixed-Wing UAVs
 - Aggressive Manoeuvring Flight of Small Fixed-Wing UAV
 - Research Testbed Aircraft & Hardware System Development
