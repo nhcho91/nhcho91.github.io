@@ -15,4 +15,3 @@ git add --all
 git commit -m "housekeeping shell script"
 git push origin master
 git status
-echo "\n"
