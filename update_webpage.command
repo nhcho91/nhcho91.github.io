@@ -5,7 +5,7 @@ cd -- "$(dirname -- "$BASH_SOURCE")"
 # BibTeX -> jemdoc
 
 # jemdoc -> html
-echo "\n\njemdoc ----> html"
+echo "\njemdoc ----> html"
 ./jemdoc -c mysite.conf *.jemdoc
 
 
