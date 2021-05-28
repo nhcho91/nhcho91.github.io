@@ -3,7 +3,7 @@
 
 body {
 	background-color: white;
-	font-family: Times;
+	font-family: "Helvetica Neue Light", sans-serif;
 }
 
 #layout-menu {
@@ -113,7 +113,7 @@ em {
 }
 
 strong {
-	font-weight: bold;
+	font-weight: normal;
 }
 
 
