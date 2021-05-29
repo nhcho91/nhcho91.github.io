@@ -6,11 +6,11 @@ cd -- "$(dirname -- "$BASH_SOURCE")"
 
 # jemdoc -> html
 echo "\njemdoc ----> html"
-./jemdoc -c mysite.conf *.jemdoc
+./jemdoc -c mathjax.conf *.jemdoc
 
 
 # local -> git repo
-echo "\n\nlocal dir ----> git repo"
+echo "\nlocal dir ----> git repo"
 git add --all
 git commit -m "housekeeping shell script"
 git push origin master
