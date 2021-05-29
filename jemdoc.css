@@ -7,8 +7,9 @@ body {
 }
 
 b {
+	color: teal;
 	font-family: "Helvetica Neue Light", sans-serif;
-	font-weight: 500;
+	font-weight: 400;
 }
 
 #layout-menu {
