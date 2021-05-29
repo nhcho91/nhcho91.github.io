@@ -4,15 +4,20 @@
 body {
 	background-color: white;
 	font-family: "Helvetica Neue Light", sans-serif;
+	font-style: normal;
+	font-weight: normal;
 }
 
 b {
 	font-family: "Helvetica Neue", sans-serif;
+	font-style: normal;
 	font-weight: normal;
 }
 
 i {
 	font-family: "Helvetica Neue Light", sans-serif;
+	font-style: italic;
+	font-weight: 300;
 }
 
 #layout-menu {
