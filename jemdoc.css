@@ -7,9 +7,12 @@ body {
 }
 
 b {
-	color: darkblue;
+	font-family: "Helvetica Neue", sans-serif;
+	font-weight: normal;
+}
+
+i {
 	font-family: "Helvetica Neue Light", sans-serif;
-	font-weight: 400;
 }
 
 #layout-menu {
