@@ -126,7 +126,8 @@ def format_bibtex(pub, format, main_author, initials):
         title = '"*' + title + '*,"'
         journal = '/' + journal + '/'
         booktitle = '/' + booktitle + '/'
-        doi = '[https://doi.org/' + doi + ' DOI:' + doi + ']'
+        if doi ~= '':
+            doi = '[https://doi.org/' + doi + ' DOI:' + doi + ']'
         link = '[' + link + ' Link]'
         institution = '/' + institution + '/'
     elif format == 'tex':
