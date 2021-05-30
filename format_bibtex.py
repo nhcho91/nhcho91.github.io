@@ -151,7 +151,12 @@ def format_bibtex(pub, format, main_author, initials):
     if entry_type == 'book':
         ref = authors + '. ' + title + ' ' + address + ': ' + publisher + ', ' + year + '.'
     elif entry_type == 'article':
-        ref = authors + ', ' + title + ' ' + journal + ', Vol. ' + volume + ', No. ' + number + ', pp. ' + pages + ', ' + year + '. \\n' + doi
+        ref = authors + ', ' + title + ' ' + journal + ', Vol. ' + volume
+        if number != '':
+            ref = ref + ', No. ' + number
+        if pages != '':
+            ref = ref + ', pp. ' + pages
+        ref = ref + ', ' + year + '. \\n' + doi
     elif entry_type == 'inproceedings' or entry_type == 'incollection':
         ref = authors + ', ' + title + ' ' + booktitle + ', ' + address + ', ' + month + ' ' + year + '. \\n' + doi
     elif entry_type == 'mastersthesis':
