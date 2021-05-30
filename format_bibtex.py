@@ -295,7 +295,7 @@ def create_research_file(db, format, outname, main_author, initials):
                 journals.sort(reverse=True, key=access_year)
                 the_file.write('\\textsc{Journals}\n')
                 the_file.write('\\vspace{0.5em}\n')
-                the_file.write('\\begin{enumerate}[itemsep=0.5em, label={[}J\\arabic*{]}]')
+                the_file.write('\\begin{enumerate}[itemsep=0.5em, label={[}J\\arabic*{]}]\n')
                 for journal in journals:
                     the_file.write('\\item ' + journal[0] + '\n\n')
                 the_file.write('\\end{enumerate}')
@@ -305,7 +305,7 @@ def create_research_file(db, format, outname, main_author, initials):
                 conferences.sort(reverse=True, key=access_year)
                 the_file.write('\\textsc{Conferences}\n')
                 the_file.write('\\vspace{0.5em}\n')
-                the_file.write('\\begin{enumerate}[itemsep=0.5em, label={[}C\\arabic*{]}]')
+                the_file.write('\\begin{enumerate}[itemsep=0.5em, label={[}C\\arabic*{]}]\n')
                 for conference in conferences:
                     the_file.write('\\item ' + conference[0] + '\n\n')
                 the_file.write('\\end{enumerate}')
@@ -315,7 +315,7 @@ def create_research_file(db, format, outname, main_author, initials):
                 techreports.sort(reverse=True, key=access_year)
                 the_file.write('\\textsc{Technical Reports}\n')
                 the_file.write('\\vspace{0.5em}\n')
-                the_file.write('\\begin{enumerate}[itemsep=0.5em, label={[}TR\\arabic*{]}]')
+                the_file.write('\\begin{enumerate}[itemsep=0.5em, label={[}TR\\arabic*{]}]\n')
                 for techreport in techreports:
                     the_file.write('\\item ' + techreport[0] + '\n\n')
                 the_file.write('\\end{enumerate}')
@@ -325,7 +325,7 @@ def create_research_file(db, format, outname, main_author, initials):
                 koreanconferences.sort(reverse=True, key=access_year)
                 the_file.write('\\textsc{National Conferences}\n')
                 the_file.write('\\vspace{0.5em}\n')
-                the_file.write('\\begin{enumerate}[itemsep=0.5em, label={[}NC\\arabic*{]}]')
+                the_file.write('\\begin{enumerate}[itemsep=0.5em, label={[}NC\\arabic*{]}]\n')
                 for koreanconference in koreanconferences:
                     the_file.write('\\item ' + koreanconference[0] + '\n\n')
                 the_file.write('\\end{enumerate}')
@@ -335,7 +335,7 @@ def create_research_file(db, format, outname, main_author, initials):
                 patents.sort(reverse=True, key=access_year)
                 the_file.write('\\textsc{Patents}\n')
                 the_file.write('\\vspace{0.5em}\n')
-                the_file.write('\\begin{enumerate}[itemsep=0.5em, label={[}P\\arabic*{]}]')
+                the_file.write('\\begin{enumerate}[itemsep=0.5em, label={[}P\\arabic*{]}]\n')
                 for patent in patents:
                     the_file.write('\\item ' + patent[0] + '\n\n')
                 the_file.write('\\end{enumerate}')
