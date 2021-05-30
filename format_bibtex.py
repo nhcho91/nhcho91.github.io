@@ -289,7 +289,7 @@ def create_research_file(db, format, outname, main_author, initials):
                 for thesis in theses:
                     the_file.write('\\item ' + thesis[0] + '\n\n')
                 the_file.write('\\end{enumerate}\n')
-                the_file.write('\\vspace{0.5em}\n')
+                the_file.write('\\vspace{0.5em}\n\n')
 
             if journals:
                 journals.sort(reverse=True, key=access_year)
@@ -299,7 +299,7 @@ def create_research_file(db, format, outname, main_author, initials):
                 for journal in journals:
                     the_file.write('\\item ' + journal[0] + '\n\n')
                 the_file.write('\\end{enumerate}\n')
-                the_file.write('\\vspace{0.5em}\n')
+                the_file.write('\\vspace{0.5em}\n\n')
 
             if conferences:
                 conferences.sort(reverse=True, key=access_year)
@@ -309,7 +309,7 @@ def create_research_file(db, format, outname, main_author, initials):
                 for conference in conferences:
                     the_file.write('\\item ' + conference[0] + '\n\n')
                 the_file.write('\\end{enumerate}\n')
-                the_file.write('\\vspace{0.5em}\n')
+                the_file.write('\\vspace{0.5em}\n\n')
 
             if techreports:
                 techreports.sort(reverse=True, key=access_year)
@@ -319,7 +319,7 @@ def create_research_file(db, format, outname, main_author, initials):
                 for techreport in techreports:
                     the_file.write('\\item ' + techreport[0] + '\n\n')
                 the_file.write('\\end{enumerate}\n')
-                the_file.write('\\vspace{0.5em}\n')
+                the_file.write('\\vspace{0.5em}\n\n')
 
             if koreanconferences:
                 koreanconferences.sort(reverse=True, key=access_year)
@@ -329,7 +329,7 @@ def create_research_file(db, format, outname, main_author, initials):
                 for koreanconference in koreanconferences:
                     the_file.write('\\item ' + koreanconference[0] + '\n\n')
                 the_file.write('\\end{enumerate}\n')
-                the_file.write('\\vspace{0.5em}\n')
+                the_file.write('\\vspace{0.5em}\n\n')
 
             if patents:
                 patents.sort(reverse=True, key=access_year)
