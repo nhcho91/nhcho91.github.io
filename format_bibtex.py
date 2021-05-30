@@ -138,7 +138,7 @@ def format_bibtex(pub, format, main_author, initials):
         journal = '\\textit{' + journal + '}'
         booktitle = '\\textit{' + booktitle + '}'
         if doi != '':
-            doi = '\\\\\n\\href{https://doi.org/' + doi + '}{DOI:' + doi + '}'
+            doi = '\\\\\n\\href{https://doi.org/' + doi + '}{DOI:' + doi.replace('_', '\\_') + '}'
         if link != '':
             link = '\\\\\n\\href{' + link + '}{Link}'
         institution = '\\textit{' + institution + '}'
