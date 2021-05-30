@@ -159,10 +159,12 @@ def format_bibtex(pub, format, main_author, initials):
         if pages != '':
             ref = ref + ', pp. ' + pages
         ref = ref + ', ' + year + '. ' + doi
-    elif entry_type == 'inproceedings':
-        ref = authors + ', ' + title + ' ' + booktitle + ', ' + address + ', ' + month + ' ' + year + '. ' + doi
-    elif entry_type == 'incollection':
-        ref = authors + ', ' + title + ' ' + booktitle + ', ' + address + ', ' + month + ' ' + year + '. ' + link
+    elif entry_type == 'inproceedings' or entry_type == 'incollection':
+        ref = authors + ', ' + title + ' ' + booktitle + ', ' + address + ', ' + month + ' ' + year + '. '
+        if doi != '':
+            ref = ref + doi
+        elif link != '':
+            ref = ref + link        
     elif entry_type == 'mastersthesis':
         ref = authors + ', ' + title + ' Master\'s Thesis, ' + school + ', ' + address + ', ' + year + '. ' + link
     elif entry_type == 'phdthesis':
