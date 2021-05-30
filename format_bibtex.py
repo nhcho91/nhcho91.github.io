@@ -209,7 +209,7 @@ def create_research_file(db, format, outname, main_author, initials):
         if format == 'jemdoc':
             the_file.write('# jemdoc: menu{MENU}{'+ outname + '.html}, notime\n')
             the_file.write('= Publications\n\n')
-            the_file.write('*[https://scholar.google.co.uk/citations?user=DhdeDm8AAAAJ Google Scholar]*')
+            the_file.write('*[https://scholar.google.co.uk/citations?user=DhdeDm8AAAAJ Google Scholar]*\n')
 
             # if books:
             #     books.sort(reverse=True, key=access_year)
