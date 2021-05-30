@@ -159,8 +159,10 @@ def format_bibtex(pub, format, main_author, initials):
         if pages != '':
             ref = ref + ', pp. ' + pages
         ref = ref + ', ' + year + '. ' + doi
-    elif entry_type == 'inproceedings' or entry_type == 'incollection':
+    elif entry_type == 'inproceedings'
         ref = authors + ', ' + title + ' ' + booktitle + ', ' + address + ', ' + month + ' ' + year + '. ' + doi
+    elif entry_type == 'incollection'
+        ref = authors + ', ' + title + ' ' + booktitle + ', ' + address + ', ' + month + ' ' + year + '. ' + link
     elif entry_type == 'mastersthesis':
         ref = authors + ', ' + title + ' Master\'s Thesis, ' + school + ', ' + address + ', ' + year + '. ' + link
     elif entry_type == 'phdthesis':
@@ -168,7 +170,7 @@ def format_bibtex(pub, format, main_author, initials):
     elif entry_type == 'techreport':
         ref = authors + ', ' + title + ' ' + institution + ', ' + note + ', ' + month + ' ' + year + '.'
     elif entry_type == 'misc':
-        ref = authors + ', ' + title + ' ' + note + '. \\n' + link
+        ref = authors + ', ' + title + ' ' + note + '. ' + doi
 
     return ref, entry_type, int(year)
 
