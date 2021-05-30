@@ -248,5 +248,6 @@ def homogeneize_latex_encoding(record):
                 logger.debug('Protect uppercase in title')
                 logger.debug('Before: %s', record[val])
                 record[val] = protect_uppercase(record[val])
+                record[val] = record[val].replace('훜fty', '\\infty')
                 logger.debug('After: %s', record[val])
     return record
