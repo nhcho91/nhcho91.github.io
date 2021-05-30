@@ -8,6 +8,7 @@ echo "\nBibTeX ----> jemdoc"
 python format_bibtex.py jemdoc pub_nhcho publications "" 0
 echo "\nBibTeX ----> LaTeX"
 python format_bibtex.py tex pub_nhcho publications Namhoon 0
+mv ~/Dropbox/Personal\ Homepage/nhcho91.github.io/pub_nhcho.bib ~/Dropbox/Personal\ Research/Documents/Curriculum\ Vitae/pub_nhcho.bib
 
 # jemdoc -> html
 echo "\njemdoc ----> html"

@@ -102,7 +102,7 @@ def format_bibtex(pub, format, main_author, initials):
                 if iF<(len(fnames)-1):
                     fname += ' '                # Space b/w author's first names
 
-        # Boldify main  author (depends on formatting style)
+        # Boldify main author (depends on formatting style)
         author = fname + ' ' + lname
         if main_author == lname:
             if format == 'jemdoc':
@@ -209,7 +209,7 @@ def create_research_file(db, format, outname, main_author, initials):
         if format == 'jemdoc':
             the_file.write('# jemdoc: menu{MENU}{'+ outname + '.html}, notime\n')
             the_file.write('= Publications\n\n')
-            the_file.write('*[https://scholar.google.co.uk/citations?user=DhdeDm8AAAAJ Google Scholar]*\n')
+            the_file.write('*[https://scholar.google.co.uk/citations?user=DhdeDm8AAAAJ Google Scholar]*\n\n')
 
             # if books:
             #     books.sort(reverse=True, key=access_year)
