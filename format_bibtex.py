@@ -166,7 +166,7 @@ def format_bibtex(pub, format, main_author, initials):
     elif entry_type == 'phdthesis':
         ref = authors + ', ' + title + ' PhD Dissertation, ' + school + ', ' + address + ', ' + year + '. ' + link
     elif entry_type == 'techreport':
-        ref = authors + ', ' + title + ' ' + institution + ', ' + number + ', ' + month + ' ' + year + '.'
+        ref = authors + ', ' + title + ' ' + institution + ', ' + note + ', ' + month + ' ' + year + '.'
     elif entry_type == 'misc':
         ref = authors + ', ' + title + ' ' + note + '. \\n' + link
 
