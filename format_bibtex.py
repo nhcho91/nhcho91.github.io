@@ -297,17 +297,49 @@ def create_research_file(db, format, outname, main_author, initials):
                 the_file.write('\\vspace{0.5em}\n')
                 the_file.write('\\begin{enumerate}[itemsep=0.5em, label={[}J\\arabic*{]}]')
                 for journal in journals:
-                    the_file.write(journal[0] + '\n\n')
+                    the_file.write('\\item ' + journal[0] + '\n\n')
                 the_file.write('\\end{enumerate}')
                 the_file.write('\\vspace{0.5em}\n')
 
             if conferences:
                 conferences.sort(reverse=True, key=access_year)
-                the_file.write('\\section{CONFERENCES}\n\n')
+                the_file.write('\\textsc{Conferences}\n')
+                the_file.write('\\vspace{0.5em}\n')
+                the_file.write('\\begin{enumerate}[itemsep=0.5em, label={[}C\\arabic*{]}]')
                 for conference in conferences:
-                    the_file.write(conference[0] + '\n\n')
-                the_file.write('\n')
+                    the_file.write('\\item ' + conference[0] + '\n\n')
+                the_file.write('\\end{enumerate}')
+                the_file.write('\\vspace{0.5em}\n')
 
+            if techreports:
+                techreports.sort(reverse=True, key=access_year)
+                the_file.write('\\textsc{Technical Reports}\n')
+                the_file.write('\\vspace{0.5em}\n')
+                the_file.write('\\begin{enumerate}[itemsep=0.5em, label={[}TR\\arabic*{]}]')
+                for techreport in techreports:
+                    the_file.write('\\item ' + techreport[0] + '\n\n')
+                the_file.write('\\end{enumerate}')
+                the_file.write('\\vspace{0.5em}\n')
+
+            if koreanconferences:
+                koreanconferences.sort(reverse=True, key=access_year)
+                the_file.write('\\textsc{National Conferences}\n')
+                the_file.write('\\vspace{0.5em}\n')
+                the_file.write('\\begin{enumerate}[itemsep=0.5em, label={[}NC\\arabic*{]}]')
+                for koreanconference in koreanconferences:
+                    the_file.write('\\item ' + koreanconference[0] + '\n\n')
+                the_file.write('\\end{enumerate}')
+                the_file.write('\\vspace{0.5em}\n')
+
+            if patents:
+                patents.sort(reverse=True, key=access_year)
+                the_file.write('\\textsc{Patents}\n')
+                the_file.write('\\vspace{0.5em}\n')
+                the_file.write('\\begin{enumerate}[itemsep=0.5em, label={[}P\\arabic*{]}]')
+                for patent in patents:
+                    the_file.write('\\item ' + patent[0] + '\n\n')
+                the_file.write('\\end{enumerate}')
+                the_file.write('\\vspace{0.5em}\n')
 
 
         elif format == 'html':
