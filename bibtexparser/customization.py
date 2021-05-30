@@ -224,6 +224,9 @@ def convert_to_unicode(record):
                             parts[key] = parts[key] + parts[key+1][0]
                             parts[key+1] = parts[key+1][1:]
                     record[val] = k.join(parts)
+
+        if '훜' in record[val]:
+            record[val] = record[val].replace('훜fty', '\\infty')
     return record
 
 
