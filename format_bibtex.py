@@ -127,18 +127,18 @@ def format_bibtex(pub, format, main_author, initials):
         journal = '/' + journal + '/'
         booktitle = '/' + booktitle + '/'
         if doi != '':
-            doi = '\\n [https://doi.org/' + doi + ' DOI:' + doi + ']'
+            doi = '\\n[https://doi.org/' + doi + ' DOI:' + doi + ']'
         if link != '':
-            link = '\\n [' + link + ' Link]'
+            link = '\\n[' + link + ' Link]'
         institution = '/' + institution + '/'
     elif format == 'tex':
         title = '``' + title + ',\'\''
         journal = '\\textit{' + journal + '}'
         booktitle = '\\textit{' + booktitle + '}'
         if doi != '':
-            doi = '\\\\\n \\href{https://doi.org/' + doi + '}{DOI:' + doi + '}'
+            doi = '\\\\\n\\href{https://doi.org/' + doi + '}{DOI:' + doi + '}'
         if link != '':
-            link = '\\\\\n \\href{' + link + '}{Link}'
+            link = '\\\\\n\\href{' + link + '}{Link}'
         institution = '\\textit{' + institution + '}'
     elif format == 'html':
         title = '<em>' + title + '</em>'
@@ -288,7 +288,7 @@ def create_research_file(db, format, outname, main_author, initials):
                 the_file.write('\\begin{enumerate}[label={[}\\arabic*{]}]\n')
                 for thesis in theses:
                     the_file.write('\\item ' + thesis[0] + '\n\n')
-                the_file.write('\\end{enumerate}')
+                the_file.write('\\end{enumerate}\n')
                 the_file.write('\\vspace{0.5em}\n')
 
             if journals:
@@ -298,7 +298,7 @@ def create_research_file(db, format, outname, main_author, initials):
                 the_file.write('\\begin{enumerate}[itemsep=0.5em, label={[}J\\arabic*{]}]\n')
                 for journal in journals:
                     the_file.write('\\item ' + journal[0] + '\n\n')
-                the_file.write('\\end{enumerate}')
+                the_file.write('\\end{enumerate}\n')
                 the_file.write('\\vspace{0.5em}\n')
 
             if conferences:
@@ -308,7 +308,7 @@ def create_research_file(db, format, outname, main_author, initials):
                 the_file.write('\\begin{enumerate}[itemsep=0.5em, label={[}C\\arabic*{]}]\n')
                 for conference in conferences:
                     the_file.write('\\item ' + conference[0] + '\n\n')
-                the_file.write('\\end{enumerate}')
+                the_file.write('\\end{enumerate}\n')
                 the_file.write('\\vspace{0.5em}\n')
 
             if techreports:
@@ -318,7 +318,7 @@ def create_research_file(db, format, outname, main_author, initials):
                 the_file.write('\\begin{enumerate}[itemsep=0.5em, label={[}TR\\arabic*{]}]\n')
                 for techreport in techreports:
                     the_file.write('\\item ' + techreport[0] + '\n\n')
-                the_file.write('\\end{enumerate}')
+                the_file.write('\\end{enumerate}\n')
                 the_file.write('\\vspace{0.5em}\n')
 
             if koreanconferences:
@@ -328,7 +328,7 @@ def create_research_file(db, format, outname, main_author, initials):
                 the_file.write('\\begin{enumerate}[itemsep=0.5em, label={[}NC\\arabic*{]}]\n')
                 for koreanconference in koreanconferences:
                     the_file.write('\\item ' + koreanconference[0] + '\n\n')
-                the_file.write('\\end{enumerate}')
+                the_file.write('\\end{enumerate}\n')
                 the_file.write('\\vspace{0.5em}\n')
 
             if patents:
@@ -338,8 +338,8 @@ def create_research_file(db, format, outname, main_author, initials):
                 the_file.write('\\begin{enumerate}[itemsep=0.5em, label={[}P\\arabic*{]}]\n')
                 for patent in patents:
                     the_file.write('\\item ' + patent[0] + '\n\n')
-                the_file.write('\\end{enumerate}')
-                the_file.write('\\vspace{0.5em}\n')
+                the_file.write('\\end{enumerate}\n')
+                
 
 
         elif format == 'html':
