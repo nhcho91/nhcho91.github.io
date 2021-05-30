@@ -211,6 +211,8 @@ def create_research_file(db, format, outname, main_author, initials):
             koreanconferences.append([ref, entry_type, year])
         elif entry_type == 'mastersthesis' or entry_type == 'phdthesis':
             theses.append([ref, entry_type, year])
+        elif entry_type == 'techreport':
+            techreports.append([ref, entry_type, year])
         elif entry_type == 'misc':
             patents.append([ref, entry_type, year])
 
