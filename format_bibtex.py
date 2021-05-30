@@ -61,6 +61,8 @@ def format_bibtex(pub, format, main_author, initials):
         title = pub["title"]
     if 'publisher' in pub:
         publisher = pub["publisher"]
+    if 'month' in pub:
+        month = pub["month"]
     if 'year' in pub:
         year = pub["year"]
     if 'volume' in pub:
