@@ -128,14 +128,17 @@ def format_bibtex(pub, format, main_author, initials):
         booktitle = '/' + booktitle + '/'
         if doi != '':
             doi = '[https://doi.org/' + doi + ' DOI:' + doi + ']'
-        link = '[' + link + ' Link]'
+        if link != '':
+            link = '[' + link + ' Link]'
         institution = '/' + institution + '/'
     elif format == 'tex':
         title = '``' + title + ',\'\''
         journal = '\\textit{' + journal + '}'
         booktitle = '\\textit{' + booktitle + '}'
-        doi = '\\href{https://doi.org/' + doi + '}{DOI:' + doi + '}'
-        link = '\\href{' + link + '}{Link}'
+        if doi != '':
+            doi = '\\href{https://doi.org/' + doi + '}{DOI:' + doi + '}'
+        if link != '':
+            link = '\\href{' + link + '}{Link}'
         institution = '\\textit{' + institution + '}'
     elif format == 'html':
         title = '<em>' + title + '</em>'
