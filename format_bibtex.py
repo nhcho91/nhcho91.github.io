@@ -127,18 +127,18 @@ def format_bibtex(pub, format, main_author, initials):
         journal = '/' + journal + '/'
         booktitle = '/' + booktitle + '/'
         if doi != '':
-            doi = '[https://doi.org/' + doi + ' DOI:' + doi + ']'
+            doi = '\\n [https://doi.org/' + doi + ' DOI:' + doi + ']'
         if link != '':
-            link = '[' + link + ' Link]'
+            link = '\\n [' + link + ' Link]'
         institution = '/' + institution + '/'
     elif format == 'tex':
         title = '``' + title + ',\'\''
         journal = '\\textit{' + journal + '}'
         booktitle = '\\textit{' + booktitle + '}'
         if doi != '':
-            doi = '\\href{https://doi.org/' + doi + '}{DOI:' + doi + '}'
+            doi = '\\\\\n \\href{https://doi.org/' + doi + '}{DOI:' + doi + '}'
         if link != '':
-            link = '\\href{' + link + '}{Link}'
+            link = '\\\\\n \\href{' + link + '}{Link}'
         institution = '\\textit{' + institution + '}'
     elif format == 'html':
         title = '<em>' + title + '</em>'
@@ -156,13 +156,13 @@ def format_bibtex(pub, format, main_author, initials):
             ref = ref + ', No. ' + number
         if pages != '':
             ref = ref + ', pp. ' + pages
-        ref = ref + ', ' + year + '. \\n' + doi
+        ref = ref + ', ' + year + '. ' + doi
     elif entry_type == 'inproceedings' or entry_type == 'incollection':
-        ref = authors + ', ' + title + ' ' + booktitle + ', ' + address + ', ' + month + ' ' + year + '. \\n' + doi
+        ref = authors + ', ' + title + ' ' + booktitle + ', ' + address + ', ' + month + ' ' + year + '. ' + doi
     elif entry_type == 'mastersthesis':
-        ref = authors + ', ' + title + ' Master\'s Thesis, ' + school + ', ' + address + ', ' + year + '. \\n' + link
+        ref = authors + ', ' + title + ' Master\'s Thesis, ' + school + ', ' + address + ', ' + year + '. ' + link
     elif entry_type == 'phdthesis':
-        ref = authors + ', ' + title + ' PhD Dissertation, ' + school + ', ' + address + ', ' + year + '. \\n' + link
+        ref = authors + ', ' + title + ' PhD Dissertation, ' + school + ', ' + address + ', ' + year + '. ' + link
     elif entry_type == 'techreport':
         ref = authors + ', ' + title + ' ' + institution + ', ' + number + ', ' + month + ' ' + year + '.'
     elif entry_type == 'misc':
@@ -238,35 +238,35 @@ def create_research_file(db, format, outname, main_author, initials):
 
             if journals:
                 journals.sort(reverse=True, key=access_year)
-                the_file.write('== Journal\n')
+                the_file.write('== Journals\n')
                 for journal in journals:
                     the_file.write('. ' + journal[0] + '\n')
                 the_file.write('\n')
 
             if conferences:
                 conferences.sort(reverse=True, key=access_year)
-                the_file.write('== Conference\n')
+                the_file.write('== Conferences\n')
                 for conference in conferences:
                     the_file.write('. ' + conference[0] + '\n')
                 the_file.write('\n')
 
             if techreports:
                 techreports.sort(reverse=True, key=access_year)
-                the_file.write('== Technical Report\n')
+                the_file.write('== Technical Reports\n')
                 for techreport in techreports:
                     the_file.write('. ' + techreport[0] + '\n')
                 the_file.write('\n')
 
             if koreanconferences:
                 koreanconferences.sort(reverse=True, key=access_year)
-                the_file.write('== National Conference\n')
+                the_file.write('== National Conferences\n')
                 for koreanconference in koreanconferences:
                     the_file.write('. ' + koreanconference[0] + '\n')
                 the_file.write('\n')
 
             if patents:
                 patents.sort(reverse=True, key=access_year)
-                the_file.write('== Patent\n')
+                the_file.write('== Patents\n')
                 for patent in patents:
                     the_file.write('. ' + patent[0] + '\n')
                 the_file.write('\n')
@@ -274,19 +274,32 @@ def create_research_file(db, format, outname, main_author, initials):
 
 
         elif format == 'tex':
-            if books:
-                books.sort(reverse=True, key=access_year)
-                the_file.write('\\section{BOOKS}\n\n')
-                for book in books:
-                    the_file.write(book[0] + '\n\n')
-                the_file.write('\n')
+            # if books:
+            #     books.sort(reverse=True, key=access_year)
+            #     the_file.write('\\section{BOOKS}\n\n')
+            #     for book in books:
+            #         the_file.write(book[0] + '\n\n')
+            #     the_file.write('\n')
+
+            if theses:
+                theses.sort(reverse=True, key=access_year)
+                the_file.write('\\textsc{Dissertation}\n')
+                the_file.write('\\vspace{0.5em}\n')
+                the_file.write('\\begin{enumerate}[label={[}\\arabic*{]}]\n')
+                for thesis in theses:
+                    the_file.write('\\item ' + thesis[0] + '\n\n')
+                the_file.write('\\end{enumerate}')
+                the_file.write('\\vspace{0.5em}\n')
 
             if journals:
                 journals.sort(reverse=True, key=access_year)
-                the_file.write('\\section{JOURNALS}\n\n')
+                the_file.write('\\textsc{Journals}\n')
+                the_file.write('\\vspace{0.5em}\n')
+                the_file.write('\\begin{enumerate}[itemsep=0.5em, label={[}J\\arabic*{]}]')
                 for journal in journals:
                     the_file.write(journal[0] + '\n\n')
-                the_file.write('\n')
+                the_file.write('\\end{enumerate}')
+                the_file.write('\\vspace{0.5em}\n')
 
             if conferences:
                 conferences.sort(reverse=True, key=access_year)
@@ -295,12 +308,7 @@ def create_research_file(db, format, outname, main_author, initials):
                     the_file.write(conference[0] + '\n\n')
                 the_file.write('\n')
 
-            if theses:
-                theses.sort(reverse=True, key=access_year)
-                the_file.write('\\section{THESES}\n\n')
-                for thesis in theses:
-                    the_file.write(thesis[0] + '\n\n')
-                the_file.write('\n')
+
 
         elif format == 'html':
             the_file.write('<!-- Question -->\n')
