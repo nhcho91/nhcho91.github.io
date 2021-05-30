@@ -4,7 +4,7 @@ cd -- "$(dirname -- "$BASH_SOURCE")"
 
 # BibTeX -> jemdoc, LaTeX
 echo "\nBibTeX ----> jemdoc"
-python format_bibtex.py jemdoc pub_nhcho publications Namhoon 0
+python format_bibtex.py jemdoc pub_nhcho publications Cho 0
 # echo "\nBibTeX ----> LaTeX"
 # python format_bibtex.py tex pub_nhcho publications Namhoon 0
 # mv ~/Dropbox/Personal\ Homepage/nhcho91.github.io/publications.tex ~/Dropbox/Personal\ Research/Documents/Curriculum\ Vitae/publications.tex
