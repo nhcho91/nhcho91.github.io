@@ -4,6 +4,8 @@
 #############################################################################
 Author:     Mohammad Hossain Mohammadi
 Date:       November 2017
+Modified by: Namhoon Cho
+Modified at: May 2021
 """""
 
 import bibtexparser
@@ -104,7 +106,7 @@ def format_bibtex(pub, format, main_author, initials):
 
         # Boldify main author (depends on formatting style)
         author = fname + ' ' + lname
-        if main_author == lname:
+        if main_author == fname:
             if format == 'jemdoc':
                 author = '*' + author + '*'
             elif format == 'tex':
