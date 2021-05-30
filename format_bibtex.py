@@ -117,7 +117,7 @@ def format_bibtex(pub, format, main_author, initials):
         if iA<(len(authors_)-2):
             authors += ', '     # Separation b/w author full names
         elif iA==(len(authors_)-2):
-            authors += ' and '  # Separation for last author
+            authors += ', and '  # Separation for last author
 
     # Format Other Bibtex Fields based on Formatting Style
     if format == 'jemdoc':
