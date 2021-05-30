@@ -48,7 +48,7 @@ def format_bibtex(pub, format, main_author, initials):
     note = ''
 
     # Set Bibtex Values if Existing in Pub Dictionary
-    if entry_type == 'article' or entry_type == 'inproceedings' or entry_type == 'incollection':
+    # if entry_type == 'article' or entry_type == 'inproceedings' or entry_type == 'incollection':
         # if 'month' in pub:     # e.g. Jan. for January
             # month = pub["month"][0:3] + '.'
     if 'doi' in pub:
