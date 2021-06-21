@@ -14,13 +14,13 @@
 - Notable impact: Applied with extension to autonomous flight in strong windfield
 	-- Luca Furieri, Thomas Stastny, Lorenzo Marconi, Roland Siegwart, and Igor Gilitschenski, "Gone with the Wind: Nonlinear Guidance for Small Fixed-Wing Aircrafts in Arbitrarily Strong Windfields," /American Control Conference/, Seattle, WA, USA, May 2017.\n [https://doi.org/10.23919/ACC.2017.7963609 DOI:10.23919/ACC.2017.7963609], [https://arxiv.org/abs/1609.07577 Extended Version], Awarded *[https://a2c2.org/awards/o-hugo-schuck-best-paper-award the O. Hugo Shuck Best Paper Award]*
 
-=== Decentralized Control System of Multiple Fixed-Wing UAVs
+=== Decentralised Control System of Multiple Fixed-Wing UAVs
 - Annotated Experiment Video: [https://www.youtube.com/watch?v=oyfM2HBnTaQ]
 {{<iframe width="560" height="315" src="https://www.youtube.com/embed/oyfM2HBnTaQ" frameborder="0" allowfullscreen></iframe>}}
-- Flight Data Visualization: [https://www.youtube.com/watch?v=a-xaNMRWMGA]
+- Flight Data Visualisation: [https://www.youtube.com/watch?v=a-xaNMRWMGA]
 {{<iframe width="560" height="315" src="https://www.youtube.com/embed/a-xaNMRWMGA" frameborder="0" allowfullscreen></iframe>}}
 - Photo:
-{{<img border="0" width="720" src="Images/2014_MultipleUAVs.bmp" />}}
+{{<img border="0" width="720" src="Images/2014 - Multiple UAVs.bmp" />}}
 
 === Offline Planning and Online Modification of Waypoints Considering Wind for Unpowered Aircraft
 - Simulation Video without Wind: [https://www.youtube.com/watch?v=nhWPsPoZfmo]
@@ -32,7 +32,7 @@
 - Processor-In-the-Loop Simulation Video: [https://www.youtube.com/watch?v=mhLymPfTJuc]
 {{<iframe width="560" height="315" src="https://www.youtube.com/embed/mhLymPfTJuc" frameborder="0" allowfullscreen></iframe>}}
 - Photo: 
-{{<img border="0" width="720" src="Images/2017_LEON4_PILS.jpg" />}}
+{{<img border="0" width="720" src="Images/2017 - LEON4 PILS.jpg" />}}
 
 === Development of Integrated Anti-Ship Missile and Ship Defence System Simulator
 - Simulator Demonstration Video: [https://www.youtube.com/watch?v=eEHWkeCBlwU]
