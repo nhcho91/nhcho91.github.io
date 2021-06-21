@@ -11,6 +11,8 @@
 {{<iframe width="560" height="315" src="https://www.youtube.com/embed/eQfHfCV2u98" frameborder="0" allowfullscreen></iframe>}}
 - Simulation Video (Compilation): [https://www.youtube.com/watch?v=LU8WUJhQLxM]
 {{<iframe width="560" height="315" src="https://www.youtube.com/embed/LU8WUJhQLxM" frameborder="0" allowfullscreen></iframe>}}
+- Notable impact: Applied with extension to autonomous flight in strong windfield
+	-- Luca Furieri, Thomas Stastny, Lorenzo Marconi, Roland Siegwart, and Igor Gilitschenski, "Gone with the Wind: Nonlinear Guidance for Small Fixed-Wing Aircrafts in Arbitrarily Strong Windfields," /American Control Conference/, Seattle, WA, USA, May 2017.\n [https://doi.org/10.23919/ACC.2017.7963609 DOI:10.23919/ACC.2017.7963609], [https://arxiv.org/abs/1609.07577 Extended Version], Awarded *[https://a2c2.org/awards/o-hugo-schuck-best-paper-award the O. Hugo Shuck Best Paper Award]*
 
 === Decentralized Control System of Multiple Fixed-Wing UAVs
 - Annotated Experiment Video: [https://www.youtube.com/watch?v=oyfM2HBnTaQ]
@@ -29,6 +31,8 @@
 === Model-Based Design (Automatic Code Generation) for Development of Spacecraft Guidance, Navigation, and Control Software
 - Processor-In-the-Loop Simulation Video: [https://www.youtube.com/watch?v=mhLymPfTJuc]
 {{<iframe width="560" height="315" src="https://www.youtube.com/embed/mhLymPfTJuc" frameborder="0" allowfullscreen></iframe>}}
+- Photo: 
+{{<img border="0" width="720" src="Images/2017_LEON4_PILS.jpg" />}}
 
 === Development of Integrated Anti-Ship Missile and Ship Defence System Simulator
 - Simulator Demonstration Video: [https://www.youtube.com/watch?v=eEHWkeCBlwU]
