@@ -1,0 +1,12 @@
+#jemdoc: menu{MENU}{control.html}, notime
+= Control
+
+== Control + Learning
+- [https://doi.org/10.1109/MCS.2018.2851010 2018 - Miao Liu - Gaussian Processes for Learning and Control: A Tutorial with Examples]
+- [https://doi.org/10.1016/j.arcontrol.2020.06.002 2021 - Romeo Ortega - On Modified Parameter Estimators for Identification and Adaptive Control. A Unified Framework and Some New Schemes]
+- [https://doi.org/10.1162/neco_a_01360 2021 - Nicholas M. Boffi - Implicit Regularization and Momentum Algorithms in Nonlinearly Parameterized Adaptive Control and Prediction]
+
+\n
+== Aerospace GNC
+- [https://doi.org/10.2514/1.28957 2007 - Sanghyuk Park - Performance and Lyapunov Stability of a Nonlinear Path Following Guidance Method]
+- [https://arxiv.org/abs/2106.09125 2021 - Danylo Malyuta - Convex Optimization for Trajectory Generation]
