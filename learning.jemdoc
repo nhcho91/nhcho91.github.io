@@ -1,4 +1,4 @@
-#jemdoc: menu{MENU}{learning.html}, notime
+# jemdoc: menu{MENU}{learning.html}, notime
 = Machine Learning
 
 == Bayesian Framework
