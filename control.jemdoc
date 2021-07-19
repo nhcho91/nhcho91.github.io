@@ -3,9 +3,10 @@
 
 == Control + Learning
 - [https://doi.org/10.1109/MCS.2018.2851010 2018 - Miao Liu - Gaussian Processes for Learning and Control: A Tutorial with Examples]
+- [http://www.argmin.net/2018/06/25/outsider-rl/ 2018 - Benjamin Recht - An Outsider's Tour of Reinforcement Learning]
+- [https://doi.org/10.1146/annurev-control-053018-023825 2018 - Benjamin Recht - A Tour of Reinforcement Learning: The View from Continuous Control]
 - [https://doi.org/10.1016/j.arcontrol.2020.06.002 2021 - Romeo Ortega - On Modified Parameter Estimators for Identification and Adaptive Control. A Unified Framework and Some New Schemes]
 - [https://doi.org/10.1162/neco_a_01360 2021 - Nicholas M. Boffi - Implicit Regularization and Momentum Algorithms in Nonlinearly Parameterized Adaptive Control and Prediction]
-- [http://www.argmin.net Benjamin Recht - argmin Blog]
 
 \n
 == Aerospace GNC

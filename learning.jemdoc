@@ -17,11 +17,11 @@
 - [https://towardsdatascience.com/understanding-gaussian-process-the-socratic-way-ba02369d804?sk=2bd38bef8f815b36596c44fa1cbfdd1f 2019 - Wei Yi - Understanding Gaussian Process, the Socratic Way]
 - [http://tinyurl.com/guide2gp 2020 - Marc Peter Deisenroth - A Practical Guide to Gaussian Processes]
 
-=== Efficient Online Learning
+=== Efficient Online Learning and Inference
 - [http://www.cs.ubbcluj.ro/~csatol/publications/thesis.pdf 2002 - Lehel Csato - Gaussian Processes - Iterative Sparse Approximations]
 - [https://www.jmlr.org/papers/v18/16-603.html 2017 - Thang D. Bui - A Unifying Framework for Gaussian Process Pseudo-Point Approximations using Power Expectation Propagation]
 - [https://neurips.cc/Conferences/2017/Schedule?showEvent=9114 2017 - Thang D. Bui - Streaming Sparse Gaussian Process Approximations]
-- [http://mlg.eng.cam.ac.uk/thang/docs/papers/thesis-thang.pdf 2017 - Thang D. Bui - Efficient Deterministic Approximate Bayesian Inference for Gaussian Process Models]
+#- [http://mlg.eng.cam.ac.uk/thang/docs/papers/thesis-thang.pdf 2017 - Thang D. Bui - Efficient Deterministic Approximate Bayesian Inference for Gaussian Process Models]
 - [https://jmlr.org/papers/v22/20-1260.html 2021 - James T. Wilson - Pathwise Conditioning of Gaussian Processes]
 
 \n
@@ -32,11 +32,8 @@
 
 \n
 == Optimisation for Machine Learning
-- [https://arxiv.org/abs/1412.6980 2015 - Diederik P. Kingma - Adam: A Method for Stochastic Optimization]
-- [https://openreview.net/forum?id=OM0jvwB8jIp57ZJjtNEZ 2016 - Timothy Dozat - Incorporating Nesterov Momentum into Adam]
-
-\n
-== Etc
 - [https://papers.nips.cc/paper/2007/hash/013a006f03dbc5392effeb8f18fda755-Abstract.html 2007 - Ali Rahimi - Random Features for Large-Scale Kernel Machines]
 - [https://papers.nips.cc/paper/2008/hash/0efe32849d230d7f53049ddc4a4b0c60-Abstract.html 2008 - Ali Rahimi - Weighted Sums of Random Kitchen Sinks: Replacing Minimization with Randomization in Learning]
+- [https://arxiv.org/abs/1412.6980 2015 - Diederik P. Kingma - Adam: A Method for Stochastic Optimization]
+- [https://openreview.net/forum?id=OM0jvwB8jIp57ZJjtNEZ 2016 - Timothy Dozat - Incorporating Nesterov Momentum into Adam]
 - [https://icml.cc/Conferences/2017/ScheduleMultitrack?event=1144 2017 - Chelsea Finn - Model-Agnostic Meta-Learning for Fast Adaptation of Deep Networks]
