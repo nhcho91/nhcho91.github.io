@@ -20,8 +20,8 @@
 === Efficient Online Learning
 - [http://www.cs.ubbcluj.ro/~csatol/publications/thesis.pdf 2002 - Lehel Csato - Gaussian Processes - Iterative Sparse Approximations]
 - [https://www.jmlr.org/papers/v18/16-603.html 2017 - Thang D. Bui - A Unifying Framework for Gaussian Process Pseudo-Point Approximations using Power Expectation Propagation]
-- [https://papers.nips.cc/paper/2017/hash/f31b20466ae89669f9741e047487eb37-Abstract.html 2017 - Thang D. Bui - Streaming Sparse Gaussian Process Approximations]
-#- [http://mlg.eng.cam.ac.uk/thang/docs/papers/thesis-thang.pdf 2017 - Thang D. Bui - Efficient Deterministic Approximate Bayesian Inference for Gaussian Process models]
+- [https://neurips.cc/Conferences/2017/Schedule?showEvent=9114 2017 - Thang D. Bui - Streaming Sparse Gaussian Process Approximations]
+- [http://mlg.eng.cam.ac.uk/thang/docs/papers/thesis-thang.pdf 2017 - Thang D. Bui - Efficient Deterministic Approximate Bayesian Inference for Gaussian Process Models]
 - [https://jmlr.org/papers/v22/20-1260.html 2021 - James T. Wilson - Pathwise Conditioning of Gaussian Processes]
 
 \n
@@ -29,3 +29,14 @@
 - [https://papers.nips.cc/paper/2013/hash/af21d0c97db2e27e13572cbf59eb343d-Abstract.html 2013 - Marco Cuturi - Sinkhorn Distances: Lightspeed Computation of Optimal Transport]
 - [https://doi.org/10.1090/noti1647 2018 - Frank Nielson - What is... an Information Projection?]
 - [https://doi.org/10.3390/e22101100 2020 - Frank Nielson - An Elementary Introduction to Information Geometry]
+
+\n
+== Optimisation for Machine Learning
+- [https://arxiv.org/abs/1412.6980 2015 - Diederik P. Kingma - Adam: A Method for Stochastic Optimization]
+- [https://openreview.net/forum?id=OM0jvwB8jIp57ZJjtNEZ 2016 - Timothy Dozat - Incorporating Nesterov Momentum into Adam]
+
+\n
+== Etc
+- [https://papers.nips.cc/paper/2007/hash/013a006f03dbc5392effeb8f18fda755-Abstract.html 2007 - Ali Rahimi - Random Features for Large-Scale Kernel Machines]
+- [https://papers.nips.cc/paper/2008/hash/0efe32849d230d7f53049ddc4a4b0c60-Abstract.html 2008 - Ali Rahimi - Weighted Sums of Random Kitchen Sinks: Replacing Minimization with Randomization in Learning]
+- [https://icml.cc/Conferences/2017/ScheduleMultitrack?event=1144 2017 - Chelsea Finn - Model-Agnostic Meta-Learning for Fast Adaptation of Deep Networks]
