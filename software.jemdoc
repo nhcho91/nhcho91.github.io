@@ -7,7 +7,7 @@
 
 [https://github.com/JinraeKim/FlightSims.jl FlightSims.jl] is a registered Julia package for general-purpose numerical simulation of dynamic systems supporting nested environments and convenient macro-based data logging. I have contributed to the package with a three-dimensional missile guidance example demonstrating the usage of FlightSims.jl on a reactive [https://github.com/fonsp/Pluto.jl Pluto] notebook. Contact lead developer [https://github.com/JinraeKim Jinrae Kim] for more details.
 
-{{<img src="https://raw.githubusercontent.com/JinraeKim/FlightSims.jl/master/figures/missile_guidance.gif">}}
+{{<img src="https://raw.githubusercontent.com/JinraeKim/FlightSims.jl/master/figures/missile_guidance.gif" width = 480>}}
 
 == Julia in Binder
 - MIT Math Repo
