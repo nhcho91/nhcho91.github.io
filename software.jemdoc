@@ -3,9 +3,9 @@
 
 *[https://github.com/nhcho91 GitHub]*
 
-== GNC.jl
+== FlightGNC.jl
 
-[https://github.com/nhcho91/GNC.jl GNC.jl] is a registered Julia package containing GNC algorithms for autonomous systems. The functionalities for numerical simulation are inherited from [https://github.com/JinraeKim/FlightSims.jl FlightSims.jl].
+[https://github.com/nhcho91/FlightGNC.jl FlightGNC.jl] is a Julia package containing GNC algorithms for autonomous systems. The functionalities for numerical simulation are inherited from [https://github.com/JinraeKim/FlightSims.jl FlightSims.jl].
 
 - Pluto Example for 3D PPNG on Binder: {{<a href="https://binder.plutojl.org/v0.16.0/open?url=https%253A%252F%252Fraw.githubusercontent.com%252FJinraeKim%252FFlightSims.jl%252Fmaster%252Ftest%252Fpluto_guidance.jl" rel="nofollow"><img src="https://camo.githubusercontent.com/581c077bdbc6ca6899c86d0acc6145ae85e9d80e6f805a1071793dbe48917982/68747470733a2f2f6d7962696e6465722e6f72672f62616467655f6c6f676f2e737667" alt="Binder" data-canonical-src="https://mybinder.org/badge_logo.svg" style="max-width: 100%;"></a>}}
 
