@@ -5,7 +5,7 @@
 
 == FlightGNC.jl
 
-[https://github.com/nhcho91/FlightGNC.jl FlightGNC.jl] is a Julia package containing GNC algorithms for autonomous systems. The functionalities for numerical simulation are inherited from [https://github.com/JinraeKim/FlightSims.jl FlightSims.jl].
+[https://github.com/nhcho91/FlightGNC.jl FlightGNC.jl] is a Julia package containing GNC algorithms for autonomous systems. The functionalities for numerical simulation are inherited from [https://github.com/JinraeKim/FSimBase.jl FSimBase.jl].
 
 - Pluto Example for 3D PPNG on Binder: {{<a href="https://binder.plutojl.org/v0.16.0/open?url=https%253A%252F%252Fraw.githubusercontent.com%252FJinraeKim%252FFlightSims.jl%252Fmaster%252Ftest%252Fpluto_guidance.jl" rel="nofollow"><img src="https://camo.githubusercontent.com/581c077bdbc6ca6899c86d0acc6145ae85e9d80e6f805a1071793dbe48917982/68747470733a2f2f6d7962696e6465722e6f72672f62616467655f6c6f676f2e737667" alt="Binder" data-canonical-src="https://mybinder.org/badge_logo.svg" style="max-width: 100%;"></a>}}
 
@@ -15,9 +15,9 @@
 - Pluto Example for 2D BPNG
 {{<iframe width="560" height="315" src="https://www.youtube.com/embed/MjtfE8m_75E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>}}
 
-== FlightSims.jl
+== FlightSims.jl and FSimBase.jl
 
-[https://github.com/JinraeKim/FlightSims.jl FlightSims.jl] is a registered Julia package for general-purpose numerical simulation of dynamic systems supporting nested environments and convenient macro-based data logging. I have contributed to the package with a three-dimensional missile guidance example demonstrating the usage of FlightSims.jl on a reactive [https://github.com/fonsp/Pluto.jl Pluto] notebook. Contact lead developer [https://github.com/JinraeKim Jinrae Kim] for more details.
+[https://github.com/JinraeKim/FlightSims.jl FlightSims.jl] is a registered Julia package for general-purpose numerical simulation of dynamic systems supporting nested environments and convenient macro-based data logging. I have contributed to the package with a three-dimensional missile guidance example demonstrating the usage of [https://github.com/JinraeKim/FlightSims.jl FlightSims.jl] on a reactive [https://github.com/fonsp/Pluto.jl Pluto] notebook. [https://github.com/JinraeKim/FSimBase.jl FSimBase.jl] is the lightweight base library that works standalone. Contact lead developer [https://github.com/JinraeKim Jinrae Kim] for more details.
 
 == Julia in Cloud
 - Barebone Binder @mitmath: {{<a href="https://mybinder.org/v2/gh/mitmath/binder-env/main" rel="nofollow"><img src="https://camo.githubusercontent.com/581c077bdbc6ca6899c86d0acc6145ae85e9d80e6f805a1071793dbe48917982/68747470733a2f2f6d7962696e6465722e6f72672f62616467655f6c6f676f2e737667" alt="Binder" data-canonical-src="https://mybinder.org/badge_logo.svg" style="max-width: 100%;"></a>}}
