@@ -9,7 +9,7 @@
 
 - Open repository: [https://mybinder.org/v2/gh/nhcho91/FlightGNC.jl/master binder] / [https://nbviewer.jupyter.org/github/nhcho91/FlightGNC.jl/tree/master/ nbviewer]
 
-- Jupyter notebook for 3D vector-form BPNG: [https://nbviewer.jupyter.org/github/nhcho91/FlightGNC.jl/blob/master/main/Jupyter_missiles.ipynb nbviewer]
+- Jupyter notebook for 3D vector-form BPNG: [https://mybinder.org/v2/gh/nhcho91/FlightGNC.jl/b09ed045b44955a3dfb833992e87dd8694de947d?urlpath=lab%2Ftree%2Fmain%2FJupyter_missiles.ipynb binder] / [https://nbviewer.jupyter.org/github/nhcho91/FlightGNC.jl/blob/master/main/Jupyter_missiles.ipynb nbviewer]
 
 - Pluto example for 3D vector-form BPNG: [https://binder.plutojl.org/v0.16.0/open?url=https%253A%252F%252Fraw.githubusercontent.com%252Fnhcho91%252FFlightGNC.jl%252Fmaster%252Fmain%252Fpluto_missiles.jl binder]
 
