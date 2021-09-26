@@ -5,9 +5,9 @@
 
 == FlightGNC.jl
 
-[https://github.com/nhcho91/FlightGNC.jl FlightGNC.jl] is a Julia package containing GNC algorithms for autonomous systems. The functionalities for numerical simulation are inherited from [https://github.com/JinraeKim/FSimBase.jl FSimBase.jl].
+[https://github.com/nhcho91/FlightGNC.jl FlightGNC.jl] is a Julia package containing GNC algorithms for autonomous systems. The functionalities for numerical simulation are inherited from [https://github.com/JinraeKim/FSimBase.jl FSimBase.jl]. Open repository on [binder](https://mybinder.org/v2/gh/nhcho91/FlightGNC.jl/master) / on [nbviewer](https://nbviewer.jupyter.org/github/nhcho91/FlightGNC.jl/tree/master/).
 
-- Jupyter notebook for 3D vector-form BPNG: on Binder {{<a href="https://mybinder.org/v2/gh/nhcho91/FlightGNC.jl/blob/master/main/Jupyter_missiles.ipynb/HEAD" rel="nofollow"><img src="https://camo.githubusercontent.com/581c077bdbc6ca6899c86d0acc6145ae85e9d80e6f805a1071793dbe48917982/68747470733a2f2f6d7962696e6465722e6f72672f62616467655f6c6f676f2e737667" alt="Binder" data-canonical-src="https://mybinder.org/badge_logo.svg" style="max-width: 100%;"></a>}}
+- Jupyter notebook for 3D vector-form BPNG: on Binder {{<a href="https://mybinder.org/v2/gh/nhcho91/FlightGNC.jl/blob/master/main/Jupyter_missiles.ipynb" rel="nofollow"><img src="https://camo.githubusercontent.com/581c077bdbc6ca6899c86d0acc6145ae85e9d80e6f805a1071793dbe48917982/68747470733a2f2f6d7962696e6465722e6f72672f62616467655f6c6f676f2e737667" alt="Binder" data-canonical-src="https://mybinder.org/badge_logo.svg" style="max-width: 100%;"></a>}}
 / [https://nbviewer.jupyter.org/github/nhcho91/FlightGNC.jl/blob/master/main/Jupyter_missiles.ipynb on nbviewer]
 
 - Pluto example for 3D vector-form BPNG: on Binder {{<a href="https://binder.plutojl.org/v0.16.0/open?url=https%253A%252F%252Fraw.githubusercontent.com%252Fnhcho91%252FFlightGNC.jl%252Fmaster%252Fmain%252Fpluto_missiles.jl" rel="nofollow"><img src="https://camo.githubusercontent.com/581c077bdbc6ca6899c86d0acc6145ae85e9d80e6f805a1071793dbe48917982/68747470733a2f2f6d7962696e6465722e6f72672f62616467655f6c6f676f2e737667" alt="Binder" data-canonical-src="https://mybinder.org/badge_logo.svg" style="max-width: 100%;"></a>}}
