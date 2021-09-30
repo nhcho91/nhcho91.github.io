@@ -399,7 +399,7 @@ def mathjaxeqsub(eqtext):
   eqtext = eqtext.replace('<', 'LESSTHAN65358')
   eqtext = eqtext.replace('>', 'GREATERTHAN65358')
 #  eqtext = eqtext.replace('\n', ' ')
-  eqtext = eqtext.replace('_', 'UNDERSCORE65358')
+  # eqtext = eqtext.replace('_', 'UNDERSCORE65358')
   eqtext = eqtext.replace('/', 'SLASH65358')
 
   return eqtext
@@ -414,7 +414,7 @@ def mathjaxeqresub(r):
   r = re.sub('LESSTHAN65358', '<', r)
   r = re.sub('GREATERTHAN65358', '>', r)
   r = re.sub('QUOTATION65358', '"', r)
-  r = re.sub('UNDERSCORE65358', '_', r)
+  # r = re.sub('UNDERSCORE65358', '_', r)
   r = re.sub('SLASH65358', '/', r)
 
   return r
@@ -748,9 +748,9 @@ def br(b, f, tableblock=False):
   b = re.sub(r, r'<b>\1</b>', b)
  
   # Deal with _underscore_.
-  r = re.compile(r'(?<!\\)_(.*?)(?<!\\)_', re.M + re.S)
-  b = re.sub(r, r'<u>\1</u>', b)
-  b = mathjaxusresub(b)
+  # r = re.compile(r'(?<!\\)_(.*?)(?<!\\)_', re.M + re.S)
+  # b = re.sub(r, r'<u>\1</u>', b)
+  # b = mathjaxusresub(b)
  
   # Deal with +monospace+.
   r = re.compile(r'(?<!\\)\+(.*?)(?<!\\)\+', re.M + re.S)
