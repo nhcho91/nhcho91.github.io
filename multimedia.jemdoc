@@ -1,7 +1,11 @@
 # jemdoc: menu{MENU}{multimedia.html}, notime
 = Multimedia
 
-== Video Links
+== Links
+=== Three-Dimensional Vector-Form Biased Proportional Navigation Guidance Law for Control of Arrival Direction
+- Achievable Impact Direction Coverage Simulation: 
+{{<img border="0" width="720" src="Images/Fig_vec_BPNG_Trajectory_3D.png"/>}}
+
 === Constant Speed Standoff Tracking of Manoeuvring Ground Target
 - Simulation Video: [https://www.youtube.com/watch?v=8JLJ6LqUgw0]
 {{<iframe width="560" height="315" src="https://www.youtube.com/embed/8JLJ6LqUgw0" frameborder="0" allowfullscreen></iframe>}}
