@@ -2,6 +2,7 @@
 = Control
 
 == Control + Learning
+- [https://doi.org/10.23919/ACC.2004.1383781 2004 - Chang-Hee Won - Cost Distribution Shaping: The Relation Between Bode Integral, Entropy, Risk-Sensitivity, and Cost Cumulant Control]
 - [https://doi.org/10.1073/pnas.0710743106 2009 - Emanuel Todorov - Efficient Computation of Optimal Actions]
 - [https://doi.org/10.1109/MCS.2018.2851010 2018 - Miao Liu - Gaussian Processes for Learning and Control: A Tutorial with Examples]
 - [http://www.argmin.net/2018/06/25/outsider-rl/ 2018 - Benjamin Recht - An Outsider's Tour of Reinforcement Learning]
