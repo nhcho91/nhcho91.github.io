@@ -5,7 +5,7 @@
 
 == ContinuousTimePolicyGradients.jl
 
-[https://github.com/JinraeKim/ContinuousTimePolicyGradients.jl ContinuousTimePolicyGradients.jl] is a Julia package for the development and implementation of continuous-time policy gradient (CTPG) methods. The package has initially been focused on policy optimisation for structured neural controller. The core functionalities for forward simulation and adjoint state backpropagation (local sensitivity analysis) through an ensemble of ODEs are provided by [https://diffeqflux.sciml.ai DiffEqFlux.jl].
+[https://github.com/nhcho91/ContinuousTimePolicyGradients.jl ContinuousTimePolicyGradients.jl] is a Julia package for the development and implementation of continuous-time policy gradient (CTPG) methods. The package has initially been focused on policy optimisation for structured neural controller. The core functionalities for forward simulation and adjoint state backpropagation (local sensitivity analysis) through an ensemble of ODEs are provided by [https://diffeqflux.sciml.ai DiffEqFlux.jl].
 
 == FlightGNC.jl
 
