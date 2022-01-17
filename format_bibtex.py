@@ -173,6 +173,12 @@ def format_bibtex(pub, format, main_author, initials):
         ref = authors + ', ' + title + ' ' + institution + ', ' + note + ', ' + month + ' ' + year + '.'
     elif entry_type == 'misc':
         ref = authors + ', ' + title + ' ' + note + '. ' + doi
+    elif entry_type == 'unpublished':
+        ref = authors + ', ' + title + ', ' + ', ' + month + ' ' + year + '. '
+        if doi != '':
+            ref = ref + doi
+        elif link != '':
+            ref = ref + link
 
     return ref, entry_type, int(year)
 
