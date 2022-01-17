@@ -200,6 +200,7 @@ def create_research_file(db, format, outname, main_author, initials):
 
     # Initialization
     books = []
+    preprints = []
     journals = []
     conferences = []
     koreanconferences = []
@@ -215,6 +216,8 @@ def create_research_file(db, format, outname, main_author, initials):
         # Append publication reference into lists
         if entry_type == 'book':
             books.append([ref, entry_type, year])
+        elif entry_type == 'unpublished':
+            preprints.append([ref, entry_type, year])
         elif entry_type == 'article':
             journals.append([ref, entry_type, year])
         elif entry_type == 'inproceedings':
@@ -248,6 +251,13 @@ def create_research_file(db, format, outname, main_author, initials):
                 the_file.write('== Dissertation\n')
                 for thesis in theses:
                     the_file.write('. ' + thesis[0] + '\n')
+                the_file.write('\n')
+
+            if preprints:
+                journals.sort(reverse=True, key=access_year)
+                the_file.write('== Preprints\n')
+                for preprint in preprints:
+                    the_file.write('. ' + preprint[0] + '\n')
                 the_file.write('\n')
 
             if journals:
@@ -302,6 +312,16 @@ def create_research_file(db, format, outname, main_author, initials):
                 the_file.write('\\begin{enumerate}[label={[}\\arabic*{]}]\n')
                 for thesis in theses:
                     the_file.write('\\item ' + thesis[0] + '\n\n')
+                the_file.write('\\end{enumerate}\n')
+                the_file.write('\\vspace{0.5em}\n\n')
+
+            if preprints:
+                preprints.sort(reverse=True, key=access_year)
+                the_file.write('\\textsc{Preprints}\n')
+                the_file.write('\\vspace{0.5em}\n')
+                the_file.write('\\begin{enumerate}[itemsep=0.5em, label={[}P\\arabic*{]}]\n')
+                for preprint in preprints:
+                    the_file.write('\\item ' + preprint[0] + '\n\n')
                 the_file.write('\\end{enumerate}\n')
                 the_file.write('\\vspace{0.5em}\n\n')
 
