@@ -174,7 +174,7 @@ def format_bibtex(pub, format, main_author, initials):
     elif entry_type == 'misc':
         ref = authors + ', ' + title + ' ' + note + '. ' + doi
     elif entry_type == 'unpublished':
-        ref = authors + ', ' + title + ', ' + month + ' ' + year + '. '
+        ref = authors + ', ' + title + ' ' + month + ' ' + year + '. '
         if doi != '':
             ref = ref + doi
         elif link != '':
