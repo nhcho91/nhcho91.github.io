@@ -319,7 +319,7 @@ def create_research_file(db, format, outname, main_author, initials):
                 preprints.sort(reverse=True, key=access_year)
                 the_file.write('\\textsc{Preprints}\n')
                 the_file.write('\\vspace{0.5em}\n')
-                the_file.write('\\begin{enumerate}[itemsep=0.5em, label={[}P\\arabic*{]}]\n')
+                the_file.write('\\begin{enumerate}[itemsep=0.5em, label={[}PP\\arabic*{]}]\n')
                 for preprint in preprints:
                     the_file.write('\\item ' + preprint[0] + '\n\n')
                 the_file.write('\\end{enumerate}\n')
