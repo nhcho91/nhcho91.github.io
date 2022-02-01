@@ -1,6 +1,53 @@
 # jemdoc: menu{MENU}{interests.html}, notime
 = Research Statement & Research Interests
 
+== Research Statement
+Design and Analysis of Planning, Control, and Estimation Algorithms\n
+with Applications to Autonomous Aerospace Vehicles
+
+{{<img border="0" width="360" src="Images/2021 - Research Areas.png" />}}
+
+I am interested in control and estimation of dynamic systems. This involves a wide range of knowledge in applied mathematics including mechanics, systems and control theory, optimisation theory, Bayesian reasoning, and machine learning. In the face of entire technological discipline becoming highly complicated, establishing a holistic perspective that focuses on key ideas underlying different areas is essential for making further advances. The primary aim of my research is to develop unified frameworks for constructing control/estimation/optimisation algorithms based on compositional understandings. The architectures would enable systematic design of new algorithms, taking into account analytical considerations on stability and performance and also accounting for uncertainties in system models. Particular problems are developing general formal structures by leveraging commonalities seen in various techniques, building robust algorithms while keeping their computational complexity within reasonable levels, and finding guarantees of stability and performance. The research works emphasise practicality in applications to aerospace systems and robotics.
+
+== Research Interests
+=== Theory and Algorithms
+- *Concurrent model learning and adaptive control*
+- *Control-inspired optimisation*
+- *Control as learning*
+- *Learner-agnostic control*
+
+#- *Motion Planning*
+#	-- Sampling-based global waypoint planning
+#	-- Optimisation-based local path generation/smoothing
+#	-- Trajectory optimisation
+#- *Guidance Laws for UAVs and Missiles*
+#	-- Design and analysis of nonlinear guidance laws which preserve geometric/physical intuition but also incorporate rigorous mathematical insights
+#	-- Bridging the gap between geometric methods and control-theoretic methods
+#	-- Generalisation and unification of design frameworks for holistic approach to guidance law design, proposition of design principles and frameworks, provision of overview with analytical insights, balance between practicality of classical approaches and performance of advanced approaches
+#- *Learning-Based Adaptive Control*
+#	-- Adaptation algorithms for composite adaptive control under limited amount of excitation
+#	-- Machine learning algorithms for adaptive control
+#	-- Applications of learning-based adaptive control
+#		--- (Reconfigurable) Flight control, Multi-agent formation control with network resilience, etc.
+#	-- MRAC for flight control
+#- *Reinforcement Learning for Planning and Control*
+#	-- Reinforcement learning for feedback control considering continuous action space
+#	-- Model-based policy search
+
+=== Applications
+- *Aerospace Systems*
+	-- Guidance, Navigation, and Control (GNC)
+	-- Design based on optimisation
+- *Robotics*
+	-- Autonomous decision making and motion control
+
+#=== Practice: Implementation & Flight Experiments
+#- Decentralised Control System of Multiple Fixed-Wing UAVs
+#- Aggressive Manoeuvring Flight of Small Fixed-Wing UAV
+#- Research Testbed Aircraft & Hardware System Development
+#	-- Pixhawk autopilot + Linux-based SBC
+#- Adaptive Control of Quadrotor
+
 ~~~
 {}
 - I have enthusiasm for learning and studying various topics, and I enjoy creative critical thinking with clear logical flow.
@@ -8,37 +55,3 @@
 - I am trying to learn new topics and to be opened to new ideas, to have a broad and unified view.
 - I always hope that I can keep a balance between theory and practice, and achieve good practice by excellent theoretical developments.
 ~~~
-
-== Research Statement
-Design and Analysis of Planning, Control, and Estimation Algorithms\n
-with Applications to Autonomous Aerospace Vehicles
-
-{{<img border="0" width="360" src="Images/2021 - Research Areas.png" />}}
-
-== Research Interests
-My research interests include, but are not limited to, the following topics:
-=== Theory: Generalised Formulation Based on Unified View & Mathematical Analysis
-- *Motion Planning*
-	-- Sampling-based global waypoint planning
-	-- Optimisation-based local path generation/smoothing
-	-- Trajectory optimisation
-- *Guidance Laws for UAVs and Missiles*
-	-- Design and analysis of nonlinear guidance laws which preserve geometric/physical intuition but also incorporate rigorous mathematical insight
-	-- Bridging the gap between geometric methods and control-theoretic methods
-	-- Research directions: generalisation and unification of design frameworks for holistic approach to guidance law design, proposition of design principles and frameworks, provision of overview with analytical insight, balance between practicality of classical approaches and performance of advanced approaches
-- *Learning-Based Adaptive Control*
-	-- Adaptation algorithms for composite adaptive control under limited amount of excitation
-	-- Machine learning algorithms (mostly, regression techniques) for adaptive control
-	-- Applications of learning-based adaptive control
-		--- (Reconfigurable) Flight control, Multi-agent formation control with network resilience, etc.
-	-- MRAC for flight control
-- *Reinforcement Learning for Planning and Control*
-	-- Reinforcement learning for feedback control considering continuous action space
-	-- Model-based policy search
-
-=== Practice: Implementation & Flight Experiments
-- Decentralised Control System of Multiple Fixed-Wing UAVs
-- Aggressive Manoeuvring Flight of Small Fixed-Wing UAV
-- Research Testbed Aircraft & Hardware System Development
-	-- Pixhawk autopilot + Linux-based SBC
-- Adaptive Control of Quadrotor
