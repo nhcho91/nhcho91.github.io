@@ -10,10 +10,10 @@ I am interested in control and estimation of dynamic systems. This involves a wi
 
 == Research Interests
 === Theory and Algorithms
-- *Concurrent model learning and adaptive control*
-- *Control-inspired optimisation*
-- *Control as learning*
-- *Learner-agnostic control*
+- *Concurrent Model Learning and Adaptive Control*
+- *Control-Inspired Optimisation*
+- *Control as Learning*
+- *Learner-Agnostic Control*
 
 #- *Motion Planning*
 #	-- Sampling-based global waypoint planning
@@ -48,8 +48,8 @@ I am interested in control and estimation of dynamic systems. This involves a wi
 #- Adaptive Control of Quadrotor
 
 
-=== ~
-~\n
+===  
+\n\n
 
 ~~~
 {}
