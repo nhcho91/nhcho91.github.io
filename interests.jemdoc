@@ -2,10 +2,10 @@
 = Research Statement & Research Interests
 
 == Research Statement
-Design and Analysis of Planning, Control, and Estimation Algorithms\n
-with Applications to Autonomous Aerospace Vehicles
+*Design and Analysis of Planning, Control, and Estimation Algorithms\n
+with Applications to Autonomous Aerospace Vehicles*
 
-{{<img border="0" width="360" src="Images/2021 - Research Areas.png" />}}
+{{<img border="0" width="360" src="Images/2021 - Research Areas.png" />}}\n
 
 I am interested in control and estimation of dynamic systems. This involves a wide range of knowledge in applied mathematics including mechanics, systems and control theory, optimisation theory, Bayesian reasoning, and machine learning. In the face of entire technological discipline becoming highly complicated, establishing a holistic perspective that focuses on key ideas underlying different areas is essential for making further advances. The primary aim of my research is to develop unified frameworks for constructing control/estimation/optimisation algorithms based on compositional understandings. The architectures would enable systematic design of new algorithms, taking into account analytical considerations on stability and performance and also accounting for uncertainties in system models. Particular problems are developing general formal structures by leveraging commonalities seen in various techniques, building robust algorithms while keeping their computational complexity within reasonable levels, and finding guarantees of stability and performance. The research works emphasise practicality in applications to aerospace systems and robotics.
 
@@ -48,6 +48,7 @@ I am interested in control and estimation of dynamic systems. This involves a wi
 #	-- Pixhawk autopilot + Linux-based SBC
 #- Adaptive Control of Quadrotor
 
+===
 ~~~
 {}
 - I have enthusiasm for learning and studying various topics, and I enjoy creative critical thinking with clear logical flow.
