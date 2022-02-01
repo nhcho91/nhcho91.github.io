@@ -2,8 +2,7 @@
 = Research Statement & Research Interests
 
 == Research Statement
-*Design and Analysis of Planning, Control, and Estimation Algorithms\n
-with Applications to Autonomous Aerospace Vehicles*
+*Algorithm Design Frameworks for Planning, Control, and Estimation in Autonomous Aerospace Vehicles*\n
 
 {{<img border="0" width="360" src="Images/2021 - Research Areas.png" />}}\n
 
@@ -48,7 +47,7 @@ I am interested in control and estimation of dynamic systems. This involves a wi
 #	-- Pixhawk autopilot + Linux-based SBC
 #- Adaptive Control of Quadrotor
 
-===
+\n
 ~~~
 {}
 - I have enthusiasm for learning and studying various topics, and I enjoy creative critical thinking with clear logical flow.
