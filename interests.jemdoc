@@ -6,15 +6,38 @@
 
 {{<img border="0" width="360" src="Images/2021 - Research Areas.png" />}}\n
 
-I am interested in control and estimation of dynamic systems. This involves a wide range of knowledge in applied mathematics including mechanics, systems and control theory, optimisation theory, Bayesian reasoning, and machine learning. In the face of entire technological discipline becoming highly complicated, establishing a holistic perspective that focuses on key ideas underlying different areas is essential for making further advances. The primary aim of my research is to develop unified frameworks for constructing control, estimation, and optimisation algorithms based on compositional understandings. The architectures would enable systematic design of new algorithms, taking into account analytical considerations on stability and performance and also accounting for uncertainties in system models. Particular problems are developing general formal structures by leveraging commonalities seen in various techniques, building robust algorithms while keeping their computational complexity within reasonable levels, and finding guarantees of stability and performance. The research works emphasise practicality in applications to aerospace systems and robotics.
+I am interested in control and estimation of dynamic systems. This involves a wide range of knowledge in applied mathematics including mechanics, systems and control theory, optimisation theory, Bayesian reasoning, and machine learning. In the face of entire technological discipline becoming highly complicated, establishing a holistic perspective that focuses on key ideas underlying different areas is essential for making further advances. The primary aim of my research is to develop unified frameworks for constructing control, estimation, optimisation, and learning algorithms based on compositional understandings. The architectures would enable systematic design of new algorithms, taking into account analytical considerations on stability and performance and also accounting for uncertainties in system models. Particular problems are developing general formal structures by leveraging commonalities seen in various techniques, building robust algorithms while keeping their computational complexity within reasonable levels, and finding guarantees of stability and performance. The research works emphasise practicality in applications to aerospace systems and robotics.\n
+
 
 == Research Interests
-=== Theory and Algorithms
+=== Theory: Foundations of Control and Online Learning
 - *Concurrent Model Learning and Adaptive Control*
 - *Control-Inspired Optimisation*
 - *Control as Learning*
 - *Learner-Agnostic Control*
+- *Scientific Machine Learning for Control*
 
+=== Applications: Aerospace and Robotics
+- *Guidance, Navigation, and Control (GNC)*
+- *Policy Optimisation*
+- *Trajectory Planning*
+- *Parameter/State Estimation*
+
+===  
+\n\n
+
+~~~
+{}
+- I have enthusiasm for learning and studying various topics, and I enjoy creative critical thinking with clear logical flow.
+- I have learned the way of scientific thinking since 2007 when I first experienced astronomy and physics.
+- I am trying to learn new topics and to be opened to new ideas, to have a broad and unified view.
+- I always hope that I can keep a balance between theory and practice, and achieve good practice by excellent theoretical developments.
+~~~
+
+
+
+#----------------------------------------------------------------------------------------------
+#=== Theory: Generalised Formulation
 #- *Motion Planning*
 #	-- Sampling-based global waypoint planning
 #	-- Optimisation-based local path generation/smoothing
@@ -33,13 +56,6 @@ I am interested in control and estimation of dynamic systems. This involves a wi
 #	-- Reinforcement learning for feedback control considering continuous action space
 #	-- Model-based policy search
 
-=== Applications
-- *Aerospace Systems*
-	-- Guidance, Navigation, and Control (GNC)
-	-- Design based on optimisation
-- *Robotics*
-	-- Autonomous decision making and motion control
-
 #=== Practice: Implementation & Flight Experiments
 #- Decentralised Control System of Multiple Fixed-Wing UAVs
 #- Aggressive Manoeuvring Flight of Small Fixed-Wing UAV
@@ -47,14 +63,3 @@ I am interested in control and estimation of dynamic systems. This involves a wi
 #	-- Pixhawk autopilot + Linux-based SBC
 #- Adaptive Control of Quadrotor
 
-
-===  
-\n\n
-
-~~~
-{}
-- I have enthusiasm for learning and studying various topics, and I enjoy creative critical thinking with clear logical flow.
-- I have learned the way of scientific thinking since 2007 when I first experienced astronomy and physics.
-- I am trying to learn new topics and to be opened to new ideas, to have a broad and unified view.
-- I always hope that I can keep a balance between theory and practice, and achieve good practice by excellent theoretical developments.
-~~~
