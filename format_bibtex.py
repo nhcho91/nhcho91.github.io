@@ -15,7 +15,7 @@ from bibtexparser.customization import convert_to_unicode
 import sys
 import importlib
 importlib.reload(sys)
-sys.setdefaultencoding('utf-8')
+# sys.setdefaultencoding('utf-8')
 
 def format_bibtex(pub, format, main_author, initials):
     """
