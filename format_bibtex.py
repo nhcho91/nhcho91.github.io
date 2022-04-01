@@ -162,6 +162,8 @@ def format_bibtex(pub, format, main_author, initials):
         ref = ref + ', ' + year + '. ' + doi
     elif entry_type == 'inproceedings' or entry_type == 'incollection':
         ref = authors + ', ' + title + ' ' + booktitle + ', ' + address + ', ' + month + ' ' + year + '. '
+        if note != '':
+            ref = ref + note + ' '
         if doi != '':
             ref = ref + doi
         elif link != '':
