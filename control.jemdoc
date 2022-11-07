@@ -15,6 +15,7 @@
 \n
 == Aerospace GNC
 - [https://doi.org/10.1109/TAC.1979.1102178 1979 - Alan J. Laub - A Schur Method for Solving Algebraic Riccati Equations]
+- [https://doi.org/10.1016/S0005-1098(98)00019-3 1998 - Winfried Lohmiller - On Contraction Analysis for Non-linear Systems]
 - [https://doi.org/10.1109/MCS.2003.1213600 2003 - Gunter Stein - Respect the Unstable]
 - [https://doi.org/10.1109/TAC.2007.904453 2007 - Simo Sarkka - On Unscented Kalman Filtering for State Estimation of Continuous-Time Nonlinear Systems]
 - [https://doi.org/10.2514/1.28957 2007 - Sanghyuk Park - Performance and Lyapunov Stability of a Nonlinear Path-Following Guidance Method]
@@ -26,4 +27,4 @@
 - [https://arxiv.org/abs/2106.09125 2021 - Danylo Malyuta - Convex Optimization for Trajectory Generation]
 - [https://doi.org/10.2514/1.G006817 2022 - John L. Crassidis - What Is Navigation?]
 - [https://muwo1.unibo.it/sidra2022deiuniboit/wp-content/uploads/sites/18/2022/08/Lecture-Notes-Control-Aerospace-Systems-Bertinoro-2022-ver2.pdf 2022 - Andrea Serrani - Lecture Notes on Nonlinear and Adaptive Control of Advanced Aerospace Systems]
- 
+- [https://doi.org/10.2514/1.G006785 2022 - Dennis S. Bernstein - Facing Future Challenges in Feedback Control of Aerospace Systems Through Scientific Experimentation]
