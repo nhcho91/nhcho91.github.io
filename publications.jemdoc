@@ -12,9 +12,11 @@
 . Namhoon Cho, Hyo-Sang Shin, and Antonios Tsourdos, "*Optimisation of Structured Neural Controller Based on Continuous-Time Policy Gradient*," arXiv:2201.06262, January 2022. \n[https://arxiv.org/abs/2201.06262 Link]
 
 == Journals
+. Youngjae Min, Namhoon Cho, and Navid Azizan, "*One-Pass Learning via Bridging Orthogonal Gradient Descent and Recursive Least-Squares*," /TBD/, Vol. In Preparation, 2099. 
+. Seokwon Lee, Namhoon Cho, Hyo-Sang Shin, and Antonios Tsourdos, "*State-Space Modelling for Estimation of Controlled Systems via Conditionally Markov Processes*," /TBD/, Vol. In Preparation, 2099. 
 . Namhoon Cho, Hyo-Sang Shin, and Antonios Tsourdos, "*CT-DRPO: Continuous-Time Direct Robust Policy Optimisation Frameworks for Planning and Control*," /TBD/, Vol. In Preparation, 2099. 
 . Namhoon Cho, Jinrae Kim, Seokwon Lee, and Youdan Kim, "*Finite-Horizon Feedback Control of Underactuated Nonlinear Systems for Guidance Application*," /Journal of Guidance, Control, and Dynamics/, Vol. In Preparation, 2099. 
-. Hyo-Sang Shin, Chang How Lo, Namhoon Cho, and Antonios Tsourdos, "*An Integrated Actuator Control Scheme to Improve Actuator Fault Tolerance*," /Control Engineering Practice/, Vol. Under Review, 2022. 
+. Hyo-Sang Shin, Chang How Lo, Namhoon Cho, and Antonios Tsourdos, "*An Integrated Actuator Control Scheme to Improve Actuator Fault Tolerance*," /Control Engineering Practice/, Vol. Under Review, 2023. 
 . Namhoon Cho, "*Three-Dimensional Guidance Method with Collision Course Modification for Endoatmospheric Target Interception*," /IEEE Transactions on Aerospace and Electronic Systems/, Vol. Under Review, 2022. 
 . Namhoon Cho, Hyo-Sang Shin, Antonios Tsourdos, and Davide Amato, "*Incremental Correction in Dynamic Systems Modelled with Neural Networks for Constraint Satisfaction*," /Journal of Guidance, Control, and Dynamics/, Vol. Under Review, 2022. 
 . Namhoon Cho, Hyo-Sang Shin, and Antonios Tsourdos, "*Optimisation of Structured Neural Controller Based on Continuous-Time Policy Gradient*," /IEEE Transactions on Systems, Man, and Cybernetics: Systems/, Vol. Under Review, 2022. 
@@ -52,7 +54,7 @@
 == Conferences
 . Namhoon Cho, Seokwon Lee, Hyo-Sang Shin, and Antonios Tsourdos, "*Bayesian Inference Approach to Model Predictive Control*," /22nd IFAC World Congress/, Yokohama, Japan, July 2023. Submitted 
 . Namhoon Cho, and Davide Amato, "*Enforcing State Constraints in Dynamical Systems Modelled with Neural Networks*," /4th Workshop on Machine Learning and Data Assimilation for Dynamical Systems, 22nd International Conference on Computational Science/, London, United Kingdom, June 2022. \n[http://hdl.handle.net/10044/1/99648 Link]
-. Namhoon Cho, Youngil Kim, Hyo-Sang Shin, and Youdan Kim, "*Guidance of Gliding Vehicles with Energy Management Based on Approximate Prediction of Speed*," /6th CEAS EuroGNC Conference/, Berlin, Germany, May 2022. 
+. Namhoon Cho, Youngil Kim, Hyo-Sang Shin, and Youdan Kim, "*Guidance of Gliding Vehicles with Energy Management Based on Approximate Prediction of Speed*," /6th CEAS EuroGNC Conference/, Berlin, Germany, May 2022. \n[https://eurognc.ceas.org/archive/EuroGNC2022/html/CEAS-GNC-2022-071.html Link]
 . Namhoon Cho, "*Nonlinear Optimal Missile Guidance for Stationary Target Interception with Pendulum Motion Perspective*," /40th American Control Conference/, Virtual (New Orleans, LA, USA), May 2021. \n[https://doi.org/10.23919/ACC50511.2021.9483418 DOI:10.23919/ACC50511.2021.9483418]
 . Namhoon Cho, Jinrae Kim, and Seokwon Lee, "*Feasible Initial Conditions for Bias Proportional Navigation Guidance Laws Under Look Angle Constraints*," /28th Mediterranean Conference on Control and Automation/, Virtual (Saint-Raphael, France), September 2020. \n[https://doi.org/10.1109/MED48518.2020.9183280 DOI:10.1109/MED48518.2020.9183280]
 . Jinrae Kim, Namhoon Cho, and Youdan Kim, "*Field-of-View Constrained Impact Angle Control Guidance with Error Convergence Before Interception*," /Guidance, Navigation, and Control Conference, AIAA Science and Technology Forum/, San Diego, CA, USA, January 2019. \n[https://doi.org/10.2514/6.2019-1927 DOI:10.2514/6.2019-1927]
