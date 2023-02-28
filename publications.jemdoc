@@ -12,10 +12,12 @@
 . Namhoon Cho, Hyo-Sang Shin, and Antonios Tsourdos, "*Optimisation of Structured Neural Controller Based on Continuous-Time Policy Gradient*," arXiv:2201.06262, January 2022. \n[https://arxiv.org/abs/2201.06262 Link]
 
 == Journals
+. Saki Omi, Hyo-Sang Shin, Namhoon Cho, and Antonios Tsourdos, "*Robust RL TBD*," /TBD/, Vol. In Preparation, 2099. 
+. Seong-hun Kim, Namhoon Cho, Jongho Park, and Youdan Kim, "*Meta-Learning Scheme for Data-Driven Optimal Adaptive Control for Group of Nonlinear Systems*," /TBD/, Vol. In Preparation, 2099. 
 . Youngjae Min, Namhoon Cho, and Navid Azizan, "*One-Pass Learning via Bridging Orthogonal Gradient Descent and Recursive Least-Squares*," /TBD/, Vol. In Preparation, 2099. 
 . Seokwon Lee, Namhoon Cho, Hyo-Sang Shin, and Antonios Tsourdos, "*State-Space Modelling for Estimation of Controlled Systems via Conditionally Markov Processes*," /TBD/, Vol. In Preparation, 2099. 
 . Namhoon Cho, Hyo-Sang Shin, and Antonios Tsourdos, "*CT-DRPO: Continuous-Time Direct Robust Policy Optimisation Frameworks for Planning and Control*," /TBD/, Vol. In Preparation, 2099. 
-. Namhoon Cho, Jinrae Kim, Seokwon Lee, and Youdan Kim, "*Finite-Horizon Feedback Control of Underactuated Nonlinear Systems for Guidance Application*," /Journal of Guidance, Control, and Dynamics/, Vol. In Preparation, 2099. 
+. Namhoon Cho, Seokwon Lee, and Hyo-Sang Shin, "*Error Feedback with Online Gain Computation for Finite-Horizon Control of Underactuated Nonlinear Systems*," /Journal of Guidance, Control, and Dynamics/, Vol. In Preparation, 2099. 
 . Hyo-Sang Shin, Chang How Lo, Namhoon Cho, and Antonios Tsourdos, "*An Integrated Actuator Control Scheme to Improve Actuator Fault Tolerance*," /Control Engineering Practice/, Vol. Under Review, 2023. 
 . Namhoon Cho, "*Three-Dimensional Guidance Method with Collision Course Modification for Endoatmospheric Target Interception*," /IEEE Transactions on Aerospace and Electronic Systems/, Vol. Under Review, 2022. 
 . Namhoon Cho, Hyo-Sang Shin, Antonios Tsourdos, and Davide Amato, "*Incremental Correction in Dynamic Systems Modelled with Neural Networks for Constraint Satisfaction*," /Journal of Guidance, Control, and Dynamics/, Vol. Under Review, 2022. 
