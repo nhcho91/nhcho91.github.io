@@ -76,6 +76,7 @@
 . Namhoon Cho, and Youdan Kim, "*Adaptive Nonlinear Guidance Law of UAV for Standoff Tracking with Target Velocity and Acceleration Estimation*," /5th Asia-Pacific International Symposium on Aerospace Technology/, Takamatsu, Japan, November 2013. 
 
 == Technical Reports
+. Namhoon Cho, and Hyo-Sang Shin, "*WP2.17 Flight Control Technologies – Control Allocation Algorithms: Understanding the State of the Art and Future Development Opportunities*," /BAE Systems/, , December 2023.
 . Namhoon Cho, "*A Three-Dimensional Guidance Law for Higher Final Speed in Nonmanoeuvring Target Interception Based on Modification of Desired Course Angle*," /Agency for Defense Development/, ADDR-417-201166, July 2020.
 . Namhoon Cho, "*Efficient Nonlinear Trajectory Optimisation Using Open-Source Interior-Point Solver (with Application to Trajectory Design for LSAM-AAM)*," /Agency for Defense Development/, ADDR-417-200889, May 2020.
 . Namhoon Cho, "*Rough Estimation of Achievable Stability Margins for SISO Linear Control System (with Application to Pitch Angular Rate Control of Statically Unstable Missile)*," /Agency for Defense Development/, ADDR-401-200794, April 2020.
