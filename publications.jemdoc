@@ -12,16 +12,16 @@
 . Namhoon Cho, Hyo-Sang Shin, and Antonios Tsourdos, "*Optimisation of Structured Neural Controller Based on Continuous-Time Policy Gradient*," arXiv:2201.06262, January 2022. \n[https://arxiv.org/abs/2201.06262 Link]
 
 == Journals
-. Seokwon Lee, Jinrae Kim, Youdan Kim, and Namhoon Cho, "*Analytic Approach for Impact Time Guidance with Look Angle Constraint Using Exact Time-to-Go Solution*," /TBD/, Vol. In Preparation, 2099. 
 . Seokwon Lee, Namhoon Cho, and Youdan Kim, "*Iterative Command Generation Method for Impact Angle Guidance with Field-of-View Constraint Against Fast-Speed Targets*," /International Journal of Control, Automation, and Systems/, Vol. In Preparation, 2099. 
 . Namhoon Cho, Hyo-Sang Shin, and Antonios Tsourdos, "*Generalised High-Order Gradient Descent Algorithm for Optimisation and Composite Adaptive Control*," /TBD/, Vol. In Preparation, 2099. 
-. Saki Omi, Hyo-Sang Shin, Namhoon Cho, and Antonios Tsourdos, "*Robust RL TBD*," /TBD/, Vol. In Preparation, 2099. 
+. Saki Omi, Hyo-Sang Shin, Namhoon Cho, and Antonios Tsourdos, "*Dynamic Deep-Reinforcement-Learning Algorithm in Partially Observed Markov Decision Processes*," /TBD/, Vol. In Preparation, 2099. 
 . Seokwon Lee, Namhoon Cho, Hyo-Sang Shin, and Antonios Tsourdos, "*State-Space Modelling for Estimation of Controlled Systems via Conditionally Markov Processes*," /TBD/, Vol. In Preparation, 2099. 
 . Namhoon Cho, Hyo-Sang Shin, and Antonios Tsourdos, "*CT-DRPO: Continuous-Time Direct Robust Policy Optimisation Frameworks for Planning and Control*," /TBD/, Vol. In Preparation, 2099. 
 . Namhoon Cho, Seokwon Lee, and Hyo-Sang Shin, "*Error Feedback with Online Gain Computation for Finite-Horizon Control of Underactuated Nonlinear Systems*," /Journal of Guidance, Control, and Dynamics/, Vol. In Preparation, 2099. 
 . Namhoon Cho, Hyo-Sang Shin, Seokwon Lee, and * TBD*, "*Synchronisation Perspective Towards Adaptive Control*," /TBD/, Vol. In Preparation, 2023. 
 . Seong-hun Kim, Namhoon Cho, Jongho Park, and Youdan Kim, "*Koopman Operator-Based Meta-Learning Framework for Data-Driven Infinite-Horizon Optimal Control*," /TBD/, Vol. In Preparation, 2023. 
 . Youngjae Min, Namhoon Cho, and Navid Azizan, "*One-Pass Learning via Bridging Orthogonal Gradient Descent and Recursive Least-Squares*," /IEEE Transactions on Automatic Control/, Vol. In Preparation, 2023. 
+. Seokwon Lee, Jinrae Kim, Youdan Kim, and Namhoon Cho, "*Analytic Approach for Impact Time Guidance with Look Angle Constraint Using Exact Time-to-Go Solution*," /Journal of Aerospace Engineering/, Vol. Under Review, 2023. 
 . Hyo-Sang Shin, Chang How Lo, Namhoon Cho, and Antonios Tsourdos, "*An Integrated Actuator Control Scheme to Improve Actuator Fault Tolerance*," /Control Engineering Practice/, Vol. Under Review, 2023. 
 . Seong-hun Kim, Hanna Lee, Namhoon Cho, and Youdan Kim, "*Data-Efficient Active Weighting Algorithm for Composite Adaptive Control Systems*," /IEEE Transactions on Automatic Control/, Vol. 68, No. 5, pp. 3086-3090, 2023. \n[https://doi.org/10.1109/TAC.2022.3197702 DOI:10.1109/TAC.2022.3197702]
 . Namhoon Cho, Seokwon Lee, Hyo-Sang Shin, and Tae-Hun Kim, "*Three-Dimensional Biased Proportional Navigation Guidance Based on Spatial Rotation of Predicted Final Velocity*," /IEEE Transactions on Aerospace and Electronic Systems/, Vol. 59, No. 2, pp. 1354-1370, 2023. \n[https://doi.org/10.1109/TAES.2022.3199705 DOI:10.1109/TAES.2022.3199705]
