@@ -1,6 +1,11 @@
 # jemdoc: menu{MENU}{control.html}, notime
 = Control
 
+== Safe Control
+- [https://www.cs.ubc.ca/~mitchell/Papers/reachSensitiveLong.pdf 2007 - Ian M. Mitchell - Comparing Forward and Backward Reachability as Tools for Safety Analysis]
+- [https://arxiv.org/abs/2310.17180 2023 - Jason J. Choi - A Forward Reachability Perspective on Robust Control Invariance and Discount Factors in Reachability Analysis]
+- [https://arxiv.org/abs/2303.17674 2023 - Thomas Lew - Exact Characterization of the Convex Hulls of Reachable Sets]
+
 == Control + Learning
 - [https://doi.org/10.23919/ACC.2004.1383781 2004 - Chang-Hee Won - Cost Distribution Shaping: The Relation Between Bode Integral, Entropy, Risk-Sensitivity, and Cost Cumulant Control]
 - [https://doi.org/10.1073/pnas.0710743106 2009 - Emanuel Todorov - Efficient Computation of Optimal Actions]
