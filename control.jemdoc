@@ -2,7 +2,9 @@
 = Control
 
 == Safe Control
+- [https://doi.org/10.1109/TAC.2005.851439 2005 - Ian M. Mitchell - A Time-Dependent Hamilton-Jacobi Formulation of Reachable Sets for Continuous Dynamic Games]
 - [https://www.cs.ubc.ca/~mitchell/Papers/reachSensitiveLong.pdf 2007 - Ian M. Mitchell - Comparing Forward and Backward Reachability as Tools for Safety Analysis]
+- [https://doi.org/10.1146/annurev-control-090419-075625 2020 - Lukas Hewing - Learning-Based Model Predictive Control: Toward Safe Learning in Control]
 - [https://arxiv.org/abs/2310.17180 2023 - Jason J. Choi - A Forward Reachability Perspective on Robust Control Invariance and Discount Factors in Reachability Analysis]
 - [https://arxiv.org/abs/2303.17674 2023 - Thomas Lew - Exact Characterization of the Convex Hulls of Reachable Sets]
 - [https://doi.org/10.1109/MCS.2023.3291885 2023 - Kim P. Wabersich - Data-Driven Safety Filters: Hamilton-Jacobi Reachability, Control Barrier Functions, and Predictive Methods for Uncertain Systems]
@@ -14,9 +16,16 @@
 - [http://www.argmin.net/2018/06/25/outsider-rl/ 2018 - Benjamin Recht - An Outsider's Tour of Reinforcement Learning]
 - [https://doi.org/10.1146/annurev-control-053018-023825 2018 - Benjamin Recht - A Tour of Reinforcement Learning: The View from Continuous Control]
 - [https://doi.org/10.1109/MCS.2020.2990516 2020 - Ankit Goel - Recursive Least Squares With Variable-Direction Forgetting: Compensating for the Loss of Persistency]
+- [https://proceedings.mlr.press/v120/agrawal20a.html 2020 - Akshay Agrawal - Learning Convex Optimization Control Policies]
 - [https://doi.org/10.1016/j.arcontrol.2020.06.002 2021 - Romeo Ortega - On Modified Parameter Estimators for Identification and Adaptive Control. A Unified Framework and Some New Schemes]
 - [https://doi.org/10.1162/neco_a_01360 2021 - Nicholas M. Boffi - Implicit Regularization and Momentum Algorithms in Nonlinearly Parameterized Adaptive Control and Prediction]
 - [https://doi.org/10.2514/1.G005952 2021 - Damien Gueho - Filtered Integral Formulation of the Sparse Model Identification Problem]
+- [https://doi.org/10.1016/j.arcontrol.2021.10.001 2021 - Hiroyasu Tsukamoto - Contraction Theory for Nonlinear Stability Analysis and Learning-Based Control: A Tutorial Overview]
+- [https://arxiv.org/abs/2212.14020 2022 - Rohan Sinha - A System-Level View on Out-of-Distribution Data in Robotics]
+- [https://doi.org/10.1126/scirobotics.abm6597 2022 - Michael O’Connell - Neural-Fly Enables Rapid Learning for Agile Flight in Strong Winds]
+- [https://doi.org/10.1177/02783649231165085 2023 - Spencer M. Richards - Control-Oriented Meta-Learning]
+- [https://doi.org/10.1146/annurev-control-062922-090153 2023 - Anuradha M. Annaswamy - Adaptive Control and Intersections with Reinforcement Learning]
+- [https://doi.org/10.1109/TAC.2023.3290037 2023 - Anuradha M. Annaswamy - Integration of Adaptive Control and Reinforcement Learning for Real-Time Control and Learning]
 
 \n
 == Aerospace GNC
@@ -29,7 +38,7 @@
 - [https://doi.org/10.2514/10.2514/1.G002818 2018 - Marco Sagliano - Pseudospectral Convex Optimization for Powered Descent and Landing]
 - [https://doi.org/10.2514/1.G003731 2019 - Marco Sagliano - Generalized hp Pseudospectral-Convex Programming for Powered Descent and Landing]
 - [https://doi.org/10.1109/MCS.2020.3005277 2020 - Peter Seiler - An Introduction to Disk Margins]
-- [https://arxiv.org/abs/2106.09125 2021 - Danylo Malyuta - Convex Optimization for Trajectory Generation]
+- [https://doi.org/10.1109/MCS.2022.3187542 2022 - Danylo Malyuta - Convex Optimization for Trajectory Generation: A Tutorial on Generating Dynamically Feasible Trajectories Reliably and Efficiently ]
 - [https://muwo1.unibo.it/sidra2022deiuniboit/wp-content/uploads/sites/18/2022/08/Lecture-Notes-Control-Aerospace-Systems-Bertinoro-2022-ver2.pdf 2022 - Andrea Serrani - Lecture Notes on Nonlinear and Adaptive Control of Advanced Aerospace Systems]
 - [https://doi.org/10.2514/1.G006785 2022 - Dennis S. Bernstein - Facing Future Challenges in Feedback Control of Aerospace Systems Through Scientific Experimentation]
 - [https://doi.org/10.2514/1.G006191 2021 - Ping Lu - What Is Guidance?]
