@@ -14,15 +14,15 @@ My research expertise lies in control and estimation of dynamic systems. This in
 - *Concurrent Model Learning and Adaptive Control*
 - *Safe Control and Learning*
 - *Control-Inspired Optimisation*
-- *Control as Learning*
-- *Learner-Agnostic Control*
-- *Scientific Machine Learning for Control*
+- *Scientific Machine Learning and Neural Network Architectures for Control*
+- *Control as Inference/Learning*
 - *Automatic Optimisation of Closed-Loop Systems*
-- *Meta-Learning for Convex Optimisation Control Policies*
+- *Meta-Learning for Control*
 
 === Applications: Aerospace and Robotics
 - *Guidance, Navigation, and Control (GNC)*
 - *Policy Optimisation*
+- *Reachability Analysis*
 - *Trajectory Planning*
 - *Parameter/State Estimation*
 
