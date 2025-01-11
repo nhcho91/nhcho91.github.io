@@ -2,9 +2,9 @@
 = Research Statement & Research Interests
 
 == Research Statement
-*Algorithm Design Frameworks for Planning, Control, and Estimation in Autonomous Aerospace Systems*\n
+*Algorithm Design Frameworks for Planning, Control, and Estimation in Autonomous Aerospace Systems*\n\n
 
-{{<img border="0" width="720" src="Images/2025 - Research Areas.png" />}}\n
+{{<img border="0" width="720" src="Images/2025 - Research Areas.png" />}}\n\n
 
 My research expertise lies in control and estimation of dynamic systems. This involves a wide range of knowledge in applied mathematics including mechanics, systems and control theory, optimisation theory, Bayesian reasoning, and machine learning. In the face of entire technological discipline becoming highly complicated, establishing a holistic perspective that focuses on key ideas underlying different areas is essential for making further advances. The primary aim of my research is to develop unified frameworks for constructing control, estimation, optimisation, and learning algorithms based on compositional understandings. The architectures would enable systematic design of new algorithms, taking into account analytical considerations on stability and performance and also accounting for uncertainties in system models. Particular problems are developing general formal structures by leveraging commonalities seen in various techniques, building robust algorithms while keeping their computational complexity within reasonable levels, and finding guarantees of stability and performance. The research works emphasise practicality in applications to aerospace systems and robotics.\n
 
