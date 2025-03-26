@@ -52,6 +52,7 @@
 - [https://arxiv.org/abs/2305.06628 2023 - Jaeyeon Kim - Time-Reversed Dissipation Induces Duality Between Minimizing Gradient Norm and Function Value]
 - [https://arxiv.org/abs/2311.17296 2023 - Jaeyeon Kim - Mirror Duality in Convex Optimization]
 
+\n
 == Neural Network Architecture
 - [https://doi.org/10.1038/s42256-020-00237-3 2020 - Mathias Lechner - Neural Circuit Policies Enabling Auditable Autonomy]
 - [https://doi.org/10.1109/LCSYS.2020.3038221 2021 - Max Revay - A Convex Parameterization of Robust Recurrent Neural Networks]
@@ -59,3 +60,5 @@
 - [https://doi.org/10.1109/TNNLS.2022.3190198 2022 - Jinrae Kim - Parameterized Convex Universal Approximators for Decision-Making Problems]
 - [https://proceedings.mlr.press/v202/wang23v.html 2023 - Ruigang Wang - Direct Parameterization of Lipschitz-Bounded Deep Networks]
 - [https://doi.org/10.1109/TAC.2023.3294101 2023 - Max Revay - Recurrent Equilibrium Networks: Flexible Dynamic Models with Guaranteed Stability and Robustness]
+- [https://arxiv.org/abs/2410.10807 2024 - Youngjae Min - Hard-Constrained Neural Networks with Universal Approximation Guarantees]
+- [https://doi.org/10.1109/CDC56724.2024.10886407 2024 - Jing Cheng - Learning Stable and Passive Neural Differential Equations]
