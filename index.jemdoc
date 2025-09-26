@@ -1,5 +1,5 @@
 # jemdoc: menu{MENU}{index.html}, notime
-= Namhoon Cho, PhD, FHEA
+= Namhoon Cho, PhD, FHEA / Aerospace Autonomy and Intelligence Laboratory
 
 ~~~
 {}{img_left}{Images/2023 - Namhoon Cho.jpg}{}{150}{}{}
@@ -14,11 +14,12 @@ Address: Rm 1309, Bldg 301, Department of Aerospace Engineering, Seoul National 
 [https://orcid.org/0000-0001-9999-9501 ORCID], 
 [https://www.scopus.com/authid/detail.uri?authorId=56654774400 Scopus], 
 [https://github.com/nhcho91 GitHub], 
-[https://www.dropbox.com/sh/66be7tirhr56y2p/AAAKsW7RRNf9N_ABcqQgcO8Na?preview=CV_NCho_full.pdf CV]\n
+[https://www.dropbox.com/sh/66be7tirhr56y2p/AAAKsW7RRNf9N_ABcqQgcO8Na?preview=CV_NCho_full.pdf CV], [https://www.youtube.com/@snuaail YouTube]\n
 ~~~
 
 == Current Position
 Assistant Professor\n
+Aerospace Autonomy and Intelligence Laboratory\n
 Department of Aerospace Engineering\n
 College of Engineering\n
 Seoul National University
@@ -28,10 +29,10 @@ Seoul National University
 == Education
 - *2012.9\~2017.2*: PhD in Mechanical and Aerospace Engineering, Seoul National University\n
 	Dissertation: Nonlinear Guidance Law for Three-Dimensional Path-Following Using Differential Geometry\n
-	Supervisor: Prof Youdan Kim
+	Supervisor: [Prof Youdan Kim https://fdcl.snu.ac.kr]
 - *2009.3\~2012.8*: BSc in Mechanical and Aerospace Engineering, Seoul National University\n
 	Thesis: Dynamic Modeling, Vertical Flight Controller Design, and Attitude Control Experiment of Quad-Tilt-Ducted Fan UAV (in Korean)\n
-	Supervisor: Prof Youdan Kim
+	Supervisor: [Prof Youdan Kim https://fdcl.snu.ac.kr]
 - *2007.3\~2009.2*: Seoul Science High School
 
 == Experience
@@ -42,15 +43,19 @@ Seoul National University
 - *2021.1.18\~2024.11.28*: Research Fellow ([https://www.cranfield.ac.uk/research/engage-with-us/fellowships/75th-anniversary-fellowship-scheme/75th-anniversary-fellows Cranfield 75th Anniversary Fellowship], [https://www.cranfield.ac.uk/press/news-2021/cranfields-75th-anniversary-research-fellowship-open-to-new-applications Press Release]), [https://www.cranfield.ac.uk/centres/centre-for-autonomous-and-cyberphysical-systems Centre for Autonomous and Cyber-Physical Systems], [https://www.cranfield.ac.uk/themes/aerospace School of Aerospace, Transport and Manufacturing], [https://www.cranfield.ac.uk Cranfield University]\n
 	Line Manager: Prof Hyo-Sang Shin
 - *2019.3.1\~2020.12.31*: Senior Researcher, Team 2, 4th Directorate, The 1st R\&D Institute, [https://www.add.re.kr/eps Agency for Defense Development]
-- *2017.12.1\~2019.2.28*: Postdoctoral Research Fellow, [http://aerospace.snu.ac.kr Department of Mechanical and Aerospace Engineering], [https://en.snu.ac.kr Seoul National University]
-- *2017.3.1\~2018.8.31*: Researcher, [http://asri.snu.ac.kr Automation and Systems Research Institute], [https://en.snu.ac.kr Seoul National University]
+- *2017.12.1\~2019.2.28*: Postdoctoral Research Fellow, [https://aerospace.snu.ac.kr Department of Mechanical and Aerospace Engineering], [https://en.snu.ac.kr Seoul National University]
+- *2017.3.1\~2018.8.31*: Researcher, [https://asri.snu.ac.kr Automation and Systems Research Institute], [https://en.snu.ac.kr Seoul National University]
 - *2015.11.14\~2016.4.28*: Visiting Research Student, [https://www.cranfield.ac.uk/centres/centre-for-autonomous-and-cyberphysical-systems Centre for Autonomous and Cyber-Physical Systems], [https://www.cranfield.ac.uk/themes/aerospace School of Aerospace, Transport and Manufacturing], [https://www.cranfield.ac.uk Cranfield University]\n
 	Supervisor: Dr Hyo-Sang Shin, Prof Antonios Tsourdos
 - *2008.8.19\~2008.8.28*: The 2nd International Olympiad on Astronomy and Astrophysics (IOAA), Member of the Korean National Team, Silver Medalist
 - *2007.11.21\~2007.11.29*: The 3rd Asian-Pacific Astronomy Olympiad (APAO), Member of the Korean National Team, Bronze Medalist
 
 == Research Projects
-=== Research Projects participated in [http://XXX.snu.ac.kr XXX Laboratory], [http://www.snu.ac.kr Seoul National University]
+=== Research Projects participated in [https://aail.snu.ac.kr Aerospace Autonomy and Intelligence Laboratory], [https://www.snu.ac.kr Seoul National University]
+- *2025.9\~2027.8*: Data-Driven Safe and Adaptive Control of Autonomous Systems, Seoul National University
+- *2025.9\~2028.10*: ReUSV, Korea Research Institute for Defense Technology Planning and Advancement (KRIT)
+- *2025.9\~2027.5*: FDIR, National Research Foundation of Korea (NRF)
+- *2025.9\~2027.2*: TD, Agency for Defense Development (ADD)
 
 === Research Projects participated in [https://www.cranfield.ac.uk Cranfield University]
 - *2024.12\~2026.11*: Meta-Learning for Safe Adaptive Control, The Royal Society
@@ -61,10 +66,10 @@ Seoul National University
 - *2022.7\~2023.1*: Developing Methods for Coherent Integration of Learning and Control for Autonomous Aerospace Systems, The Alan Turing Institute
 - *2021.1\~2024.1*: AI for Exploitation of Data-Driven Approach in Control for Aerospace Systems, Cranfield University
 
-=== Research Projects participated in [http://www.add.re.kr Agency for Defense Development]
+=== Research Projects participated in [https://www.add.re.kr Agency for Defense Development]
 - *2019.3\~2020.12*: Development of Guidance and Control Systems for Missiles
 
-=== Research Projects participated in [http://fdcl.snu.ac.kr Flight Dynamics and Control Laboratory], [http://www.snu.ac.kr Seoul National University]
+=== Research Projects participated in [https://fdcl.snu.ac.kr Flight Dynamics and Control Laboratory], [https://en.snu.ac.kr Seoul National University]
 - *2017.1\~2019.2*: Study on Trajectory Generation and Improved Guidance/Control System for Precision Guided Munition, LIG Nex1
 - *2016.12\~2017.8*: Development of Simulation Program for Performance Analysis of Guided Weapon Systems, Hanwha
 - *2014.7\~2017.6*: Development of Guidance, Navigation, and Control Algorithms and Corresponding Source Code for Experimental Lunar Orbiter, National Research Foundation of Korea (NRF)
