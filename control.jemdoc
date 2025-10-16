@@ -6,7 +6,7 @@
 - [https://www.cs.ubc.ca/~mitchell/Papers/reachSensitiveLong.pdf 2007 - Ian M. Mitchell - Comparing Forward and Backward Reachability as Tools for Safety Analysis]
 - [https://doi.org/10.1146/annurev-control-090419-075625 2020 - Lukas Hewing - Learning-Based Model Predictive Control: Toward Safe Learning in Control]
 - [https://arxiv.org/abs/2310.17180 2023 - Jason J. Choi - A Forward Reachability Perspective on Robust Control Invariance and Discount Factors in Reachability Analysis]
-- [https://arxiv.org/abs/2303.17674 2023 - Thomas Lew - Exact Characterization of the Convex Hulls of Reachable Sets]
+- [https://doi.org/10.1109/TAC.2025.3586777 2025 - Thomas Lew - Convex Hulls of Reachable Sets]
 - [https://doi.org/10.1109/MCS.2023.3291885 2023 - Kim P. Wabersich - Data-Driven Safety Filters: Hamilton-Jacobi Reachability, Control Barrier Functions, and Predictive Methods for Uncertain Systems]
 - [https://doi.org/10.1146/annurev-control-071723-102940 2024 - Kai-Chieh Hsu - The Safety Filter: A Unified View of Safety-Critical Control in Autonomous Systems]
 - [https://doi.org/10.5302/J.ICROS.2025.24.0264 2025 - Hyeongchan Ham - A Survey on Safe Model Predictive Control and Reinforcement Learning (Korean)]
