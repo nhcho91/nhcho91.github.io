@@ -7,6 +7,7 @@
 . Namhoon Cho, "*Nonlinear Guidance Law for Three-Dimensional Path-Following Based on Differential Geometry*," PhD Dissertation, Department of Mechanical and Aerospace Engineering, Seoul National University, Seoul, South Korea, 2017. \n[https://hdl.handle.net/10371/118598 Link]
 
 == Preprints
+. Jeongeun Park, Jihwan Yoon, Byungwoo Jeon, Juhan Park, Jinwoo Shin, Namhoon Cho, Kyungjae Lee, Sangdoo Yun, and Sungjoon Choi, "*Hierarchical Vision Language Action Model Using Success and Failure Demonstrations*," https://vine-vla.github.io/, December 2025. \n[https://arxiv.org/abs/2512.03913 Link]
 . Jason J. Choi, Christopher A. Strong, Koushil Sreenath, Namhoon Cho, and Claire J. Tomlin, "*Data-Driven Hamiltonian for Direct Construction of Safe Set from Trajectory Data*," arXiv:2504.03233, April 2025. \n[https://arxiv.org/abs/2504.03233 Link]
 . Namhoon Cho, Seokwon Lee, and Hyo-Sang Shin, "*Synchronisation-Oriented Design Approach for Adaptive Control*," arXiv:2403.09179, March 2024. \n[https://arxiv.org/abs/2403.09179 Link]
 . Namhoon Cho, and Hyo-Sang Shin, "*Automatic Optimisation of Normalised Neural Networks*," arXiv:2312.10672, December 2023. \n[https://arxiv.org/abs/2312.10672 Link]
@@ -60,7 +61,6 @@
 == Conferences
 . Bhaskar Biswas, Abubakar Ibrahim, Hyo-Sang Shin, Venkatraman Renganathan, Namhoon Cho, and Dmitry Ignatyev, "*Region of Attraction Estimation Using Parallel Computing in Sum-of-Squares Optimization*," /24th European Control Conference/, Reykjavík, Iceland, July 2026. Submitted 
 . Jonghyun Woo, Yeongho Kim, Namhoon Cho, and Seokwon Lee, "*Safety-Critical Control using Probabilistic Cascaded Control Barrier Function*," /8th CEAS EuroGNC Conference/, Madrid, Spain, May 2026. Submitted 
-. Namhoon Cho, and Hyo-Sang Shin, "*Two-Stage Recursive Least Squares with Orthogonal Recursive Fitting for Consistent Initialisation*," /Guidance, Navigation, and Control Conference, AIAA Science and Technology Forum/, Orlando, FL, USA, January 2026. Accepted 
 . Jason J. Choi, Christopher A. Strong, Koushil Sreenath, Namhoon Cho, and Claire J. Tomlin, "*Data-Driven Hamiltonian for Direct Construction of Safe Set from Trajectory Data*," /64th IEEE Conference on Decision and Control/, Rio de Janeiro, Brazil, December 2025. also presented in The 7th NorCal Control Workshop on 25 April 2025 
 . Yeji Kim, Seungshin Lee, Hae-In Lee, Namhoon Cho, and Seungkeun Kim, "*Virtual Sensor Design for Hexacopter UAV Using Physics-Informed Neural ODE*," /13th International Conference on Robot Intelligence Technology and Applications/, London, UK, December 2025. 
 . Pol Padilla, Zahra Shahbazi, Farid Rassouli, Paris Chatzithanos, Mariusz Wisniewski, Yi Gou, Weisi Guo, Namhoon Cho, and Dmitry Ignatyev, "*Safe Sim-to-Real Implementation of DRL-Based UAS Navigation in GNSS-Denied Environments*," /13th International Conference on Robot Intelligence Technology and Applications/, London, UK, December 2025. 
