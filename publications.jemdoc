@@ -18,6 +18,7 @@
 . Namhoon Cho, Hyo-Sang Shin, and Antonios Tsourdos, "*Optimisation of Structured Neural Controller Based on Continuous-Time Policy Gradient*," arXiv:2201.06262, January 2022. \n[https://arxiv.org/abs/2201.06262 Link]
 
 == Journals
+. Pol Padilla, Namhoon Cho, and Antonios Tsourdos, "*Dual-Stage Risk-Aware Predictive Control System for Terrain Following Using Unmanned Aircraft with Rangefinders*," /Control Engineering Practice/, Vol. Under Review, 2026. 
 . Namhoon Cho, Seokwon Lee, and Hyo-Sang Shin, "*Synchronisation-Oriented Design Approach for Adaptive Control*," /TBD/, Vol. In Preparation, 2025. 
 . Qiuya Li, Yanning Guo, Pengyu Wang, Namhoon Cho, and Chang-Hun Lee, "*Time-to-Go Inversion Guidance for Field-of-View Limited Impact Angle and Time Control*," /IEEE Transactions on Aerospace and Electronic Systems/, Vol. Under Review, 2025. 
 . Tianhao Jiang, Namhoon Cho, Chang-Hun Lee, and Shaoming He, "*Vector Form of Optimal Error Dynamics for Multidimensional Guidance Problems*," /Journal of Guidance, Control, and Dynamics/, Vol. Under Review, 2025. 
@@ -59,6 +60,7 @@
 . Chulwoo Park, Namhoon Cho, Kyunghyun Lee, and Youdan Kim, "*Formation Flight of Multiple UAVs Using Onboard Information Sharing*," /Sensors/, Vol. 15, No. 7, pp. 17397-17419, 2015. \n[https://doi.org/10.3390/s150717397 DOI:10.3390/s150717397]
 
 == Conferences
+. Pol Padilla, Namhoon Cho, and Antonios Tsourdos, "*Dual-Stage Risk-Aware Predictive Control System for Terrain Following Using Unmanned Aircraft with Rangefinders*," /23rd IFAC World Congress/, Busan, South Korea, August 2026. Submitted 
 . Bhaskar Biswas, Abubakar Ibrahim, Hyo-Sang Shin, Venkatraman Renganathan, Namhoon Cho, and Dmitry Ignatyev, "*Region of Attraction Estimation Using Parallel Computing in Sum-of-Squares Optimization*," /24th European Control Conference/, Reykjavík, Iceland, July 2026. Submitted 
 . Jonghyun Woo, Yeongho Kim, Namhoon Cho, and Seokwon Lee, "*Safety-Critical Control using Probabilistic Cascaded Control Barrier Function*," /8th CEAS EuroGNC Conference/, Madrid, Spain, May 2026. Submitted 
 . Jason J Choi, Christopher A Strong, Koushil Sreenath, Namhoon Cho, and Claire J Tomlin, "*Data-Driven Hamiltonian for Direct Construction of Safe Set from Trajectory Data*," /64th IEEE Conference on Decision and Control/, Rio de Janeiro, Brazil, December 2025. also presented in The 7th NorCal Control Workshop on 25 April 2025 \n[https://doi.org/10.1109/CDC57313.2025.11312763 DOI:10.1109/CDC57313.2025.11312763]
