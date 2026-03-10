@@ -7,6 +7,7 @@
 . Namhoon Cho, "*Nonlinear Guidance Law for Three-Dimensional Path-Following Based on Differential Geometry*," PhD Dissertation, Department of Mechanical and Aerospace Engineering, Seoul National University, Seoul, South Korea, 2017. \n[https://hdl.handle.net/10371/118598 Link]
 
 == Preprints
+. Johannes Autenrieb, Mark Spiller, Hyo-Sang Shin, and Namhoon Cho, "*Combinatorial Safety-Critical Coordination of Multi-Agent Systems via Mixed-Integer Responsibility Allocation and Control Barrier Functions*," arXiv:2603.05762, March 2026. \n[https://arxiv.org/abs/2603.05762 Link]
 . Jeongeun Park, Jihwan Yoon, Byungwoo Jeon, Juhan Park, Jinwoo Shin, Namhoon Cho, Kyungjae Lee, Sangdoo Yun, and Sungjoon Choi, "*Hierarchical Vision Language Action Model Using Success and Failure Demonstrations*," arXiv:2512.03913, December 2025. \n[https://arxiv.org/abs/2512.03913 Link]
 . Jason J Choi, Christopher A Strong, Koushil Sreenath, Namhoon Cho, and Claire J Tomlin, "*Data-Driven Hamiltonian for Direct Construction of Safe Set from Trajectory Data*," arXiv:2504.03233, April 2025. \n[https://arxiv.org/abs/2504.03233 Link]
 . Namhoon Cho, Seokwon Lee, and Hyo-Sang Shin, "*Synchronisation-Oriented Design Approach for Adaptive Control*," arXiv:2403.09179, March 2024. \n[https://arxiv.org/abs/2403.09179 Link]
@@ -60,8 +61,11 @@
 . Chulwoo Park, Namhoon Cho, Kyunghyun Lee, and Youdan Kim, "*Formation Flight of Multiple UAVs Using Onboard Information Sharing*," /Sensors/, Vol. 15, No. 7, pp. 17397-17419, 2015. \n[https://doi.org/10.3390/s150717397 DOI:10.3390/s150717397]
 
 == Conferences
+. Johannes Autenrieb, Mark Spiller, Hyo-Sang Shin, and Namhoon Cho, "*Combinatorial Safety-Critical Coordination of Multi-Agent Systems via Mixed-Integer
+Responsibility Allocation and Control Barrier Functions*," //, ,  2026. 
+. Johannes Autenrieb, Mark Spiller, Hyo-Sang Shin, and Namhoon Cho, "*Combinatorial Safety-Critical Coordination of Multi-Agent Systems via Mixed-Integer Responsibility Allocation and Control Barrier Functions*," /65th IEEE Conference on Decision and Control/, Honolulu, HI, USA, December 2026. Submitted 
 . Pol Padilla, Namhoon Cho, and Antonios Tsourdos, "*Dual-Stage Risk-Aware Predictive Control System for Terrain Following Using Unmanned Aircraft with Rangefinders*," /23rd IFAC World Congress/, Busan, South Korea, August 2026. Submitted 
-. Bhaskar Biswas, Abubakar Ibrahim, Hyo-Sang Shin, Venkatraman Renganathan, Namhoon Cho, and Dmitry Ignatyev, "*Region of Attraction Estimation Using Parallel Computing in Sum-of-Squares Optimization*," /24th European Control Conference/, Reykjavík, Iceland, July 2026. Submitted 
+. Abubakar Ibrahim, Namhoon Cho, Venkatraman Renganathan, Bhaskar Biswas, and Dmitry Ignatyev, "*Sum of Squares for Region of Attraction Estimation with Parallel Computing and Multiple Shape Functions*," /15th UKACC International Conference on Control/, Newcastle upon Tyne, UK, June 2026. Submitted 
 . Jonghyun Woo, Yeongho Kim, Namhoon Cho, and Seokwon Lee, "*Safety-Critical Control using Probabilistic Cascaded Control Barrier Function*," /8th CEAS EuroGNC Conference/, Madrid, Spain, May 2026. Submitted 
 . Jason J Choi, Christopher A Strong, Koushil Sreenath, Namhoon Cho, and Claire J Tomlin, "*Data-Driven Hamiltonian for Direct Construction of Safe Set from Trajectory Data*," /64th IEEE Conference on Decision and Control/, Rio de Janeiro, Brazil, December 2025. also presented in The 7th NorCal Control Workshop on 25 April 2025 \n[https://doi.org/10.1109/CDC57313.2025.11312763 DOI:10.1109/CDC57313.2025.11312763]
 . Yeji Kim, Seungshin Lee, Hae-In Lee, Namhoon Cho, and Seungkeun Kim, "*Virtual Sensor Design for Hexacopter UAV Using Physics-Informed Neural ODE*," /13th International Conference on Robot Intelligence Technology and Applications/, London, UK, December 2025. 
@@ -72,7 +76,7 @@
 . Namhoon Cho, Youngjae Min, Hyo-Sang Shin, and Navid Azizan, "*$\Pi$-ORFit: One-Pass Learning with Bregman Projection*," /43rd American Control Conference/, Toronto, Canada, July 2024. \n[https://doi.org/10.23919/ACC60939.2024.10644991 DOI:10.23919/ACC60939.2024.10644991]
 . Namhoon Cho, Taeyoon Lee, and Hyo-Sang Shin, "*Recursive Least Squares with Log-Determinant Divergence Regularisation for Online Inertia Identification*," /41st IEEE International Conference on Robotics and Automation/, Yokohama, Japan, May 2024. \n[https://doi.org/10.1109/ICRA57147.2024.10610389 DOI:10.1109/ICRA57147.2024.10610389]
 . Namhoon Cho, Hyo-Sang Shin, Youdan Kim, and Antonios Tsourdos, "*Composite Model Reference Adaptive Control under Finite Excitation with Unstructured Uncertainties*," /62nd IEEE Conference on Decision and Control/, Marina Bay Sands, Singapore, December 2023. \n[https://doi.org/10.1109/CDC49753.2023.10383834 DOI:10.1109/CDC49753.2023.10383834]
-. Namhoon Cho, and Davide Amato, "*Enforcing State Constraints in Dynamical Systems Modelled with Neural Networks*," /4th Workshop on Machine Learning and Data Assimilation for Dynamical Systems, 22nd International Conference on Computational Science/, London, United Kingdom, June 2022. \n[http://hdl.handle.net/10044/1/99648 Link]
+. Namhoon Cho, and Davide Amato, "*Enforcing State Constraints in Dynamical Systems Modelled with Neural Networks*," /4th Workshop on Machine Learning and Data Assimilation for Dynamical Systems, 22nd International Conference on Computational Science/, London, UK, June 2022. \n[http://hdl.handle.net/10044/1/99648 Link]
 . Namhoon Cho, Youngil Kim, Hyo-Sang Shin, and Youdan Kim, "*Guidance of Gliding Vehicles with Energy Management Based on Approximate Prediction of Speed*," /6th CEAS EuroGNC Conference/, Berlin, Germany, May 2022. \n[https://eurognc.ceas.org/archive/EuroGNC2022/html/CEAS-GNC-2022-071.html Link]
 . Namhoon Cho, "*Nonlinear Optimal Missile Guidance for Stationary Target Interception with Pendulum Motion Perspective*," /40th American Control Conference/, Virtual (New Orleans, LA, USA), May 2021. \n[https://doi.org/10.23919/ACC50511.2021.9483418 DOI:10.23919/ACC50511.2021.9483418]
 . Namhoon Cho, Jinrae Kim, and Seokwon Lee, "*Feasible Initial Conditions for Bias Proportional Navigation Guidance Laws Under Look Angle Constraints*," /28th Mediterranean Conference on Control and Automation/, Virtual (Saint-Raphael, France), September 2020. \n[https://doi.org/10.1109/MED48518.2020.9183280 DOI:10.1109/MED48518.2020.9183280]
@@ -102,6 +106,8 @@
 . Namhoon Cho, "*Design of Attitude Tracking Control Law with Proportional-Integral Feedback over Attitude Error*," /Agency for Defense Development/, ADDR-401-192532, October 2019.
 
 == National Conferences
+. Jaewon Kim, Sooyung Byeon, Inseok Hwang, and Namhoon Cho, "*UAV Path Planning for Urban Crowd Risk Assessment Based on Fluid Dynamics Similarity*," /KSAS Spring Conference/, Jeju, South Korea, April 2026. 
+. Jaeyoung Lee, and Namhoon Cho, "*Hamilton-Jacobi Reachability Analysis via Neural Approximate Dynamic Programming*," /KSAS Spring Conference/, Jeju, South Korea, April 2026. 
 . Namhoon Cho, "*Model Reference Control via Synchronisation*," /21st KROS Annual Conference/, Pyeongchang, South Korea, February 2026. 
 . Seokwon Lee, and Namhoon Cho, "*Inverse Optimality of Information-Seeking Proportional Navigation Guidance Laws*," /KSAS Spring Conference/, Jeju, South Korea, April 2025. 
 . Namhoon Cho, "*Efficient Trajectory Optimisation Based on Interior Point Method*," /KSAS Fall Conference/, Jeju, South Korea, November 2020. \n[https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE10526421 Link]
