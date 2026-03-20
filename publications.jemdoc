@@ -19,7 +19,8 @@
 . Namhoon Cho, Hyo-Sang Shin, and Antonios Tsourdos, "*Optimisation of Structured Neural Controller Based on Continuous-Time Policy Gradient*," arXiv:2201.06262, January 2022. \n[https://arxiv.org/abs/2201.06262 Link]
 
 == Journals
-. Pol Padilla, Namhoon Cho, and Antonios Tsourdos, "*Dual-Stage Risk-Aware Predictive Control System for Terrain Following Using Unmanned Aircraft with Rangefinders*," /Control Engineering Practice/, Vol. Under Review, 2026. 
+. Johannes Autenrieb, Mark Spiller, Hyo-Sang Shin, and Namhoon Cho, "*Combinatorial Safety-Critical Coordination of Multi-Agent Systems via Mixed-Integer Responsibility Allocation and Control Barrier Functions*," /IEEE Control Systems Letters/, Vol. Under Review, 2026. 
+. Pol Padilla, Namhoon Cho, and Antonios Tsourdos, "*Dual-Stage Risk-Aware Predictive Control System for Terrain Following Using Unmanned Aircraft with Rangefinders*," /Control Engineering Practice/, Vol. Accepted, 2026. 
 . Namhoon Cho, Seokwon Lee, and Hyo-Sang Shin, "*Synchronisation-Oriented Design Approach for Adaptive Control*," /TBD/, Vol. In Preparation, 2025. 
 . Qiuya Li, Yanning Guo, Pengyu Wang, Namhoon Cho, and Chang-Hun Lee, "*Time-to-Go Inversion Guidance for Field-of-View Limited Impact Angle and Time Control*," /IEEE Transactions on Aerospace and Electronic Systems/, Vol. Under Review, 2025. 
 . Tianhao Jiang, Namhoon Cho, Chang-Hun Lee, and Shaoming He, "*Vector Form of Optimal Error Dynamics for Multidimensional Guidance Problems*," /Journal of Guidance, Control, and Dynamics/, Vol. Under Review, 2025. 
@@ -61,8 +62,6 @@
 . Chulwoo Park, Namhoon Cho, Kyunghyun Lee, and Youdan Kim, "*Formation Flight of Multiple UAVs Using Onboard Information Sharing*," /Sensors/, Vol. 15, No. 7, pp. 17397-17419, 2015. \n[https://doi.org/10.3390/s150717397 DOI:10.3390/s150717397]
 
 == Conferences
-. Johannes Autenrieb, Mark Spiller, Hyo-Sang Shin, and Namhoon Cho, "*Combinatorial Safety-Critical Coordination of Multi-Agent Systems via Mixed-Integer
-Responsibility Allocation and Control Barrier Functions*," //, ,  2026. 
 . Johannes Autenrieb, Mark Spiller, Hyo-Sang Shin, and Namhoon Cho, "*Combinatorial Safety-Critical Coordination of Multi-Agent Systems via Mixed-Integer Responsibility Allocation and Control Barrier Functions*," /65th IEEE Conference on Decision and Control/, Honolulu, HI, USA, December 2026. Submitted 
 . Pol Padilla, Namhoon Cho, and Antonios Tsourdos, "*Dual-Stage Risk-Aware Predictive Control System for Terrain Following Using Unmanned Aircraft with Rangefinders*," /23rd IFAC World Congress/, Busan, South Korea, August 2026. Submitted 
 . Abubakar Ibrahim, Namhoon Cho, Venkatraman Renganathan, Bhaskar Biswas, and Dmitry Ignatyev, "*Sum of Squares for Region of Attraction Estimation with Parallel Computing and Multiple Shape Functions*," /15th UKACC International Conference on Control/, Newcastle upon Tyne, UK, June 2026. Submitted 
