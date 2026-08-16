@@ -1,0 +1,14 @@
+# jemdoc: menu{MENU}{seminar.html}, notime
+= AAI Seminar
+- Playlist
+{{<iframe width="560" height="315" src="https://www.youtube.com/embed/videoseries?si=_ms2k-Avkv8vBrZX&amp;list=PLUKMjnxSW23V-sWj5tpbov9UwfwCgKuTu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>}}
+
+== 2026
+- 
+
+== 2025
+- Sander Tonkens (University of California, San Diego) / 26 September
+[https://youtu.be/76x6iDpev2o Safety on the Fly: Scaling HJ Reachability through Leveraging Structure and Online Adaptation]
+
+- Joohwan Seo (University of California, Berkeley) / 26 September
+[https://youtu.be/Uu6yyPfMLnw Geometric Learning and Control on SE(3) for Robotic Manipulators]
