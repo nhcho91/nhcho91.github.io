@@ -286,7 +286,7 @@ def create_research_file(db, format, outname, main_author, initials):
 
             if koreanconferences:
                 koreanconferences.sort(reverse=True, key=access_year)
-                the_file.write('== National Conferences\n')
+                the_file.write('== Korean Journals and Conferences \n')
                 for koreanconference in koreanconferences:
                     the_file.write('. ' + koreanconference[0] + '\n')
                 the_file.write('\n')

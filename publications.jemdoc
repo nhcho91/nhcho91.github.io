@@ -20,6 +20,7 @@
 . Namhoon Cho, Hyo-Sang Shin, and Antonios Tsourdos, "*Optimisation of Structured Neural Controller Based on Continuous-Time Policy Gradient*," arXiv:2201.06262, January 2022. \n[https://arxiv.org/abs/2201.06262 Link]
 
 == Journals
+. Seokwon Lee, Yeongho Kim, Jonghyun Woo, and Namhoon Cho, "*Cascaded Control Barrier Functions for Layer-Wise Safety Filtering of Strict-Feedback Nonlinear Systems*," /International Journal of Robust and Nonlinear Control/, Vol. Under Review, 2026. 
 . Youngjun Lee, Namhoon Cho, Youdan Kim, and Seokwon Lee, "*Optimality Analysis for Velocity-Maximizing Agile Turn Problem*," /Journal of Guidance, Control, and Dynamics/, Vol. Under Review, 2026. 
 . Tianhao Jiang, Namhoon Cho, Chang-Hun Lee, and Shaoming He, "*Vector Form of Optimal Error Dynamics for Multidimensional Guidance Problems*," /Journal of Guidance, Control, and Dynamics/, Vol. Under Review, 2026. 
 . Youngjae Min, Kwangjun Ahn, Namhoon Cho, and Navid Azizan, "*ORFit: One-Pass Learning via Bridging Orthogonal Gradient Descent and Recursive Least Squares*," /Automatica/, Vol. Under Review, 2026. 
@@ -103,7 +104,9 @@
 . Namhoon Cho, "*Comparison of Performance Characteristics Between Pitch Attitude and Acceleration Controllers with Different Loop Structures*," /Agency for Defense Development/, ADDR-401-192531, October 2019.
 . Namhoon Cho, "*Design of Attitude Tracking Control Law with Proportional-Integral Feedback over Attitude Error*," /Agency for Defense Development/, ADDR-401-192532, October 2019.
 
-== National Conferences
+== Korean Journals and Conferences 
+. Jungwon Kim, and Namhoon Cho, "*Quadrotor Trajectory Tracking via Model-Reference Residual Reinforcement Learning*," /KSAS Fall Conference/, Jeongsun, South Korea, November 2026. 
+. Alim Pyon, and Namhoon Cho, "*Simulator-as-Verifier Agent-in-the-Loop Diagnosis of Interceptor Failure Modes*," /KSAS Fall Conference/, Jeongsun, South Korea, November 2026. 
 . Wongi Kim, Minchan Song, Hyungbin Kim, Yoojeong Seo, Alim Pyon, Seokwon Lee, Namhoon Cho, and Jaemyung Ahn, "*Performance Assessment and Sensitivity Analysis of a Multistage High-Altitude Defense Missile*," /Journal of the Korean Society for Aeronautical and Space Sciences/, ,  2026. 
 . Seokwon Lee, Wongi Kim, Minchan Song, Hyungbin Kim, Yoojeong Seo, Alim Pyon, Youdan Kim, Namhoon Cho, Hyosung Tak, Youngil Kim, and Jaemyung Ahn, "*Research Trends in Guidance and Control for High-Altitude Defense*," /KIMST Annual Conference/, Jeju, South Korea, June 2026. 
 . Namhoon Cho, "*Integration of Learning and Control for Aerospace Applications*," /KSPE Spring Conference/, Jeju, South Korea, May 2026. 
